@@ -123,21 +123,23 @@
 
 -(void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender{
     if (sender == self.searchDisplayController.searchResultsTableView) {
-        DetailViewController *EVC = [segue destinationViewController];
+        DetailViewController *DVC = [segue destinationViewController];
        
         
         NSIndexPath *indexPath = [self.searchDisplayController.searchResultsTableView indexPathForSelectedRow];
         if (indexPath.section==0) {
-            [EVC setTitle:[[self.mensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Name"]];
-            [EVC setRuleString:[[self.mensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Rules"]];
-            [EVC setDescriptionString:[[self.mensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Description"]];
+            [DVC setRuleString:[[self.mensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Rules"]];
+            [DVC setDescriptionString:[[self.mensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Description"]];
+            NSString *string = [NSString stringWithFormat:@"Men's %@",[[self.mensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Name"]];
+            [DVC setNameString:string];
 
 
         }
         else{
-            [EVC setTitle:[[self.womensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Name"]];
-            [EVC setRuleString:[[self.womensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Rules"]];
-            [EVC setDescriptionString:[[self.womensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Description"]];
+            [DVC setRuleString:[[self.womensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Rules"]];
+            [DVC setDescriptionString:[[self.womensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Description"]];
+            NSString *string = [NSString stringWithFormat:@"Women's %@",[[self.womensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Name"]];
+            [DVC setNameString:string];
         }
       
 
