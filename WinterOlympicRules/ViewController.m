@@ -54,27 +54,31 @@
     // Remove all objects from the filtered search array
     [self.filteredArray removeAllObjects];
     // Filter the array using NSPredicate
-    NSPredicate *predicate = [NSPredicate predicateWithFormat:@"SELF['Sport'] CONTAINS[cd] %@",searchText];
-    self.filteredArray = [NSMutableArray arrayWithArray:[sportsArray filteredArrayUsingPredicate:predicate]];
+   // NSPredicate*p= [NSPredicate predicateWithFormat:@"ANY %K LIKE[cd] %@",@"Sport",[searchText stringByAppendingString:@"*"]];
+
+    NSPredicate *predicate1 = [NSPredicate predicateWithFormat:@"SELF.Sport CONTAINS[cd] %@",searchText];
+    NSPredicate *predicate2 = [NSPredicate predicateWithFormat:@"SELF['Sport'] CONTAINS[cd] %@",searchText];
+
+   // NSPredicate * andPredicate = [NSCompoundPredicate andPredicateWithSubpredicates:[NSArray arrayWithObjects:predicate1,predicate2,predicate3,nil]];
+
+    
+    self.filteredArray = [NSMutableArray arrayWithArray:[sportsArray filteredArrayUsingPredicate:predicate1]];
+    
     NSLog(@"%@",self.filteredArray);
 }
 #pragma mark - UISearchDisplayController Delegate Methods
--(BOOL)searchDisplayController:(UISearchDisplayController *)controller shouldReloadTableForSearchString:(NSString *)searchString {
+
+- (BOOL)searchDisplayController:(UISearchDisplayController *)controller shouldReloadTableForSearchString:(NSString *)searchString
+{
     // Tells the table data source to reload when text changes
     [self filterContentForSearchText:searchString scope:
      [[self.searchDisplayController.searchBar scopeButtonTitles] objectAtIndex:[self.searchDisplayController.searchBar selectedScopeButtonIndex]]];
+    
     // Return YES to cause the search result table view to be reloaded.
-    NSLog(@"Called");
     return YES;
 }
 
--(BOOL)searchDisplayController:(UISearchDisplayController *)controller shouldReloadTableForSearchScope:(NSInteger)searchOption {
-    // Tells the table data source to reload when scope bar selection changes
-    [self filterContentForSearchText:self.searchDisplayController.searchBar.text scope:
-     [[self.searchDisplayController.searchBar scopeButtonTitles] objectAtIndex:searchOption]];
-    // Return YES to cause the search result table view to be reloaded.
-    return YES;
-}
+
 
 
 
@@ -82,12 +86,13 @@
     if ([segue.identifier isEqualToString:@"EventsViewController"]) {
         EventsViewController *EVC = [segue destinationViewController];
         
-        NSIndexPath *indexPath = [self.tableView indexPathForSelectedRow];
-        if (self.tableView == self.searchDisplayController.searchResultsTableView) {
+        if (sender == self.searchDisplayController.searchResultsTableView) {
+            NSIndexPath *indexPath = [self.searchDisplayController.searchResultsTableView indexPathForSelectedRow];
             [EVC setTitle:[[self.filteredArray objectAtIndex:indexPath.row]objectForKey:@"Sport"]];
             [EVC setEvents:[self.filteredArray objectAtIndex:indexPath.row]];
         }
         else{
+            NSIndexPath *indexPath = [self.tableView indexPathForSelectedRow];
             [EVC setTitle:[[sportsArray objectAtIndex:indexPath.row]objectForKey:@"Sport"]];
             [EVC setEvents:[sportsArray objectAtIndex:indexPath.row]];
         }
@@ -111,7 +116,7 @@
 {
     // Return the number of rows in the section.
     
-    if (self.tableView == self.searchDisplayController.searchResultsTableView) {
+    if (tableView == self.searchDisplayController.searchResultsTableView) {
         return self.filteredArray.count;
     }
     else
@@ -127,7 +132,7 @@
     }
     
     // Configure the cell...
-    if (self.tableView == self.searchDisplayController.searchResultsTableView) {
+    if (tableView == self.searchDisplayController.searchResultsTableView) {
         cell.textLabel.text=[[self.filteredArray objectAtIndex:indexPath.row]objectForKey:@"Sport"];
     }
     else
@@ -136,7 +141,10 @@
 }
 
 
+-(void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath{
+    [self performSegueWithIdentifier:@"EventsViewController" sender:tableView];
 
+}
 
 
 
