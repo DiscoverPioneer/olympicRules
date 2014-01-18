@@ -12,7 +12,7 @@
 @interface ViewController (){
     NSMutableArray *sportsArray;
     UISearchDisplayController *searchDisplayController;
-
+   
 }
 
 @end
@@ -40,7 +40,7 @@
     [self.sportSearchBar sizeToFit];
 
     
-    
+
    
     
     
@@ -99,7 +99,7 @@
             //Do the comparison here
         }
     }
-    NSLog(@"Count=%lu",(unsigned long)self.womensFilteredArray.count);
+    //NSLog(@"Count=%lu",(unsigned long)self.womensFilteredArray.count);
     
     
 
@@ -132,6 +132,7 @@
             [DVC setDescriptionString:[[self.mensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Description"]];
             NSString *string = [NSString stringWithFormat:@"Men's %@",[[self.mensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Name"]];
             [DVC setNameString:string];
+
 
         }
         else{
