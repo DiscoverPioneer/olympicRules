@@ -21,6 +21,8 @@
 		09ED72F6188A04A500257CDF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 09ED72D8188A04A400257CDF /* UIKit.framework */; };
 		09ED72FE188A04A500257CDF /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 09ED72FC188A04A500257CDF /* InfoPlist.strings */; };
 		09ED7300188A04A500257CDF /* WinterOlympicRulesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 09ED72FF188A04A500257CDF /* WinterOlympicRulesTests.m */; };
+		09ED730B188A077300257CDF /* EventsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 09ED730A188A077300257CDF /* EventsViewController.m */; };
+		09ED730E188A077C00257CDF /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 09ED730D188A077C00257CDF /* DetailViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,10 @@
 		09ED72FB188A04A500257CDF /* WinterOlympicRulesTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "WinterOlympicRulesTests-Info.plist"; sourceTree = "<group>"; };
 		09ED72FD188A04A500257CDF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		09ED72FF188A04A500257CDF /* WinterOlympicRulesTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WinterOlympicRulesTests.m; sourceTree = "<group>"; };
+		09ED7309188A077300257CDF /* EventsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EventsViewController.h; sourceTree = "<group>"; };
+		09ED730A188A077300257CDF /* EventsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EventsViewController.m; sourceTree = "<group>"; };
+		09ED730C188A077B00257CDF /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		09ED730D188A077C00257CDF /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +123,10 @@
 				09ED72E6188A04A500257CDF /* Main.storyboard */,
 				09ED72E9188A04A500257CDF /* ViewController.h */,
 				09ED72EA188A04A500257CDF /* ViewController.m */,
+				09ED7309188A077300257CDF /* EventsViewController.h */,
+				09ED730A188A077300257CDF /* EventsViewController.m */,
+				09ED730C188A077B00257CDF /* DetailViewController.h */,
+				09ED730D188A077C00257CDF /* DetailViewController.m */,
 				09ED72EC188A04A500257CDF /* Images.xcassets */,
 				09ED72DB188A04A400257CDF /* Supporting Files */,
 			);
@@ -249,7 +259,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				09ED730E188A077C00257CDF /* DetailViewController.m in Sources */,
 				09ED72EB188A04A500257CDF /* ViewController.m in Sources */,
+				09ED730B188A077300257CDF /* EventsViewController.m in Sources */,
 				09ED72E5188A04A500257CDF /* AppDelegate.m in Sources */,
 				09ED72E1188A04A500257CDF /* main.m in Sources */,
 			);

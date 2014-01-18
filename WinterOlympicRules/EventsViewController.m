@@ -1,30 +1,36 @@
 //
-//  ViewController.m
+//  EventsViewController.m
 //  WinterOlympicRules
 //
 //  Created by Phil Scarfi on 1/17/14.
 //  Copyright (c) 2014 Pioneer Mobile Applications. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "EventsViewController.h"
 
-@interface ViewController (){
-    NSMutableArray *sportsArray;
+@interface EventsViewController (){
+    NSMutableArray *eventsArray;
 }
 
 @end
 
-@implementation ViewController
+@implementation EventsViewController
+
+- (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
+{
+    self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
+    if (self) {
+        // Custom initialization
+    }
+    return self;
+}
 
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
-    sportsArray =[[NSMutableArray alloc]initWithObjects:@"Alpine",@"Bobsled",@"Cross Country Ski", nil];
-    
+	// Do any additional setup after loading the view.
+    eventsArray = [[NSMutableArray alloc]initWithObjects:@"10km",@"15km", nil];
 }
-
-
 
 #pragma mark - Table view data source
 
@@ -37,7 +43,7 @@
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
 {
     // Return the number of rows in the section.
-    return sportsArray.count;
+    return eventsArray.count;
 }
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
@@ -50,14 +56,9 @@
     
     // Configure the cell...
     
-    cell.textLabel.text=[sportsArray objectAtIndex:indexPath.row];
+    cell.textLabel.text=[eventsArray objectAtIndex:indexPath.row];
     return cell;
 }
-
-
-
-
-
 
 
 
