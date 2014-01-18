@@ -12,7 +12,7 @@
 @interface ViewController (){
     NSMutableArray *sportsArray;
     UISearchDisplayController *searchDisplayController;
-
+   
 }
 
 @end
@@ -40,7 +40,7 @@
     [self.sportSearchBar sizeToFit];
 
     
-    
+
    
     
     
@@ -99,7 +99,7 @@
             //Do the comparison here
         }
     }
-    NSLog(@"Count=%lu",(unsigned long)self.womensFilteredArray.count);
+    //NSLog(@"Count=%lu",(unsigned long)self.womensFilteredArray.count);
     
     
 
@@ -131,6 +131,7 @@
             [EVC setTitle:[[self.mensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Name"]];
             [EVC setRuleString:[[self.mensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Rules"]];
             [EVC setDescriptionString:[[self.mensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Description"]];
+
 
         }
         else{
