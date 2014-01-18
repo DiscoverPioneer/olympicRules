@@ -7,9 +7,10 @@
 //
 
 #import "EventsViewController.h"
-
+#import "DetailViewController.h"
 @interface EventsViewController (){
-    NSMutableArray *eventsArray;
+    NSArray *mensArray;
+    NSArray *womensArray;
 }
 
 @end
@@ -29,7 +30,9 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view.
-    eventsArray = [[NSMutableArray alloc]initWithObjects:@"10km",@"15km", nil];
+    mensArray =[[NSArray alloc]initWithArray:[self.events objectForKey:@"Mens"]];
+    womensArray =[[NSArray alloc]initWithArray:[self.events objectForKey:@"Womens"]];
+
 }
 
 #pragma mark - Table view data source
@@ -37,13 +40,24 @@
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView
 {
     // Return the number of sections.
-    return 1;
+    return 2;
 }
 
+- (NSString *)tableView:(UITableView *)tableView titleForHeaderInSection:(NSInteger)section
+{
+    if(section==0)
+        return @"Men";
+    else
+        return @"Women";
+}
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
 {
     // Return the number of rows in the section.
-    return eventsArray.count;
+    if (section==0) {
+        return mensArray.count;
+    }
+    else
+        return womensArray.count;
 }
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
@@ -55,13 +69,37 @@
     }
     
     // Configure the cell...
-    
-    cell.textLabel.text=[eventsArray objectAtIndex:indexPath.row];
+    if (indexPath.section==0) {
+        cell.textLabel.text = [[mensArray objectAtIndex:indexPath.row]objectForKey:@"Name"];
+    }
+    else{
+        cell.textLabel.text = [[womensArray objectAtIndex:indexPath.row]objectForKey:@"Name"];
+
+    }
     return cell;
 }
 
 
+-(void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender{
+    if ([segue.identifier isEqualToString:@"DetailViewController"]) {
+        DetailViewController *DVC = [segue destinationViewController];
+        NSIndexPath *indexPath = [self.tableView indexPathForSelectedRow];
+        if (indexPath.section==0) {
+            [DVC setRuleString:[[mensArray objectAtIndex:indexPath.row]objectForKey:@"Rules"]];
+            [DVC setDescriptionString:[[mensArray objectAtIndex:indexPath.row]objectForKey:@"Description"]];
+            NSString *string = [NSString stringWithFormat:@"Men's %@",[[mensArray objectAtIndex:indexPath.row]objectForKey:@"Name"]];
+            [DVC setNameString:string];
 
+        }
+        else{
+            [DVC setRuleString:[[womensArray objectAtIndex:indexPath.row]objectForKey:@"Rules"]];
+            [DVC setDescriptionString:[[womensArray objectAtIndex:indexPath.row]objectForKey:@"Description"]];
+            NSString *string = [NSString stringWithFormat:@"Women's %@",[[womensArray objectAtIndex:indexPath.row]objectForKey:@"Name"]];
+            [DVC setNameString:string];
+        }
+        
+    }
+}
 
 
 

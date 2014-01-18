@@ -23,6 +23,7 @@
 		09ED7300188A04A500257CDF /* WinterOlympicRulesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 09ED72FF188A04A500257CDF /* WinterOlympicRulesTests.m */; };
 		09ED730B188A077300257CDF /* EventsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 09ED730A188A077300257CDF /* EventsViewController.m */; };
 		09ED730E188A077C00257CDF /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 09ED730D188A077C00257CDF /* DetailViewController.m */; };
+		09ED7310188A177D00257CDF /* Sports.plist in Resources */ = {isa = PBXBuildFile; fileRef = 09ED730F188A177D00257CDF /* Sports.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		09ED730A188A077300257CDF /* EventsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EventsViewController.m; sourceTree = "<group>"; };
 		09ED730C188A077B00257CDF /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
 		09ED730D188A077C00257CDF /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		09ED730F188A177D00257CDF /* Sports.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Sports.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +129,7 @@
 				09ED730A188A077300257CDF /* EventsViewController.m */,
 				09ED730C188A077B00257CDF /* DetailViewController.h */,
 				09ED730D188A077C00257CDF /* DetailViewController.m */,
+				09ED730F188A177D00257CDF /* Sports.plist */,
 				09ED72EC188A04A500257CDF /* Images.xcassets */,
 				09ED72DB188A04A400257CDF /* Supporting Files */,
 			);
@@ -239,6 +242,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				09ED72ED188A04A500257CDF /* Images.xcassets in Resources */,
+				09ED7310188A177D00257CDF /* Sports.plist in Resources */,
 				09ED72DF188A04A400257CDF /* InfoPlist.strings in Resources */,
 				09ED72E8188A04A500257CDF /* Main.storyboard in Resources */,
 			);

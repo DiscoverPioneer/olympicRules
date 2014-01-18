@@ -8,6 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UITableViewController<UISearchBarDelegate,UISearchDisplayDelegate>
+
+
+@property (strong,nonatomic) NSMutableArray *filteredArray;
+@property (strong, nonatomic) IBOutlet UISearchBar *sportSearchBar;
 
 @end

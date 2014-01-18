@@ -10,4 +10,10 @@
 
 @interface DetailViewController : UIViewController
 
+@property (strong,nonatomic)NSString *ruleString;
+@property (strong,nonatomic)NSString *descriptionString;
+@property (strong,nonatomic)NSString *nameString;
+
+@property (strong, nonatomic) IBOutlet UITextView *textView;
+@property (strong, nonatomic) IBOutlet UILabel *detailLabel;
 @end

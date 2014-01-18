@@ -9,5 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface EventsViewController : UIViewController
+@property (strong, nonatomic) IBOutlet UITableView *tableView;
+@property (strong,nonatomic) NSDictionary *events;
 
 @end

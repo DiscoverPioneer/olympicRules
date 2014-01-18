@@ -8,7 +8,9 @@
 
 #import "DetailViewController.h"
 
-@interface DetailViewController ()
+@interface DetailViewController (){
+    NSString *completeString;
+}
 
 @end
 
@@ -27,6 +29,10 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view.
+    self.detailLabel.text = self.nameString;
+    completeString = [NSString stringWithFormat:@"Rules:\n%@\n\nDescription:\n%@",self.ruleString, self.descriptionString];
+
+    self.textView.text=completeString;
 }
 
 - (void)didReceiveMemoryWarning
