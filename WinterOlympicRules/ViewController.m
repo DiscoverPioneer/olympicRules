@@ -8,6 +8,7 @@
 
 #import "ViewController.h"
 #import "EventsViewController.h"
+#import "DetailViewController.h"
 @interface ViewController (){
     NSMutableArray *sportsArray;
     UISearchDisplayController *searchDisplayController;
@@ -33,8 +34,9 @@
     NSString *path =[[NSBundle mainBundle]pathForResource:@"Sports" ofType:@"plist"];
     sportsArray = [[NSMutableArray alloc] initWithContentsOfFile:path];
     // Initialize the filteredCandyArray with a capacity equal to the candyArray's capacity
-    self.filteredArray = [NSMutableArray arrayWithCapacity:[sportsArray count]];
-    
+    self.mensFilteredArray = [NSMutableArray arrayWithCapacity:[sportsArray count]];
+    self.womensFilteredArray = [NSMutableArray arrayWithCapacity:[sportsArray count]];
+
     [self.sportSearchBar sizeToFit];
 
     
@@ -52,19 +54,56 @@
 -(void)filterContentForSearchText:(NSString*)searchText scope:(NSString*)scope {
     // Update the filtered array based on the search text and scope.
     // Remove all objects from the filtered search array
-    [self.filteredArray removeAllObjects];
+    [self.mensFilteredArray removeAllObjects];
+    [self.womensFilteredArray removeAllObjects];
+
     // Filter the array using NSPredicate
    // NSPredicate*p= [NSPredicate predicateWithFormat:@"ANY %K LIKE[cd] %@",@"Sport",[searchText stringByAppendingString:@"*"]];
 
-    NSPredicate *predicate1 = [NSPredicate predicateWithFormat:@"SELF.Sport CONTAINS[cd] %@",searchText];
-    NSPredicate *predicate2 = [NSPredicate predicateWithFormat:@"SELF['Sport'] CONTAINS[cd] %@",searchText];
+    //NSPredicate *predicate1 = [NSPredicate predicateWithFormat:@"SELF.Sport CONTAINS[cd] %@",searchText];
+    //NSPredicate *predicate2 = [NSPredicate predicateWithFormat:@"Mens[0].Name CONTAINS[cd]  %@",searchText];
 
-   // NSPredicate * andPredicate = [NSCompoundPredicate andPredicateWithSubpredicates:[NSArray arrayWithObjects:predicate1,predicate2,predicate3,nil]];
+   // NSPredicate * andPredicate = [NSCompoundPredicate andPredicateWithSubpredicates:[NSArray arrayWithObjects:predicate1,predicate2,nil]];
 
     
-    self.filteredArray = [NSMutableArray arrayWithArray:[sportsArray filteredArrayUsingPredicate:predicate1]];
     
-    NSLog(@"%@",self.filteredArray);
+    
+    searchText = [searchText lowercaseString];
+
+    
+    for (NSDictionary *itemDict in sportsArray)
+    {
+        NSArray *mensArray = (NSArray*)[itemDict objectForKey:@"Mens"];
+        NSArray *womensArray = (NSArray*)[itemDict objectForKey:@"Womens"];
+
+        for (NSDictionary *menItemDict in mensArray)
+        {
+            NSString *name = [menItemDict objectForKey:@"Name"];
+            name = [name lowercaseString];
+            if (([name rangeOfString:searchText].location != NSNotFound) && ![self.mensFilteredArray containsObject:itemDict] ) {
+                [self.mensFilteredArray addObject:menItemDict];
+                
+            }
+        }
+            for (NSDictionary *menItemDict in womensArray)
+            {
+                NSString *name = [menItemDict objectForKey:@"Name"];
+                name = [name lowercaseString];
+                if (([name rangeOfString:searchText].location != NSNotFound) && ![self.womensFilteredArray containsObject:itemDict] ) {
+                    [self.womensFilteredArray addObject:menItemDict];
+                    
+                }
+            
+
+
+            //Do the comparison here
+        }
+    }
+    NSLog(@"Count=%lu",(unsigned long)self.womensFilteredArray.count);
+    
+    
+
+    
 }
 #pragma mark - UISearchDisplayController Delegate Methods
 
@@ -83,12 +122,49 @@
 
 
 -(void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender{
+    if (sender == self.searchDisplayController.searchResultsTableView) {
+        DetailViewController *EVC = [segue destinationViewController];
+       
+        
+        NSIndexPath *indexPath = [self.searchDisplayController.searchResultsTableView indexPathForSelectedRow];
+        if (indexPath.section==0) {
+            [EVC setTitle:[[self.mensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Name"]];
+            [EVC setRuleString:[[self.mensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Rules"]];
+            [EVC setDescriptionString:[[self.mensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Description"]];
+
+        }
+        else{
+            [EVC setTitle:[[self.womensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Name"]];
+            [EVC setRuleString:[[self.womensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Rules"]];
+            [EVC setDescriptionString:[[self.womensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Description"]];
+        }
+      
+
+        
+    }
+    else{
+        if ([segue.identifier isEqualToString:@"EventsViewController"]) {
+            EventsViewController *EVC = [segue destinationViewController];
+            NSIndexPath *indexPath = [self.tableView indexPathForSelectedRow];
+            [EVC setTitle:[[sportsArray objectAtIndex:indexPath.row]objectForKey:@"Sport"]];
+            [EVC setEvents:[sportsArray objectAtIndex:indexPath.row]];
+        }
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    /*
     if ([segue.identifier isEqualToString:@"EventsViewController"]) {
         EventsViewController *EVC = [segue destinationViewController];
         
         if (sender == self.searchDisplayController.searchResultsTableView) {
             NSIndexPath *indexPath = [self.searchDisplayController.searchResultsTableView indexPathForSelectedRow];
-            [EVC setTitle:[[self.filteredArray objectAtIndex:indexPath.row]objectForKey:@"Sport"]];
+            [EVC setTitle:[[self.filteredArray objectAtIndex:indexPath.row]objectForKey:@"Name"]];
             [EVC setEvents:[self.filteredArray objectAtIndex:indexPath.row]];
         }
         else{
@@ -97,6 +173,7 @@
             [EVC setEvents:[sportsArray objectAtIndex:indexPath.row]];
         }
     }
+     */
 }
 
 
@@ -105,11 +182,21 @@
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView
 {
     // Return the number of sections.
-    return 1;
+    if (tableView == self.searchDisplayController.searchResultsTableView)
+        return 2;
+    else
+        return 1;
 }
 - (NSString *)tableView:(UITableView *)tableView titleForHeaderInSection:(NSInteger)section
 {
-    return @"Sports";
+    if (tableView == self.searchDisplayController.searchResultsTableView) {
+        if (section==0)
+            return @"Men";
+        else
+            return @"Women";
+    }
+    else
+        return @"Sports";
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
@@ -117,7 +204,12 @@
     // Return the number of rows in the section.
     
     if (tableView == self.searchDisplayController.searchResultsTableView) {
-        return self.filteredArray.count;
+        if (section==0) {
+            return self.mensFilteredArray.count;
+        }
+        else{
+            return self.womensFilteredArray.count;
+        }
     }
     else
         return sportsArray.count;
@@ -133,7 +225,11 @@
     
     // Configure the cell...
     if (tableView == self.searchDisplayController.searchResultsTableView) {
-        cell.textLabel.text=[[self.filteredArray objectAtIndex:indexPath.row]objectForKey:@"Sport"];
+        if (indexPath.section==0)
+            cell.textLabel.text=[[self.mensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Name"];
+        else
+            cell.textLabel.text=[[self.womensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Name"];
+
     }
     else
         cell.textLabel.text=[[sportsArray objectAtIndex:indexPath.row]objectForKey:@"Sport"];
@@ -142,7 +238,13 @@
 
 
 -(void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath{
-    [self performSegueWithIdentifier:@"EventsViewController" sender:tableView];
+    if (tableView == self.searchDisplayController.searchResultsTableView) {
+        [self performSegueWithIdentifier:@"DetailViewController" sender:tableView];
+    }
+    else{
+        [self performSegueWithIdentifier:@"EventsViewController" sender:tableView];
+
+    }
 
 }
 

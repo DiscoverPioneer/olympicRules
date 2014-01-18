@@ -7,7 +7,7 @@
         <!--Detail View Controller-->
         <scene sceneID="M0S-s2-RAw">
             <objects>
-                <viewController id="1zN-ml-nWJ" customClass="DetailViewController" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="DetailViewController" id="1zN-ml-nWJ" customClass="DetailViewController" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="KHA-B0-ufv">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -114,9 +114,6 @@
                                     <rect key="frame" x="0.0" y="0.0" width="287" height="43"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                 </tableViewCellContentView>
-                                <connections>
-                                    <segue destination="j2L-en-ZIY" kind="push" identifier="EventsViewController" id="T8R-YV-hn9"/>
-                                </connections>
                             </tableViewCell>
                         </prototypes>
                         <connections>
@@ -128,6 +125,8 @@
                     <connections>
                         <outlet property="searchDisplayController" destination="E60-Xb-uWx" id="4IQ-om-u1S"/>
                         <outlet property="sportSearchBar" destination="srC-kt-zdY" id="d1c-a4-eo6"/>
+                        <segue destination="1zN-ml-nWJ" kind="push" identifier="DetailViewController" id="TRT-iO-X7m"/>
+                        <segue destination="j2L-en-ZIY" kind="push" identifier="EventsViewController" id="Bd4-5w-H9A"/>
                     </connections>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="uMS-hl-ERq" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -167,4 +166,7 @@
         <simulatedOrientationMetrics key="orientation"/>
         <simulatedScreenMetrics key="destination" type="retina4"/>
     </simulatedMetricsContainer>
+    <inferredMetricsTieBreakers>
+        <segue reference="TRT-iO-X7m"/>
+    </inferredMetricsTieBreakers>
 </document>

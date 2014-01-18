@@ -11,7 +11,9 @@
 @interface ViewController : UITableViewController<UISearchBarDelegate,UISearchDisplayDelegate>
 
 
-@property (strong,nonatomic) NSMutableArray *filteredArray;
+@property (strong,nonatomic) NSMutableArray *mensFilteredArray;
+@property (strong,nonatomic) NSMutableArray *womensFilteredArray;
+
 @property (strong, nonatomic) IBOutlet UISearchBar *sportSearchBar;
 
 @end
