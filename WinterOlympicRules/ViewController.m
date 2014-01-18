@@ -155,27 +155,7 @@
     
     
     
-    
-    
-    
-    
-    
-    /*
-    if ([segue.identifier isEqualToString:@"EventsViewController"]) {
-        EventsViewController *EVC = [segue destinationViewController];
-        
-        if (sender == self.searchDisplayController.searchResultsTableView) {
-            NSIndexPath *indexPath = [self.searchDisplayController.searchResultsTableView indexPathForSelectedRow];
-            [EVC setTitle:[[self.filteredArray objectAtIndex:indexPath.row]objectForKey:@"Name"]];
-            [EVC setEvents:[self.filteredArray objectAtIndex:indexPath.row]];
-        }
-        else{
-            NSIndexPath *indexPath = [self.tableView indexPathForSelectedRow];
-            [EVC setTitle:[[sportsArray objectAtIndex:indexPath.row]objectForKey:@"Sport"]];
-            [EVC setEvents:[sportsArray objectAtIndex:indexPath.row]];
-        }
-    }
-     */
+
 }
 
 
