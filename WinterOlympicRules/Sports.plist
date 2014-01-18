@@ -920,16 +920,7 @@ Short-handed</string>
 				<key>Name</key>
 				<string>Short Track Speed Skating</string>
 				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string>Short track speed skating is one of the most competitive events at the Olympic Winter Games.
-Related Stories
-
-Unlike its long track counterpart, where Olympians compete for the best overall time, short track speed skating is every man or woman for himself or herself. With skaters racing tightly in packs around a track roughly the size of an ice hockey rink, short track speed skating is fast, furious, and sometimes dangerous, as crashes sometimes occur in this event.
-
-One of the newer events at the Games, short track speed skating has been part of the Winter Olympiad since 1992. This is a guide to short track speed skating at Sochi:
-
-Individual Events: There will be six individual competitions in this event during the Winter Games. Men and women alike will compete in 500-meter, 1,000-meter, and 1,500-meter races.
+				<string>Individual Events: There will be six individual competitions in this event during the Winter Games. Men and women alike will compete in 500-meter, 1,000-meter, and 1,500-meter races.
 
 Team Events: There are two team events in short track speed skating as well. There will be a 5,000-meter four-skater relay on the men&apos;s side, and a 3,000-meter four-skater relay on the women&apos;s side.
 
@@ -950,6 +941,12 @@ Equipment: Skaters wear specialized skates with long blades and skin-tight suits
 Dates Of Competition: Short track speed skating will be competed during five days of the Winter Games. February 10 features the men&apos;s 1,500-meter final, February 13 features the women&apos;s 500-meter final, and the gold medals will be decided in the men&apos;s 1,000-meter and women&apos;s 1,500-meter events on February 15.
 
 After the women&apos;s relay final on February 18, the event will wrap up on February 21, which will feature the medal rounds in the men&apos;s 500-meter, women&apos;s 1,000-meter, and men&apos;s relay competitions.</string>
+				<key>Description</key>
+				<string>Short track speed skating is one of the most competitive events at the Olympic Winter Games.
+
+Unlike its long track counterpart, where Olympians compete for the best overall time, short track speed skating is every man or woman for himself or herself. With skaters racing tightly in packs around a track roughly the size of an ice hockey rink, short track speed skating is fast, furious, and sometimes dangerous, as crashes sometimes occur in this event.
+
+One of the newer events at the Games, short track speed skating has been part of the Winter Olympiad since 1992.</string>
 			</dict>
 			<dict>
 				<key>Name</key>

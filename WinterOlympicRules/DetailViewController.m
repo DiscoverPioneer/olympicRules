@@ -30,7 +30,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view.
     self.detailLabel.text = self.nameString;
-    completeString = [NSString stringWithFormat:@"Rules:\n%@\n\nDescription:\n%@",self.ruleString, self.descriptionString];
+    completeString = [NSString stringWithFormat:@"Description:\n%@\n\nRules:\n%@",self.descriptionString,self.ruleString];
 
     self.textView.text=completeString;
 }

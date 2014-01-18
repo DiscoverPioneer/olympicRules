@@ -179,6 +179,12 @@
      */
 }
 
+-(void)searchDisplayController:(UISearchDisplayController *)controller didLoadSearchResultsTableView:(UITableView *)tableView {
+    tableView.backgroundColor = self.tableView.backgroundColor;
+    tableView.separatorColor = self.tableView.separatorColor;
+    tableView.opaque=YES;
+    tableView.tintColor = self.tableView.tintColor;
+}
 
 #pragma mark - Table view data source
 
@@ -228,8 +234,14 @@
     
     // Configure the cell...
     if (tableView == self.searchDisplayController.searchResultsTableView) {
-        if (indexPath.section==0)
-            cell.textLabel.text=[[self.mensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Name"];
+        cell.backgroundColor = [UIColor lightTextColor];
+        if (indexPath.section==0){
+
+            
+            //self.searchDisplayController.searchResultsTableView.backgroundColor=gray;
+            //cell.backgroundColor = [UIColor lightTextColor];
+           
+            cell.textLabel.text=[[self.mensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Name"];}
         else
             cell.textLabel.text=[[self.womensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Name"];
 
