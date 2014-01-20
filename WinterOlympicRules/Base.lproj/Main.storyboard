@@ -128,7 +128,13 @@
                             <outlet property="delegate" destination="xxa-C3-iP9" id="Kjy-FT-2ga"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="Sochi 2014" id="yvB-WD-GxJ"/>
+                    <navigationItem key="navigationItem" title="Sochi 2014" id="yvB-WD-GxJ">
+                        <barButtonItem key="rightBarButtonItem" style="plain" systemItem="search" id="3YR-cy-yVh">
+                            <connections>
+                                <action selector="goToSearch:" destination="xxa-C3-iP9" id="WD2-qf-DWY"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
                     <connections>
                         <outlet property="searchDisplayController" destination="E60-Xb-uWx" id="4IQ-om-u1S"/>
                         <outlet property="sportSearchBar" destination="srC-kt-zdY" id="d1c-a4-eo6"/>
@@ -174,6 +180,6 @@
         <simulatedScreenMetrics key="destination" type="retina4"/>
     </simulatedMetricsContainer>
     <inferredMetricsTieBreakers>
-        <segue reference="vuc-Qr-8sC"/>
+        <segue reference="TRT-iO-X7m"/>
     </inferredMetricsTieBreakers>
 </document>

@@ -1032,11 +1032,33 @@ One of the newer events at the Games, short track speed skating has been part of
 		<array>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Skeleton</string>
 				<key>Rules</key>
-				<string></string>
+				<string>Equipment:To start, the athlete wears a tight-fitting suit called a speed suit. It fits tight to his or her body to maximize the aerodynamics of the athlete&apos;s body. The athletes also wear a helmet specific to skeleton, spiked shoes, goggles or some sort of face shield, and it is optional to wear some sort of padding under their suit.
+
+The sled itself is similar to what you would use to go down a hill on snow; the only difference is it&apos;s way faster and cooler. The sled has a board on top and there are two blades attached to either side on the under-belly of the sled. There are also handles on the sled so the athlete can hold on tight while doing his or her run.
+
+The Procedure:When athletes make their run, they get a running start, thus the spiked shoes, and then throw themselves onto their sled. It&apos;s similar to that of a bobsled start. They then race down the course, shifting their body from side to side to maintain control of the sled. They go as fast as they can all the way down the slope.
+
+There are only two divisions of skeleton:
+
+Men&apos;s Skeleton:The first division of skeleton is the men&apos;s competition. The men first started their Olympic competition back in 1928, but then took a hiatus until the 1948 Winter Olympics. In 2002, the event reappeared in the Games and have been a part of the Games ever since. The combined weight of the sled and athlete cannot exceed 115 kilograms (253.53 pounds).
+
+Women&apos;s Skeleton:Women&apos;s skeleton first entered the Olympics back in 2002 and has been in the Games since then. The combined weight of the sled and athlete cannot exceed 92 kilograms (202.82 pounds).
+
+Scoring:The skeleton spans two days of competition. Over the course of those two days, the athlete will make a total of four runs. Once the athlete crosses the finish for his or her fourth run, the times from all four runs will be added together. The competitor with the fastest combined time wins.
+
+Location:The skeleton will be held at the Sliding Center Sanki in Rzhanaya Polyana, Russia, located just north of Sochi. The track will also run the bobsleigh and luge events.
+
+Important Dates:The competition begins on February 13 with the first two heats of women&apos;s racing. On February 14, the men will then run their first two heats and the women&apos;s competition will complete with the medal round. On February 15, the final two heats of men&apos;s racing takes place and the medals will be awarded.
+
+Dangers of the Sport:Skeleton is one of fastest events at the Winter Olympics. At their peak, athletes can be going upwards of 90 miles per hour. All the while, they are hurdling head-first down an icy slope. Spectators grip their seats tighter with each passing competitor and it&apos;s easy to see why. The skeleton is fast and exciting, but a very dangerous and nerve-racking event to watch.</string>
 				<key>Description</key>
-				<string></string>
+				<string>It&apos;s one of the most exciting events featured at the Winter Olympics.
+
+Skeleton combines speed and skill as the athletes dive head-first down an icy slope. If you haven&apos;t checked it out in years past, you might want to tune into this year&apos;s competition.
+
+For those of you that are more familiar with luge, it&apos;s similar to that, but the athlete goes down the course head-first.</string>
 			</dict>
 			<dict>
 				<key>Name</key>
@@ -1075,9 +1097,11 @@ One of the newer events at the Games, short track speed skating has been part of
 		<array>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Skeleton</string>
 				<key>Rules</key>
-				<string></string>
+				<string>This is fast
+This is low to the ground
+This is dangerous</string>
 				<key>Description</key>
 				<string></string>
 			</dict>

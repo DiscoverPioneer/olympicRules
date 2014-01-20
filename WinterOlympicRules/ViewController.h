@@ -15,5 +15,6 @@
 @property (strong,nonatomic) NSMutableArray *womensFilteredArray;
 
 @property (strong, nonatomic) IBOutlet UISearchBar *sportSearchBar;
+-(IBAction)goToSearch:(id)sender;
 
 @end
