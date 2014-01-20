@@ -32,7 +32,7 @@
     self.detailLabel.text = self.nameString;
     completeString = [NSString stringWithFormat:@"                              Description:\n%@\n\n                                   Rules:\n%@",self.descriptionString,self.ruleString];
    
-    UIFont *italic = [UIFont italicSystemFontOfSize:14.0f];
+    //UIFont *italic = [UIFont italicSystemFontOfSize:14.0f];
     //UIFont *boldItalic = [UIFont fontWithName:@"Trebuchet-BoldItalic" size:14];
     UIFont *boldItalic = [UIFont fontWithName:@"Arial-BoldItalicMT" size:14];
     //UIFont *otherItalic = [UIFont italicSystemFontOfSize:12.0];
@@ -51,12 +51,7 @@
     
     [mutable addAttribute:NSFontAttributeName value:boldItalic range:[completeString rangeOfString:@"sled   "]];
 
-    /*[mutable addAttribute:NSFontAttributeName value:[UIFont fontWithName:@"HelveticaNeue-Bold" size:12] range:[completeString rangeOfString:@"Equipment:"]];
-    [mutable addAttribute:NSFontAttributeName value:[UIFont fontWithName:@"HelveticaNeue-Bold" size:12] range:[completeString rangeOfString:@"Description:"]];
-    [mutable addAttribute:NSFontAttributeName value:[UIFont fontWithName:@"HelveticaNeue-Bold" size:12] range:[completeString rangeOfString:@"Equipment:"]];
-    [mutable addAttribute:NSFontAttributeName value:[UIFont fontWithName:@"HelveticaNeue-Bold" size:12] range:[completeString rangeOfString:@"Dates:"]];
-    [mutable addAttribute:NSFontAttributeName value:[UIFont fontWithName:@"HelveticaNeue-Bold" size:12] range:[completeString rangeOfString:@"Procedure:"]];
-    [mutable addAttribute:NSFontAttributeName value:[UIFont fontWithName:@"HelveticaNeue-Bold" size:12] range:[completeString rangeOfString:@"Scoring:"]];*/
+    /*[mutable addAttribute:NSFontAttributeName value:[UIFont fontWithName:@"HelveticaNeue-Bold" size:12] range:[completeString rangeOfString:@"Scoring:"]];*/
     
     
     
