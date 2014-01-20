@@ -182,9 +182,9 @@
 {
     if (tableView == self.searchDisplayController.searchResultsTableView) {
         if (section==0)
-            return @"Men";
+            return @"Men's Events";
         else
-            return @"Women";
+            return @"Women's Events";
     }
     else
         return @"Sports";
