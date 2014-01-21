@@ -60,9 +60,15 @@
     
     // If you're worried that your users might not catch on to the fact that a search bar is available if they scroll to reveal it, a search icon will help them
     // If you don't hide your search bar in your app, don’t include this, as it would be redundant
+    [self.tableView scrollRectToVisible:CGRectMake(0, 0, 1, 1) animated:NO];
+
     [self.sportSearchBar becomeFirstResponder];
 }
-
+- (void)searchBarCancelButtonClicked:(UISearchBar *)searchBar {
+    
+    [self viewWillAppear:YES];
+    
+}
 
 
 #pragma mark Content Filtering
@@ -128,12 +134,20 @@
     [self filterContentForSearchText:searchString scope:
      [[self.searchDisplayController.searchBar scopeButtonTitles] objectAtIndex:[self.searchDisplayController.searchBar selectedScopeButtonIndex]]];
     
+    
+    
     // Return YES to cause the search result table view to be reloaded.
     return YES;
 }
 
-
-
+- (void)searchDisplayControllerDidBeginSearch:(UISearchDisplayController *)controller
+{
+   
+}
+- (void)searchDisplayControllerDidEndSearch:(UISearchDisplayController *)controller
+{
+    
+}
 
 
 -(void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender{
