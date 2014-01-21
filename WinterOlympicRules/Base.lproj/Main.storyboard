@@ -129,7 +129,8 @@
                         </connections>
                     </tableView>
                     <navigationItem key="navigationItem" title="Sochi 2014" id="yvB-WD-GxJ">
-                        <barButtonItem key="rightBarButtonItem" style="plain" systemItem="search" id="3YR-cy-yVh">
+                        <barButtonItem key="rightBarButtonItem" systemItem="search" id="3YR-cy-yVh">
+                            <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                             <connections>
                                 <action selector="goToSearch:" destination="xxa-C3-iP9" id="WD2-qf-DWY"/>
                             </connections>
@@ -180,6 +181,6 @@
         <simulatedScreenMetrics key="destination" type="retina4"/>
     </simulatedMetricsContainer>
     <inferredMetricsTieBreakers>
-        <segue reference="TRT-iO-X7m"/>
+        <segue reference="vuc-Qr-8sC"/>
     </inferredMetricsTieBreakers>
 </document>
