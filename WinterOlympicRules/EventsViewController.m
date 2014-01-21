@@ -52,9 +52,9 @@
 - (NSString *)tableView:(UITableView *)tableView titleForHeaderInSection:(NSInteger)section
 {
     if(section==0)
-        return @"Men";
+        return @"Men's Events";
     else
-        return @"Women";
+        return @"Women's Events";
 }
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
 {

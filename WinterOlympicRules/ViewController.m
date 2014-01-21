@@ -44,7 +44,6 @@
     self.womensFilteredArray = [NSMutableArray arrayWithCapacity:[sportsArray count]];
 
     [self.sportSearchBar sizeToFit];
-
     
     UIImageView *imageView = [[UIImageView alloc] initWithFrame:self.view.frame];
     [imageView setImage:[UIImage imageNamed:@"Background"]];
@@ -57,6 +56,9 @@
     
     
     
+    // If you're worried that your users might not catch on to the fact that a search bar is available if they scroll to reveal it, a search icon will help them
+    // If you don't hide your search bar in your app, don’t include this, as it would be redundant
+    [self.sportSearchBar becomeFirstResponder];
 }
 
 
@@ -191,9 +193,9 @@
 {
     if (tableView == self.searchDisplayController.searchResultsTableView) {
         if (section==0)
-            return @"Men";
+            return @"Men's Events";
         else
-            return @"Women";
+            return @"Women's Events";
     }
     else
         return @"Sports";

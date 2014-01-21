@@ -738,86 +738,120 @@ Short-handed</string>
 		<array>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Luge</string>
 				<key>Rules</key>
-				<string></string>
+				<string>Procedure:
+Athletes ride in flat, aerodynamic position on sled, keeping heads low to minimize wind resistance
+sled is steered  by calves applying pressure on the runners, a mix of shifting weight, calf pressure and rolling shoulders, handles for minor adjustments
+sliders ‘visualize’ course in their minds before run
+tastes times result from following the perfect ‘line’ down the track
+average speed of 120-145 km/h(75-90mph)/up to 5G’s
+mens’ singles start location near where bobslegh and skeleton
+doubles and women’s singles have start location further down track
+
+Scoring:
+Runs timed electronically to 0.001 seconds
+four runs over two days
+medals decided by the shortest cumulative time
+team relays  - each team enters 3 sleds(men’s, women’s, doubles)after each athlete crosses finish line, they must hit a touch-pad that opens gate for team-mate, lowest cumulative time determines rankings</string>
 				<key>Description</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>Name</key>
-				<string></string>
-				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>Name</key>
-				<string></string>
-				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>Name</key>
-				<string></string>
-				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>Name</key>
-				<string></string>
-				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string></string>
+				<string>
+luge is french word for sledge
+of three Olympic sliding sports(bobsleigh/skeleton), luge is fastest and most dangerous
+competitors lye on backs on tiny sled with feet out stretched in front of them
+speeds in range of 140 km/h(87mph) without brakes
+singles and pair events, larger of two team members lying on tops for better aerodynamics
+steering done by flexing sled’s runners with calf of each leg or exerting opposite shoulder pressure to seat
+athlete must cross finish line in contact with sled
+
+four luge disciplines
+	men’s singles
+	men’s doubles
+	women’s singles
+	team relay
+
+Equipment:
+gloves - spiked at fingertips, asset at start and padding motion
+helmet - clear/tinted visors, extends under chin to reduce resistance
+racing suit - specially designed to reduce wind resistance
+shoes/booties - special shoes with zippers, to straighten out foot when zipper is closed, regulations for insole and heel
+
+sled   
+2 bridges -part of sled that connects the two runners which the aerodynamic racing shell is suspended, made of steel, two, one in from one in back
+grip - each hand hold handle on side of sled
+2 runner(kufens) -usually made of fiberglass or wood, sliders steer by applying press with foot onto the runners
+pod - aerodynamic shell, serves as seat for athlete
+2 steels(steel runner) - two runners called steels, only part of sled that touches surface, attached to kufens
+no brakes
+weigh 21-25kg(46-55 lbs) for singles and 25-30 kilograms (55-66 lbs) for doubles
+
+Dates:
+8 February Men&apos;s singles runs 1 and 2
+9 February singles runs 3 and 4
+10 February Women&apos;s singles runs 1 and 2
+11 February Women&apos;s singles runs 3 and 4
+12 February Doubles runs 1 and 2
+13 February Team relay</string>
 			</dict>
 		</array>
 		<key>Womens</key>
 		<array>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Luge</string>
 				<key>Rules</key>
-				<string></string>
+				<string>Procedure:
+athletes ride in flat, aerodynamic position on sled, keeping heads low to minimize wind resistance
+sled is steered  by calves applying pressure on the runners, a mix of shifting weight, calf pressure and rolling shoulders, handles for minor adjustments
+sliders ‘visualize’ course in their minds before run
+tastes times result from following the perfect ‘line’ down the track
+average speed of 120-145 km/h(75-90mph)/up to 5G’s
+mens’ singles start location near where bobslegh and skeleton
+doubles and women’s singles have start location further down track
+
+Scoring:
+Runs timed electronically to 0.001 seconds
+four runs over two days
+medals decided by the shortest cumulative time
+team relays  - each team enters 3 sleds(men’s, women’s, doubles)after each athlete crosses finish line, they must hit a touch-pad that opens gate for team-mate, lowest cumulative time determines rankings</string>
 				<key>Description</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>Name</key>
-				<string></string>
-				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>Name</key>
-				<string></string>
-				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>Name</key>
-				<string></string>
-				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>Name</key>
-				<string></string>
-				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string></string>
+				<string>
+luge is french word for sledge
+of three Olympic sliding sports(bobsleigh/skeleton), luge is fastest and most dangerous
+competitors lye on backs on tiny sled with feet out stretched in front of them
+speeds in range of 140 km/h(87mph) without brakes
+singles and pair events, larger of two team members lying on tops for better aerodynamics
+steering done by flexing sled’s runners with calf of each leg or exerting opposite shoulder pressure to seat
+athlete must cross finish line in contact with sled
+
+four luge disciplines
+	men’s singles
+	men’s doubles
+	women’s singles
+	team relay
+
+Equipment:
+gloves - spiked at fingertips, asset at start and padding motion
+helmet - clear/tinted visors, extends under chin to reduce resistance
+racing suit - specially designed to reduce wind resistance
+shoes/booties - special shoes with zippers, to straighten out foot when zipper is closed, regulations for insole and heel
+
+sled   
+2 bridges -part of sled that connects the two runners which the aerodynamic racing shell is suspended, made of steel, two, one in from one in back
+grip - each hand hold handle on side of sled
+2 runner(kufens) -usually made of fiberglass or wood, sliders steer by applying press with foot onto the runners
+pod - aerodynamic shell, serves as seat for athlete
+2 steels(steel runner) - two runners called steels, only part of sled that touches surface, attached to kufens
+no brakes
+weigh 21-25kg(46-55 lbs) for singles and 25-30 kilograms (55-66 lbs) for doubles
+
+Dates:
+8 February Men&apos;s singles runs 1 and 2
+9 February singles runs 3 and 4
+10 February Women&apos;s singles runs 1 and 2
+11 February Women&apos;s singles runs 3 and 4
+12 February Doubles runs 1 and 2
+13 February Team relay</string>
 			</dict>
 		</array>
 	</dict>
@@ -948,48 +982,40 @@ Unlike its long track counterpart, where Olympians compete for the best overall 
 
 One of the newer events at the Games, short track speed skating has been part of the Winter Olympiad since 1992.</string>
 			</dict>
-			<dict>
-				<key>Name</key>
-				<string></string>
-				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>Name</key>
-				<string></string>
-				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>Name</key>
-				<string></string>
-				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>Name</key>
-				<string></string>
-				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string></string>
-			</dict>
 		</array>
 		<key>Womens</key>
 		<array>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Short Track Speed Skating</string>
 				<key>Rules</key>
-				<string></string>
+				<string>Individual Events: There will be six individual competitions in this event during the Winter Games. Men and women alike will compete in 500-meter, 1,000-meter, and 1,500-meter races.
+
+Team Events: There are two team events in short track speed skating as well. There will be a 5,000-meter four-skater relay on the men&apos;s side, and a 3,000-meter four-skater relay on the women&apos;s side.
+
+Qualifying Heats: To whittle down the field of 32 entrants in the 500-meter and 1,000-meter races, eight qualifying heats are contested. In the 1,500-meter race, 36 Olympians will compete in six qualifying heats.
+
+Advancing To The Finals: In the 500-meter and 1,000-meter events, the top two finishers in each heat move on to the next round. The top three finishers in each heat of the 1,500-meter race advance to the next round. Skaters can also advance if they are judged to have been interfered with during a heat.
+
+The Medal Round: The top two finishers in the two semifinal heats in the 500-meter and 1,000-meter races advance to the medal round, while the top two finishers in three 1,500-meter semifinals will earn the right to compete for gold. The final is a winner-take-all race that will decide the medals.
+
+Relay Setup: Eight teams will compete in each of the two relay competitions in short track speed skating. The top two finishers in a pair of semifinal heats advance to the medal round, which like the individual competition, will be decided by one race. Teams can also advance if they were interfered with.
+
+Scoring: Skaters are timed to one-thousandth of a second, so ties are rare in this event. A referee is also present to make sure all skaters follow the rules of the competition.
+
+Disqualification: Not uncommon in short track speed skating, Olympians can be disqualified for a number of offenses. Multiple false starts, impeding other skaters, or skating outside of the track are three things that will get skaters disqualified from the competition.
+
+Equipment: Skaters wear specialized skates with long blades and skin-tight suits to achieve peak speeds. Gloves are necessary as skaters often touch the ice while zooming through the turns. Helmets are mandatory in a sport with such inherent danger.
+
+Dates Of Competition: Short track speed skating will be competed during five days of the Winter Games. February 10 features the men&apos;s 1,500-meter final, February 13 features the women&apos;s 500-meter final, and the gold medals will be decided in the men&apos;s 1,000-meter and women&apos;s 1,500-meter events on February 15.
+
+After the women&apos;s relay final on February 18, the event will wrap up on February 21, which will feature the medal rounds in the men&apos;s 500-meter, women&apos;s 1,000-meter, and men&apos;s relay competitions.</string>
 				<key>Description</key>
-				<string></string>
+				<string>Short track speed skating is one of the most competitive events at the Olympic Winter Games.
+
+Unlike its long track counterpart, where Olympians compete for the best overall time, short track speed skating is every man or woman for himself or herself. With skaters racing tightly in packs around a track roughly the size of an ice hockey rink, short track speed skating is fast, furious, and sometimes dangerous, as crashes sometimes occur in this event.
+
+One of the newer events at the Games, short track speed skating has been part of the Winter Olympiad since 1992.</string>
 			</dict>
 			<dict>
 				<key>Name</key>
@@ -1032,86 +1058,106 @@ One of the newer events at the Games, short track speed skating has been part of
 		<array>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Skeleton</string>
 				<key>Rules</key>
-				<string></string>
+				<string>Scoring:
+two days of competition, two runs per day
+total of four runs
+once fourth run is complete, times of all runs are added together.
+competitor with fastest combined times is winner.
+
+Procedure:
+running start/push(up to @40 meters)within 30 seconds of start signal, spiked shoes assist, then dive/throw selves onto sled, lying prone, arms straight and tucked at their sides 
+race down course, shifting body to control sled, shoulders and head steer
+max sled weight 43kg - combined weight of sled and athlete cannot exceed 115 kilograms(253.53 pounds).</string>
 				<key>Description</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>Name</key>
-				<string></string>
-				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>Name</key>
-				<string></string>
-				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>Name</key>
-				<string></string>
-				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>Name</key>
-				<string></string>
-				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string></string>
+				<string>Reappeared in Olympics in 2002
+head first down frozen track or’run’(same as bobsleigh/luge) min 1200 m long, ascending sections must not comprise more that 12% of total distance
+upward of speeds of 90mph/135kmh forces up to 5g(@space shuttle takeoff)
+sled can only be ridden in prone postion(face first on stomach)
+no steering mechanism on sled so riders use torque provide by head and  shoulders
+no brakes on sled so riders use rakes on their boots and upward incline at end of finish line
+rider may leave sled during run but must cross finish line on the sled for valid run
+temp of sled runners  must be 4degreesC of the reference runner to prevent gaining advantage of heated runners
+Runs timed electronically to 0.01 seconds
+
+Equipment:
+speed suit - skin tight to maximize aerodynamics of body
+helmet with chin guard or skeleton-specific helmet
+gloves
+spiked shoes
+googles or face shield
+optional padding under suit, elbow or shoulder pads
+
+sled   
+board on top
+tow blades under
+handles to hold on to while going down run
+no steering of=r brakes
+front and rear bumpers, absorb shocks from wall
+	Dimentions
+	   Length:800-1200 mm
+	   Height:80-200mm
+	   Distance between runners:340-380mm
+
+Dates:
+February 13 - first tow heats of women’s racing.
+February 14 - first tow heats of men’s racing
+	women’s complete competition with medal round
+February 15 - men’s final heats and medals awarded.</string>
 			</dict>
 		</array>
 		<key>Womens</key>
 		<array>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Skeleton</string>
 				<key>Rules</key>
-				<string></string>
+				<string>Scoring:
+two days of competition, two runs per day
+total of four runs
+once fourth run is complete, times of all runs are added together.
+competitor with fastest combined times is winner.
+
+Procedure:
+running start/push(up to @40 meters)within 30 seconds of start signal, spiked shoes assist, then dive/throw selves onto sled, lying prone, arms straight and tucked at their sides 
+race down course, shifting body to control sled, shoulders and head steer
+max sled weight 35kg - combined weight of sled and athlete cannot exceed 92 kilograms(208.82 pounds).</string>
 				<key>Description</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>Name</key>
-				<string></string>
-				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>Name</key>
-				<string></string>
-				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>Name</key>
-				<string></string>
-				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>Name</key>
-				<string></string>
-				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string></string>
+				<string>Reappeared in Olympics in 2002
+head first down frozen track or’run’(same as bobsleigh/luge) min 1200 m long, ascending sections must not comprise more that 12% of total distance
+upward of speeds of 90mph/135kmh forces up to 5g(@space shuttle takeoff)
+sled can only be ridden in prone postion(face first on stomach)
+no steering mechanism on sled so riders use torque provide by head and  shoulders
+no brakes on sled so riders use rakes on their boots and upward incline at end of finish line
+rider may leave sled during run but must cross finish line on the sled for valid run
+temp of sled runners  must be 4degreesC of the reference runner to prevent gaining advantage of heated runners
+Runs timed electronically to 0.01 seconds
+
+Equipment:
+speed suit - skin tight to maximize aerodynamics of body
+helmet with chin guard or skeleton-specific helmet
+gloves
+spiked shoes
+googles or face shield
+optional padding under suit, elbow or shoulder pads
+
+sled   
+board on top
+tow blades under
+handles to hold on to while going down run
+no steering of=r brakes
+front and rear bumpers, absorb shocks from wall
+	Dimentions
+	   Length:800-1200 mm
+	   Height:80-200mm
+	   Distance between runners:340-380mm
+
+Dates:
+February 13 - first tow heats of women’s racing.
+February 14 - first tow heats of men’s racing
+	women’s complete competition with medal round
+February 15 - men’s final heats and medals awarded.</string>
 			</dict>
 		</array>
 	</dict>
