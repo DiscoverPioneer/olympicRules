@@ -63,10 +63,8 @@
     [self.textView setTintColor:[UIColor lightTextColor]];
     self.textView.textAlignment = NSTextAlignmentJustified;
 
-    self.textView.text=completeString;
-    
-    
-    
+    [self.textView setAttributedText:mutable];
+    //self.textView.text=completeString;
 }
 
 - (void)didReceiveMemoryWarning

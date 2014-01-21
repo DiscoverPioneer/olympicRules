@@ -50,11 +50,13 @@
     self.tableView.backgroundView = imageView;
     self.tableView.backgroundColor = [UIColor clearColor];
    
-    
-    
-    
-    
-    
+    // Hide the search bar until user scrolls up
+    CGRect newBounds = self.tableView.bounds;
+    newBounds.origin.y = newBounds.origin.y + self.sportSearchBar.bounds.size.height;
+    self.tableView.bounds = newBounds;
+}
+
+-(IBAction)goToSearch:(id)sender{
     
     // If you're worried that your users might not catch on to the fact that a search bar is available if they scroll to reveal it, a search icon will help them
     // If you don't hide your search bar in your app, don’t include this, as it would be redundant
