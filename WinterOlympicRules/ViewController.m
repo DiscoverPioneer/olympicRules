@@ -24,10 +24,12 @@
     if (self) {
         // Custom initialization
         //Set BackButton Background
-        UIImage *backButtonImage = [[UIImage imageNamed:@"BackButton.png"] resizableImageWithCapInsets:UIEdgeInsetsMake(0, 13, 0, 6)];
+        //UIImage *backButtonImage = [[UIImage imageNamed:@"BackButton.png"] resizableImageWithCapInsets:UIEdgeInsetsMake(0, 13, 0, 6)];
         //[[UIBarButtonItem appearance]setBackButtonBackgroundImage:backButtonImage forState:UIControlStateNormal barMetrics:UIBarMetricsDefault];
         //[[UIBarButtonItem appearance]setBackButtonBackgroundImage:backButtonImage forState:UIControlStateReserved barMetrics:UIBarMetricsDefault];
-      [self.navigationController.navigationItem.backBarButtonItem setBackButtonBackgroundImage:backButtonImage forState:UIControlStateNormal barMetrics:UIBarMetricsDefault];
+      //[self.navigationController.navigationItem.backBarButtonItem setBackButtonBackgroundImage:backButtonImage forState:UIControlStateNormal barMetrics:UIBarMetricsDefault];
+        //self.navigationItem.backBarButtonItem.tintColor = [UIColor whiteColor];
+
         
     }
     return self;
@@ -153,7 +155,11 @@
 -(void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender{
     if (sender == self.searchDisplayController.searchResultsTableView) {
         DetailViewController *DVC = [segue destinationViewController];
-       
+        //Set BackButton Background
+        UIImage *backButtonImage = [[UIImage imageNamed:@"BackButton.png"] resizableImageWithCapInsets:UIEdgeInsetsMake(0, 13, 0, 6)];
+       [self.navigationController.navigationItem.backBarButtonItem setBackButtonBackgroundImage:backButtonImage forState:UIControlStateNormal barMetrics:UIBarMetricsDefault];
+        self.navigationItem.backBarButtonItem.tintColor = [UIColor whiteColor];
+
         
         NSIndexPath *indexPath = [self.searchDisplayController.searchResultsTableView indexPathForSelectedRow];
         if (indexPath.section==0) {

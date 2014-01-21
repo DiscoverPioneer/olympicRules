@@ -26,11 +26,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "WinterOlympicRules/ViewController.m"
-            timestampString = "412040014.284203"
+            timestampString = "412041112.784349"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "192"
-            endingLineNumber = "192"
+            startingLineNumber = "198"
+            endingLineNumber = "198"
             landmarkName = "-searchDisplayController:didLoadSearchResultsTableView:"
             landmarkType = "5">
          </BreakpointContent>
