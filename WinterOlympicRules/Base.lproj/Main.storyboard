@@ -106,7 +106,7 @@
                         <searchBar key="tableHeaderView" contentMode="redraw" placeholder="Search Events" id="srC-kt-zdY">
                             <rect key="frame" x="0.0" y="64" width="320" height="44"/>
                             <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
-                            <color key="barTintColor" red="0.087908294009999999" green="0.80504181900000005" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="barTintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                             <textInputTraits key="textInputTraits"/>
                             <connections>
                                 <outlet property="delegate" destination="xxa-C3-iP9" id="IXI-WA-502"/>
@@ -120,7 +120,7 @@
                                     <rect key="frame" x="0.0" y="0.0" width="287" height="43"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                 </tableViewCellContentView>
-                                <color key="backgroundColor" red="0.087908294009999999" green="0.80504181900000005" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                             </tableViewCell>
                         </prototypes>
                         <connections>
@@ -174,6 +174,6 @@
         <simulatedScreenMetrics key="destination" type="retina4"/>
     </simulatedMetricsContainer>
     <inferredMetricsTieBreakers>
-        <segue reference="TRT-iO-X7m"/>
+        <segue reference="vuc-Qr-8sC"/>
     </inferredMetricsTieBreakers>
 </document>

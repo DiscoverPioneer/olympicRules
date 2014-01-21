@@ -23,6 +23,12 @@
     self = [super initWithStyle:style];
     if (self) {
         // Custom initialization
+        //Set BackButton Background
+        UIImage *backButtonImage = [[UIImage imageNamed:@"BackButton.png"] resizableImageWithCapInsets:UIEdgeInsetsMake(0, 13, 0, 6)];
+        //[[UIBarButtonItem appearance]setBackButtonBackgroundImage:backButtonImage forState:UIControlStateNormal barMetrics:UIBarMetricsDefault];
+        //[[UIBarButtonItem appearance]setBackButtonBackgroundImage:backButtonImage forState:UIControlStateReserved barMetrics:UIBarMetricsDefault];
+      [self.navigationController.navigationItem.backBarButtonItem setBackButtonBackgroundImage:backButtonImage forState:UIControlStateNormal barMetrics:UIBarMetricsDefault];
+        
     }
     return self;
 }
@@ -40,7 +46,10 @@
     [self.sportSearchBar sizeToFit];
 
     
-
+    UIImageView *imageView = [[UIImageView alloc] initWithFrame:self.view.frame];
+    [imageView setImage:[UIImage imageNamed:@"Background"]];
+    self.tableView.backgroundView = imageView;
+    self.tableView.backgroundColor = [UIColor clearColor];
    
     
     
@@ -49,6 +58,8 @@
     
     
 }
+
+
 
 #pragma mark Content Filtering
 -(void)filterContentForSearchText:(NSString*)searchText scope:(NSString*)scope {
@@ -215,6 +226,7 @@
     // Configure the cell...
     if (tableView == self.searchDisplayController.searchResultsTableView) {
         cell.backgroundColor = [UIColor lightTextColor];
+        [cell.textLabel setTintColor:[UIColor whiteColor]];
         if (indexPath.section==0){
 
             

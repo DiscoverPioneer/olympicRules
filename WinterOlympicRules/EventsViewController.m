@@ -22,6 +22,10 @@
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
     if (self) {
         // Custom initialization
+        //Set BackButton Background
+        UIImage *backButtonImage = [[UIImage imageNamed:@"BackButton.png"] resizableImageWithCapInsets:UIEdgeInsetsMake(0, 13, 0, 6)];
+        //[[UIBarButtonItem appearance]setBackButtonBackgroundImage:backButtonImage forState:UIControlStateNormal barMetrics:UIBarMetricsDefault];
+        [self.navigationController.navigationItem.backBarButtonItem setBackButtonBackgroundImage:backButtonImage forState:UIControlStateNormal barMetrics:UIBarMetricsDefault];
     }
     return self;
 }
@@ -32,6 +36,8 @@
 	// Do any additional setup after loading the view.
     mensArray =[[NSArray alloc]initWithArray:[self.events objectForKey:@"Mens"]];
     womensArray =[[NSArray alloc]initWithArray:[self.events objectForKey:@"Womens"]];
+    
+    
 
 }
 
