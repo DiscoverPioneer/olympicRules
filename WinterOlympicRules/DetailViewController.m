@@ -51,12 +51,7 @@
     
     [mutable addAttribute:NSFontAttributeName value:boldItalic range:[completeString rangeOfString:@"sled   "]];
 
-    /*[mutable addAttribute:NSFontAttributeName value:[UIFont fontWithName:@"HelveticaNeue-Bold" size:12] range:[completeString rangeOfString:@"Equipment:"]];
-    [mutable addAttribute:NSFontAttributeName value:[UIFont fontWithName:@"HelveticaNeue-Bold" size:12] range:[completeString rangeOfString:@"Description:"]];
-    [mutable addAttribute:NSFontAttributeName value:[UIFont fontWithName:@"HelveticaNeue-Bold" size:12] range:[completeString rangeOfString:@"Equipment:"]];
-    [mutable addAttribute:NSFontAttributeName value:[UIFont fontWithName:@"HelveticaNeue-Bold" size:12] range:[completeString rangeOfString:@"Dates:"]];
-    [mutable addAttribute:NSFontAttributeName value:[UIFont fontWithName:@"HelveticaNeue-Bold" size:12] range:[completeString rangeOfString:@"Procedure:"]];
-    [mutable addAttribute:NSFontAttributeName value:[UIFont fontWithName:@"HelveticaNeue-Bold" size:12] range:[completeString rangeOfString:@"Scoring:"]];*/
+    /*[mutable addAttribute:NSFontAttributeName value:[UIFont fontWithName:@"HelveticaNeue-Bold" size:12] range:[completeString rangeOfString:@"Scoring:"]];*/
     
     
     
