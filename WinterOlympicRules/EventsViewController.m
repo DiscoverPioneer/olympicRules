@@ -59,9 +59,37 @@
     return 2;
 }
 
+
+//To show black text in grouped header
+-(UIView *)tableView:(UITableView *)tableView viewForHeaderInSection:(NSInteger)section
+{
+    NSString *sectionTitle = [self tableView:tableView titleForHeaderInSection:section];
+    if (sectionTitle == nil) {
+        return nil;
+    }
+    
+   
+    UILabel *label = [[UILabel alloc] init];
+    label.frame = CGRectMake(0, 8, 320, 20);
+    label.backgroundColor = [UIColor lightTextColor];
+    label.textColor = [UIColor blackColor];
+    label.alpha = 0.7;
+    //label.shadowColor = [UIColor grayColor];
+    //label.shadowOffset = CGSizeMake(-1.0, 1.0);
+    label.font = [UIFont boldSystemFontOfSize:14];
+    //label.font = [UIFont fontWithName:@"ArialMT" size:15];
+    label.text = sectionTitle;
+    
+    UIView *view = [[UIView alloc] init];
+    [view addSubview:label];
+    
+    return view;
+}
 - (NSString *)tableView:(UITableView *)tableView titleForHeaderInSection:(NSInteger)section
 {
     tableView.backgroundColor = [UIColor lightTextColor];
+    tableView.tintColor = [UIColor whiteColor];
+    
     if(section==0)
         return @"Men's Events";
     else

@@ -833,49 +833,82 @@ Dates:
 				<string>Luge</string>
 				<key>Rules</key>
 				<string>Procedure:
-athletes ride in flat, aerodynamic position on sled, keeping heads low to minimize wind resistance
-sled is steered  by calves applying pressure on the runners, a mix of shifting weight, calf pressure and rolling shoulders, handles for minor adjustments
-sliders ‘visualize’ course in their minds before run
-tastes times result from following the perfect ‘line’ down the track
-average speed of 120-145 km/h(75-90mph)/up to 5G’s
-mens’ singles start location near where bobslegh and skeleton
-doubles and women’s singles have start location further down track
+  • athletes ride in flat, aerodynamic position
+    on sled, keeping heads low to minimize 
+    wind resistance
+  • sled is steered by a mix of shifting weight,
+    flexing sled’s runners with calf of each leg
+    or exerting opposite shoulder pressure
+    to seat
+  • sliders ‘visualize’ course in their minds
+    before run
+  • best times result from following the perfect
+    ‘line’ down the track
+  • average speed of 120-145 km/h
+    (75-90mph) and up to 5G’s
+  • mens’ singles start location is near the
+    bobsleigh and skeleton start location
+  • doubles and women’s singles have
+    start location further down track
+  • athlete must cross finish line in contact
+    with sled
 
 Scoring:
-Runs timed electronically to 0.001 seconds
-four runs over two days
-medals decided by the shortest cumulative time
-team relays  - each team enters 3 sleds(men’s, women’s, doubles)after each athlete crosses finish line, they must hit a touch-pad that opens gate for team-mate, lowest cumulative time determines rankings</string>
+  • runs timed electronically to 0.001 seconds
+  • four runs over two days
+  • medals decided by the shortest 
+    cumulative time
+  • lowest cumulative time determines rankings
+  • winner is competitor with fastest
+    combined times</string>
 				<key>Description</key>
 				<string>
-luge is french word for sledge
-of three Olympic sliding sports(bobsleigh/skeleton), luge is fastest and most dangerous
-competitors lye on backs on tiny sled with feet out stretched in front of them
-speeds in range of 140 km/h(87mph) without brakes
-singles and pair events, larger of two team members lying on tops for better aerodynamics
-steering done by flexing sled’s runners with calf of each leg or exerting opposite shoulder pressure to seat
-athlete must cross finish line in contact with sled
+Luge is a french word for sledge. Of the three Olympic sliding sports (bobsleigh, skeleton and luge) luge is the fastest and most dangerous. Competitors lye on their backs on a tiny sled with their feet outstretched in front of them. They reach speeds in the range of 140 km/h(87mph) with sleds that don’t have brakes.
 
-four luge disciplines
-	men’s singles
-	men’s doubles
-	women’s singles
-	team relay
+Four luge disciplines
+  • Men’s singles
+  • Men’s doubles (larger of two team 
+     members lying on top for better 
+     aerodynamics)
+  • Women’s singles
+  • Team relay - each team enters 3 sleds 
+     (men’s, women’s, doubles)after each
+     athlete crosses finish line, they must
+     hit a touch-pad that opens gate
+     or team-mate, lowest cumulative time
+     determines rankings
 
 Equipment:
-gloves - spiked at fingertips, asset at start and padding motion
-helmet - clear/tinted visors, extends under chin to reduce resistance
-racing suit - specially designed to reduce wind resistance
-shoes/booties - special shoes with zippers, to straighten out foot when zipper is closed, regulations for insole and heel
+  • gloves - spiked at fingertips, asset at 
+     start and padding motion
+  • helmet - clear/tinted visors, extends
+    under chin to reduce resistance
+  • racing suit - specially designed to 
+     reduce wind resistance
+  • shoes/booties - special shoes with
+    zippers, to straighten out foot when
+    zipper is closed, regulations for
+    insole and heel
 
-sled   
-2 bridges -part of sled that connects the two runners which the aerodynamic racing shell is suspended, made of steel, two, one in from one in back
-grip - each hand hold handle on side of sled
-2 runner(kufens) -usually made of fiberglass or wood, sliders steer by applying press with foot onto the runners
-pod - aerodynamic shell, serves as seat for athlete
-2 steels(steel runner) - two runners called steels, only part of sled that touches surface, attached to kufens
-no brakes
-weigh 21-25kg(46-55 lbs) for singles and 25-30 kilograms (55-66 lbs) for doubles
+Sled:   
+  • 2 bridges -part of sled that connects
+    the two runners which the aerodynamic
+    racing shell is suspended, made of
+    steel, two, one in from one in back
+  • grip - each hand hold handle on 
+    side of sled
+  • 2 runner(kufens) -usually made of
+    fiberglass or wood, sliders steer by
+    applying press with foot onto the runners
+  • pod - aerodynamic shell, serves as
+    seat for athlete
+  • 2 steels(steel runner) - two runners
+    called steels, only part of sled that
+    touches surface, attached to kufens
+  • no brakes
+  • weight: 21-25kg(46-55 lbs) for singles
+    and 25-30 kilograms (55-66 lbs) for doubles
+    
 
 Dates:
 8 February Men&apos;s singles runs 1 and 2
@@ -883,7 +916,7 @@ Dates:
 10 February Women&apos;s singles runs 1 and 2
 11 February Women&apos;s singles runs 3 and 4
 12 February Doubles runs 1 and 2
-13 February Team relay</string>
+13 February Team relay </string>
 			</dict>
 		</array>
 	</dict>
@@ -986,33 +1019,92 @@ Dates:
 				<key>Name</key>
 				<string>Short Track Speed Skating</string>
 				<key>Rules</key>
-				<string>Individual Events: There will be six individual competitions in this event during the Winter Games. Men and women alike will compete in 500-meter, 1,000-meter, and 1,500-meter races.
+				<string>
+Individual Events:
+  • Six individual competitions
+    Men and Women
+  • 500-meter, 1,000-meter, and 1,500-meter
 
-Team Events: There are two team events in short track speed skating as well. There will be a 5,000-meter four-skater relay on the men&apos;s side, and a 3,000-meter four-skater relay on the women&apos;s side.
+Team Events:
+  • Two team events in short track speed
+  • 5,000-meter men&apos;s four-skater relay
+  • 3,000-meter women&apos;s four-skater relay
 
-Qualifying Heats: To whittle down the field of 32 entrants in the 500-meter and 1,000-meter races, eight qualifying heats are contested. In the 1,500-meter race, 36 Olympians will compete in six qualifying heats.
+Qualifying Heats:
+  • 500-meter and 1,000-meter races
+    eight qualifying heats are contested.
+  • 1,500-meter race
+    36 Olympians will compete in six
+    qualifying heats.
 
-Advancing To The Finals: In the 500-meter and 1,000-meter events, the top two finishers in each heat move on to the next round. The top three finishers in each heat of the 1,500-meter race advance to the next round. Skaters can also advance if they are judged to have been interfered with during a heat.
+Finals:
+  • 500-meter and 1,000-meter events
+    the top two finishers in each heat
+    move on to the next round  of the
+  • 1,500-meter
+    Top three finishers in each heat
+    advance to the next round
+    Skaters can also advance if they are
+    judged to have been interfered with during
+    a heat
 
-The Medal Round: The top two finishers in the two semifinal heats in the 500-meter and 1,000-meter races advance to the medal round, while the top two finishers in three 1,500-meter semifinals will earn the right to compete for gold. The final is a winner-take-all race that will decide the medals.
+Medal Round:
+  • Top two finishers in the two 500-meter and
+    1,000-meter semifinal heats advance
+    to the medal round
+  • Top two finishers in three 1,500-meter
+    semifinals will compete for gold
+    Final - decides the medals
 
-Relay Setup: Eight teams will compete in each of the two relay competitions in short track speed skating. The top two finishers in a pair of semifinal heats advance to the medal round, which like the individual competition, will be decided by one race. Teams can also advance if they were interfered with.
+Relay Setup:
+  • Eight teams will compete in each of the
+    two relay competitions
+  • Top two finishers in a pair of semifinal
+    heats advance to the medal round
+    will be decided by one race
+    Teams can also advance if they were
+    interfered with during a heat
 
-Scoring: Skaters are timed to one-thousandth of a second, so ties are rare in this event. A referee is also present to make sure all skaters follow the rules of the competition.
 
-Disqualification: Not uncommon in short track speed skating, Olympians can be disqualified for a number of offenses. Multiple false starts, impeding other skaters, or skating outside of the track are three things that will get skaters disqualified from the competition.
+Scoring:
+  • Timed to one-thousandth of a second
+  • ties are rare in this event
+  • Referee is also present to ensure
+    all skaters follow the rules of the
+    competition
 
-Equipment: Skaters wear specialized skates with long blades and skin-tight suits to achieve peak speeds. Gloves are necessary as skaters often touch the ice while zooming through the turns. Helmets are mandatory in a sport with such inherent danger.
+Disqualification:
+  • multiple false starts
+  • impeding other skaters
+  • skating outside of the track
 
-Dates Of Competition: Short track speed skating will be competed during five days of the Winter Games. February 10 features the men&apos;s 1,500-meter final, February 13 features the women&apos;s 500-meter final, and the gold medals will be decided in the men&apos;s 1,000-meter and women&apos;s 1,500-meter events on February 15.
-
-After the women&apos;s relay final on February 18, the event will wrap up on February 21, which will feature the medal rounds in the men&apos;s 500-meter, women&apos;s 1,000-meter, and men&apos;s relay competitions.</string>
+</string>
 				<key>Description</key>
 				<string>Short track speed skating is one of the most competitive events at the Olympic Winter Games.
 
 Unlike its long track counterpart, where Olympians compete for the best overall time, short track speed skating is every man or woman for himself or herself. With skaters racing tightly in packs around a track roughly the size of an ice hockey rink, short track speed skating is fast, furious, and sometimes dangerous, as crashes sometimes occur in this event.
 
-One of the newer events at the Games, short track speed skating has been part of the Winter Olympiad since 1992.</string>
+Equipment:
+  • skates with long blades
+  • skin-tight suits to achieve peak speeds
+  • gloves, skaters often touch the ice
+    while zooming through the turns
+    helmets are mandatory
+
+Dates:
+  • five days of the Winter Games
+  • 10 February men&apos;s 1,500-meter final
+  • 13 February women&apos;s 500-meter final
+  • 15 February gold medals will be decided
+    men&apos;s 1,000-meter
+    women&apos;s 1,500-meter events
+  • 18 February women&apos;s relay final
+  • 21 February medal rounds in the
+    men&apos;s 500-meter
+    women&apos;s 1,000-meter
+    men&apos;s relay competitions
+
+</string>
 			</dict>
 		</array>
 		<key>Womens</key>
@@ -1021,65 +1113,92 @@ One of the newer events at the Games, short track speed skating has been part of
 				<key>Name</key>
 				<string>Short Track Speed Skating</string>
 				<key>Rules</key>
-				<string>Individual Events: There will be six individual competitions in this event during the Winter Games. Men and women alike will compete in 500-meter, 1,000-meter, and 1,500-meter races.
+				<string>
+Individual Events:
+  • Six individual competitions
+    Men and Women
+  • 500-meter, 1,000-meter, and 1,500-meter
 
-Team Events: There are two team events in short track speed skating as well. There will be a 5,000-meter four-skater relay on the men&apos;s side, and a 3,000-meter four-skater relay on the women&apos;s side.
+Team Events:
+  • Two team events in short track speed
+  • 5,000-meter men&apos;s four-skater relay
+  • 3,000-meter women&apos;s four-skater relay
 
-Qualifying Heats: To whittle down the field of 32 entrants in the 500-meter and 1,000-meter races, eight qualifying heats are contested. In the 1,500-meter race, 36 Olympians will compete in six qualifying heats.
+Qualifying Heats:
+  • 500-meter and 1,000-meter races
+    eight qualifying heats are contested.
+  • 1,500-meter race
+    36 Olympians will compete in six
+    qualifying heats.
 
-Advancing To The Finals: In the 500-meter and 1,000-meter events, the top two finishers in each heat move on to the next round. The top three finishers in each heat of the 1,500-meter race advance to the next round. Skaters can also advance if they are judged to have been interfered with during a heat.
+Finals:
+  • 500-meter and 1,000-meter events
+    the top two finishers in each heat
+    move on to the next round  of the
+  • 1,500-meter
+    Top three finishers in each heat
+    advance to the next round
+    Skaters can also advance if they are
+    judged to have been interfered with during
+    a heat
 
-The Medal Round: The top two finishers in the two semifinal heats in the 500-meter and 1,000-meter races advance to the medal round, while the top two finishers in three 1,500-meter semifinals will earn the right to compete for gold. The final is a winner-take-all race that will decide the medals.
+Medal Round:
+  • Top two finishers in the two 500-meter and
+    1,000-meter semifinal heats advance
+    to the medal round
+  • Top two finishers in three 1,500-meter
+    semifinals will compete for gold
+    Final - decides the medals
 
-Relay Setup: Eight teams will compete in each of the two relay competitions in short track speed skating. The top two finishers in a pair of semifinal heats advance to the medal round, which like the individual competition, will be decided by one race. Teams can also advance if they were interfered with.
+Relay Setup:
+  • Eight teams will compete in each of the
+    two relay competitions
+  • Top two finishers in a pair of semifinal
+    heats advance to the medal round
+    will be decided by one race
+    Teams can also advance if they were
+    interfered with during a heat
 
-Scoring: Skaters are timed to one-thousandth of a second, so ties are rare in this event. A referee is also present to make sure all skaters follow the rules of the competition.
 
-Disqualification: Not uncommon in short track speed skating, Olympians can be disqualified for a number of offenses. Multiple false starts, impeding other skaters, or skating outside of the track are three things that will get skaters disqualified from the competition.
+Scoring:
+  • Timed to one-thousandth of a second
+  • ties are rare in this event
+  • Referee is also present to ensure
+    all skaters follow the rules of the
+    competition
 
-Equipment: Skaters wear specialized skates with long blades and skin-tight suits to achieve peak speeds. Gloves are necessary as skaters often touch the ice while zooming through the turns. Helmets are mandatory in a sport with such inherent danger.
+Disqualification:
+  • multiple false starts
+  • impeding other skaters
+  • skating outside of the track
 
-Dates Of Competition: Short track speed skating will be competed during five days of the Winter Games. February 10 features the men&apos;s 1,500-meter final, February 13 features the women&apos;s 500-meter final, and the gold medals will be decided in the men&apos;s 1,000-meter and women&apos;s 1,500-meter events on February 15.
-
-After the women&apos;s relay final on February 18, the event will wrap up on February 21, which will feature the medal rounds in the men&apos;s 500-meter, women&apos;s 1,000-meter, and men&apos;s relay competitions.</string>
+</string>
 				<key>Description</key>
 				<string>Short track speed skating is one of the most competitive events at the Olympic Winter Games.
 
 Unlike its long track counterpart, where Olympians compete for the best overall time, short track speed skating is every man or woman for himself or herself. With skaters racing tightly in packs around a track roughly the size of an ice hockey rink, short track speed skating is fast, furious, and sometimes dangerous, as crashes sometimes occur in this event.
 
-One of the newer events at the Games, short track speed skating has been part of the Winter Olympiad since 1992.</string>
-			</dict>
-			<dict>
-				<key>Name</key>
-				<string></string>
-				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>Name</key>
-				<string></string>
-				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>Name</key>
-				<string></string>
-				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>Name</key>
-				<string></string>
-				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string></string>
+Equipment:
+  • skates with long blades
+  • skin-tight suits to achieve peak speeds
+  • gloves, skaters often touch the ice
+    while zooming through the turns
+    helmets are mandatory
+
+Dates:
+  • five days of the Winter Games
+  • 10 February men&apos;s 1,500-meter final
+  • 13 February women&apos;s 500-meter final
+  • 15 February gold medals will be decided
+    men&apos;s 1,000-meter
+    women&apos;s 1,500-meter events
+  • 18 February women&apos;s relay final
+  • 21 February medal rounds in the
+    men&apos;s 500-meter
+    women&apos;s 1,000-meter
+    men&apos;s relay competitions
+
+</string>
 			</dict>
 		</array>
 	</dict>
