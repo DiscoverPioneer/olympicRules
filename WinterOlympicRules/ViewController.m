@@ -9,6 +9,7 @@
 #import "ViewController.h"
 #import "EventsViewController.h"
 #import "DetailViewController.h"
+#import "CreatedByViewController.h"
 @interface ViewController (){
     NSMutableArray *sportsArray;
     UISearchDisplayController *searchDisplayController;
@@ -358,4 +359,8 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)infoButton:(id)sender {
+    
+    
+}
 @end
