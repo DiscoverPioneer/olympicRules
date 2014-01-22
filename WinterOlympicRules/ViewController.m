@@ -23,6 +23,14 @@
     self = [super initWithStyle:style];
     if (self) {
         // Custom initialization
+        //Set BackButton Background
+        //UIImage *backButtonImage = [[UIImage imageNamed:@"BackButton.png"] resizableImageWithCapInsets:UIEdgeInsetsMake(0, 13, 0, 6)];
+        //[[UIBarButtonItem appearance]setBackButtonBackgroundImage:backButtonImage forState:UIControlStateNormal barMetrics:UIBarMetricsDefault];
+        //[[UIBarButtonItem appearance]setBackButtonBackgroundImage:backButtonImage forState:UIControlStateReserved barMetrics:UIBarMetricsDefault];
+      //[self.navigationController.navigationItem.backBarButtonItem setBackButtonBackgroundImage:backButtonImage forState:UIControlStateNormal barMetrics:UIBarMetricsDefault];
+        //self.navigationItem.backBarButtonItem.tintColor = [UIColor whiteColor];
+
+        
     }
     return self;
 }
@@ -39,6 +47,11 @@
 
     [self.sportSearchBar sizeToFit];
     
+    UIImageView *imageView = [[UIImageView alloc] initWithFrame:self.view.frame];
+    [imageView setImage:[UIImage imageNamed:@"Background"]];
+    self.tableView.backgroundView = imageView;
+    self.tableView.backgroundColor = [UIColor clearColor];
+   
     // Hide the search bar until user scrolls up
     CGRect newBounds = self.tableView.bounds;
     newBounds.origin.y = newBounds.origin.y + self.sportSearchBar.bounds.size.height;
@@ -49,8 +62,16 @@
     
     // If you're worried that your users might not catch on to the fact that a search bar is available if they scroll to reveal it, a search icon will help them
     // If you don't hide your search bar in your app, don’t include this, as it would be redundant
+    [self.tableView scrollRectToVisible:CGRectMake(0, 0, 1, 1) animated:NO];
+
     [self.sportSearchBar becomeFirstResponder];
 }
+- (void)searchBarCancelButtonClicked:(UISearchBar *)searchBar {
+    
+    [self viewWillAppear:YES];
+    
+}
+
 
 #pragma mark Content Filtering
 -(void)filterContentForSearchText:(NSString*)searchText scope:(NSString*)scope {
@@ -115,18 +136,30 @@
     [self filterContentForSearchText:searchString scope:
      [[self.searchDisplayController.searchBar scopeButtonTitles] objectAtIndex:[self.searchDisplayController.searchBar selectedScopeButtonIndex]]];
     
+    
+    
     // Return YES to cause the search result table view to be reloaded.
     return YES;
 }
 
-
-
+- (void)searchDisplayControllerDidBeginSearch:(UISearchDisplayController *)controller
+{
+   
+}
+- (void)searchDisplayControllerDidEndSearch:(UISearchDisplayController *)controller
+{
+    
+}
 
 
 -(void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender{
     if (sender == self.searchDisplayController.searchResultsTableView) {
         DetailViewController *DVC = [segue destinationViewController];
-       
+        //Set BackButton Background
+        UIImage *backButtonImage = [[UIImage imageNamed:@"BackButton.png"] resizableImageWithCapInsets:UIEdgeInsetsMake(0, 13, 0, 6)];
+       [self.navigationController.navigationItem.backBarButtonItem setBackButtonBackgroundImage:backButtonImage forState:UIControlStateNormal barMetrics:UIBarMetricsDefault];
+        self.navigationItem.backBarButtonItem.tintColor = [UIColor whiteColor];
+
         
         NSIndexPath *indexPath = [self.searchDisplayController.searchResultsTableView indexPathForSelectedRow];
         if (indexPath.section==0) {
@@ -217,6 +250,7 @@
     // Configure the cell...
     if (tableView == self.searchDisplayController.searchResultsTableView) {
         cell.backgroundColor = [UIColor lightTextColor];
+        [cell.textLabel setTintColor:[UIColor whiteColor]];
         if (indexPath.section==0){
 
             

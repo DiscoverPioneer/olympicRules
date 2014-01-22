@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0928DCD1188F251D0069B0B2 /* BackButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 0928DCD0188F251D0069B0B2 /* BackButton.png */; };
 		09ED72D5188A04A400257CDF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 09ED72D4188A04A400257CDF /* Foundation.framework */; };
 		09ED72D7188A04A400257CDF /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 09ED72D6188A04A400257CDF /* CoreGraphics.framework */; };
 		09ED72D9188A04A400257CDF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 09ED72D8188A04A400257CDF /* UIKit.framework */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0928DCD0188F251D0069B0B2 /* BackButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BackButton.png; sourceTree = "<group>"; };
 		09ED72D1188A04A400257CDF /* WinterOlympicRules.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WinterOlympicRules.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		09ED72D4188A04A400257CDF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		09ED72D6188A04A400257CDF /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -129,6 +131,7 @@
 				09ED730A188A077300257CDF /* EventsViewController.m */,
 				09ED730C188A077B00257CDF /* DetailViewController.h */,
 				09ED730D188A077C00257CDF /* DetailViewController.m */,
+				0928DCD0188F251D0069B0B2 /* BackButton.png */,
 				09ED730F188A177D00257CDF /* Sports.plist */,
 				09ED72EC188A04A500257CDF /* Images.xcassets */,
 				09ED72DB188A04A400257CDF /* Supporting Files */,
@@ -243,6 +246,7 @@
 			files = (
 				09ED72ED188A04A500257CDF /* Images.xcassets in Resources */,
 				09ED7310188A177D00257CDF /* Sports.plist in Resources */,
+				0928DCD1188F251D0069B0B2 /* BackButton.png in Resources */,
 				09ED72DF188A04A400257CDF /* InfoPlist.strings in Resources */,
 				09ED72E8188A04A500257CDF /* Main.storyboard in Resources */,
 			);
@@ -476,6 +480,7 @@
 				09ED7305188A04A500257CDF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		09ED7306188A04A500257CDF /* Build configuration list for PBXNativeTarget "WinterOlympicRulesTests" */ = {
 			isa = XCConfigurationList;
@@ -484,6 +489,7 @@
 				09ED7308188A04A500257CDF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
