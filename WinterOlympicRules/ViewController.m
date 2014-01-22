@@ -264,6 +264,10 @@
     }
     else
         cell.textLabel.text=[[sportsArray objectAtIndex:indexPath.row]objectForKey:@"Sport"];
+
+    cell.textLabel.textAlignment = NSTextAlignmentCenter;
+    cell.textLabel.textColor = [UIColor whiteColor];
+
     return cell;
 }
 

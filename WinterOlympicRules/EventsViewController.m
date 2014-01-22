@@ -36,6 +36,12 @@
 	// Do any additional setup after loading the view.
     mensArray =[[NSArray alloc]initWithArray:[self.events objectForKey:@"Mens"]];
     womensArray =[[NSArray alloc]initWithArray:[self.events objectForKey:@"Womens"]];
+    
+    //TableView
+    UIImageView *imageView = [[UIImageView alloc] initWithFrame:self.view.frame];
+    [imageView setImage:[UIImage imageNamed:@"Background"]];
+    self.tableView.backgroundView = imageView;
+    self.tableView.backgroundColor = [UIColor clearColor];
 }
 
 
@@ -80,6 +86,8 @@
         cell.textLabel.text = [[womensArray objectAtIndex:indexPath.row]objectForKey:@"Name"];
 
     }
+    cell.textLabel.textAlignment = NSTextAlignmentCenter;
+    cell.textLabel.textColor = [UIColor whiteColor];
     return cell;
 }
 
