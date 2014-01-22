@@ -27,6 +27,7 @@
 		09ED730E188A077C00257CDF /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 09ED730D188A077C00257CDF /* DetailViewController.m */; };
 		09ED7310188A177D00257CDF /* Sports.plist in Resources */ = {isa = PBXBuildFile; fileRef = 09ED730F188A177D00257CDF /* Sports.plist */; };
 		CE00F611188F92B200BA1B81 /* CreatedByViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE00F610188F92B200BA1B81 /* CreatedByViewController.m */; };
+		CE00F614188FA08800BA1B81 /* WebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE00F613188FA08800BA1B81 /* WebViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,6 +69,8 @@
 		09ED730F188A177D00257CDF /* Sports.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Sports.plist; sourceTree = "<group>"; };
 		CE00F60F188F92B100BA1B81 /* CreatedByViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CreatedByViewController.h; sourceTree = "<group>"; };
 		CE00F610188F92B200BA1B81 /* CreatedByViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CreatedByViewController.m; sourceTree = "<group>"; };
+		CE00F612188FA08800BA1B81 /* WebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebViewController.h; sourceTree = "<group>"; };
+		CE00F613188FA08800BA1B81 /* WebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,6 +141,8 @@
 				09ED730D188A077C00257CDF /* DetailViewController.m */,
 				CE00F60F188F92B100BA1B81 /* CreatedByViewController.h */,
 				CE00F610188F92B200BA1B81 /* CreatedByViewController.m */,
+				CE00F612188FA08800BA1B81 /* WebViewController.h */,
+				CE00F613188FA08800BA1B81 /* WebViewController.m */,
 				0928DCD0188F251D0069B0B2 /* BackButton.png */,
 				09ED730F188A177D00257CDF /* Sports.plist */,
 				09C46D7518902CDA0073655F /* OlympicSchedule.pdf */,
@@ -277,6 +282,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				09ED730E188A077C00257CDF /* DetailViewController.m in Sources */,
+				CE00F614188FA08800BA1B81 /* WebViewController.m in Sources */,
 				09ED72EB188A04A500257CDF /* ViewController.m in Sources */,
 				09ED730B188A077300257CDF /* EventsViewController.m in Sources */,
 				09ED72E5188A04A500257CDF /* AppDelegate.m in Sources */,

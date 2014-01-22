@@ -741,49 +741,81 @@ Short-handed</string>
 				<string>Luge</string>
 				<key>Rules</key>
 				<string>Procedure:
-Athletes ride in flat, aerodynamic position on sled, keeping heads low to minimize wind resistance
-sled is steered  by calves applying pressure on the runners, a mix of shifting weight, calf pressure and rolling shoulders, handles for minor adjustments
-sliders ‘visualize’ course in their minds before run
-tastes times result from following the perfect ‘line’ down the track
-average speed of 120-145 km/h(75-90mph)/up to 5G’s
-mens’ singles start location near where bobslegh and skeleton
-doubles and women’s singles have start location further down track
+  • athletes ride in flat, aerodynamic position
+    on sled, keeping heads low to minimize 
+    wind resistance
+  • sled is steered by a mix of shifting weight,
+    flexing sled’s runners with calf of each leg
+    or exerting opposite shoulder pressure
+    to seat
+  • sliders ‘visualize’ course in their minds
+    before run
+  • best times result from following the perfect
+    ‘line’ down the track
+  • average speed of 120-145 km/h
+    (75-90mph) and up to 5G’s
+  • mens’ singles start location is near the
+    bobsleigh and skeleton start location
+  • doubles and women’s singles have
+    start location further down track
+  • athlete must cross finish line in contact
+    with sled
 
 Scoring:
-Runs timed electronically to 0.001 seconds
-four runs over two days
-medals decided by the shortest cumulative time
-team relays  - each team enters 3 sleds(men’s, women’s, doubles)after each athlete crosses finish line, they must hit a touch-pad that opens gate for team-mate, lowest cumulative time determines rankings</string>
+  • runs timed electronically to 0.001 seconds
+  • four runs over two days
+  • medals decided by the shortest 
+    cumulative time
+  • lowest cumulative time determines rankings
+  • winner is competitor with fastest
+    combined times</string>
 				<key>Description</key>
 				<string>
-luge is french word for sledge
-of three Olympic sliding sports(bobsleigh/skeleton), luge is fastest and most dangerous
-competitors lye on backs on tiny sled with feet out stretched in front of them
-speeds in range of 140 km/h(87mph) without brakes
-singles and pair events, larger of two team members lying on tops for better aerodynamics
-steering done by flexing sled’s runners with calf of each leg or exerting opposite shoulder pressure to seat
-athlete must cross finish line in contact with sled
+Luge is a french word for sledge. Of the three Olympic sliding sports (bobsleigh, skeleton and luge) luge is the fastest and most dangerous. Competitors lye on their backs on a tiny sled with their feet outstretched in front of them. They reach speeds in the range of 140 km/h(87mph) with sleds that don’t have brakes.
 
-four luge disciplines
-	men’s singles
-	men’s doubles
-	women’s singles
-	team relay
+Four luge disciplines
+  • Men’s singles
+  • Men’s doubles (larger of two team 
+     members lying on top for better 
+     aerodynamics)
+  • Women’s singles
+  • Team relay - each team enters 3 sleds 
+     (men’s, women’s, doubles)after each
+     athlete crosses finish line, they must
+     hit a touch-pad that opens gate
+     or team-mate, lowest cumulative time
+     determines rankings
 
 Equipment:
-gloves - spiked at fingertips, asset at start and padding motion
-helmet - clear/tinted visors, extends under chin to reduce resistance
-racing suit - specially designed to reduce wind resistance
-shoes/booties - special shoes with zippers, to straighten out foot when zipper is closed, regulations for insole and heel
+  • gloves - spiked at fingertips, asset at 
+     start and padding motion
+  • helmet - clear/tinted visors, extends
+    under chin to reduce resistance
+  • racing suit - specially designed to 
+     reduce wind resistance
+  • shoes/booties - special shoes with
+    zippers, to straighten out foot when
+    zipper is closed, regulations for
+    insole and heel
 
-sled   
-2 bridges -part of sled that connects the two runners which the aerodynamic racing shell is suspended, made of steel, two, one in from one in back
-grip - each hand hold handle on side of sled
-2 runner(kufens) -usually made of fiberglass or wood, sliders steer by applying press with foot onto the runners
-pod - aerodynamic shell, serves as seat for athlete
-2 steels(steel runner) - two runners called steels, only part of sled that touches surface, attached to kufens
-no brakes
-weigh 21-25kg(46-55 lbs) for singles and 25-30 kilograms (55-66 lbs) for doubles
+Sled:   
+  • 2 bridges -part of sled that connects
+    the two runners which the aerodynamic
+    racing shell is suspended, made of
+    steel, two, one in from one in back
+  • grip - each hand hold handle on 
+    side of sled
+  • 2 runner(kufens) -usually made of
+    fiberglass or wood, sliders steer by
+    applying press with foot onto the runners
+  • pod - aerodynamic shell, serves as
+    seat for athlete
+  • 2 steels(steel runner) - two runners
+    called steels, only part of sled that
+    touches surface, attached to kufens
+  • no brakes
+  • weight: 21-25kg(46-55 lbs) for singles
+    and 25-30 kilograms (55-66 lbs) for doubles
 
 Dates:
 8 February Men&apos;s singles runs 1 and 2
@@ -791,7 +823,7 @@ Dates:
 10 February Women&apos;s singles runs 1 and 2
 11 February Women&apos;s singles runs 3 and 4
 12 February Doubles runs 1 and 2
-13 February Team relay</string>
+13 February Team relay </string>
 			</dict>
 		</array>
 		<key>Womens</key>
