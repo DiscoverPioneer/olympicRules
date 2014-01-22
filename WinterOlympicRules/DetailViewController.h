@@ -16,4 +16,6 @@
 
 @property (strong, nonatomic) IBOutlet UITextView *textView;
 @property (strong, nonatomic) IBOutlet UILabel *detailLabel;
+
+- (NSMutableAttributedString*) setColor:(UIColor*)color word:(NSString*)word inText:(NSMutableAttributedString*)mutableAttributedString;
 @end
