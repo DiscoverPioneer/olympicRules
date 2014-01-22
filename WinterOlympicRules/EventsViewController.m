@@ -87,6 +87,8 @@
         cell.textLabel.text = [[womensArray objectAtIndex:indexPath.row]objectForKey:@"Name"];
 
     }
+    cell.textLabel.textAlignment = NSTextAlignmentCenter;
+    cell.textLabel.textColor = [UIColor whiteColor];
     return cell;
 }
 

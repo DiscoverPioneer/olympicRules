@@ -25,6 +25,14 @@
         //UIImage *backButtonImage = [[UIImage imageNamed:@"BackButton.png"] resizableImageWithCapInsets:UIEdgeInsetsMake(0, 13, 0, 6)];
         //[self.navigationController.navigationItem.backBarButtonItem setBackButtonBackgroundImage:backButtonImage forState:UIControlStateNormal barMetrics:UIBarMetricsDefault];
         //[[UIBarButtonItem appearance]setBackButtonBackgroundImage:backButtonImage forState:UIControlStateNormal barMetrics:UIBarMetricsDefault];
+        
+        
+        
+        //Background
+        UIImageView *imageView = [[UIImageView alloc] initWithFrame:self.view.frame];
+        [imageView setImage:[UIImage imageNamed:@"Background"]];
+        [self.view addSubview:imageView];
+        self.view.backgroundColor = [UIColor clearColor];
     }
     return self;
 }
