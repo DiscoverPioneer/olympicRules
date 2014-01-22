@@ -270,6 +270,7 @@
 
         cell.textLabel.textAlignment = NSTextAlignmentCenter;
         cell.textLabel.textColor = [UIColor whiteColor];
+        
     }
 
     return cell;
