@@ -137,6 +137,15 @@
                                     <action selector="backButton:" destination="URA-2h-hII" eventType="touchUpInside" id="tWg-aE-WqC"/>
                                 </connections>
                             </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" text="This application is sponsored by University Primetime. Visit them at www.UniversityPrimetime.com" textAlignment="center" id="Imi-Lb-OY8">
+                                <rect key="frame" x="0.0" y="506" width="313" height="42"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                <dataDetectorType key="dataDetectorTypes" link="YES"/>
+                            </textView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
@@ -187,7 +196,7 @@
                         </connections>
                     </tableView>
                     <navigationItem key="navigationItem" title="Sochi 2014" id="yvB-WD-GxJ">
-                        <barButtonItem key="leftBarButtonItem" title="Item" style="plain" id="4Tg-XK-Vok">
+                        <barButtonItem key="leftBarButtonItem" title="Item" id="4Tg-XK-Vok">
                             <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="infoLight" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="HAx-t8-Yow">
                                 <rect key="frame" x="16" y="11" width="22" height="22"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
