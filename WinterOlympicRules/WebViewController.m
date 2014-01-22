@@ -47,7 +47,8 @@
     [self.webView setOpaque:NO];
     [self.webView setScalesPageToFit:YES];
     
-    NSString *fullURL = @"http://www.discoverPioneer.com";
+    //NSString *fullURL = @"http://www.discoverPioneer.com";
+    NSString *fullURL = self.URL;
     NSURL *url = [NSURL URLWithString:fullURL];
     NSURLRequest *request = [NSURLRequest requestWithURL:url cachePolicy:NSURLRequestUseProtocolCachePolicy timeoutInterval:60.0];
     [self.webView loadRequest:request];

@@ -7,7 +7,7 @@
 //
 
 #import "CreatedByViewController.h"
-
+#import "WebViewController.h"
 @interface CreatedByViewController ()
 - (IBAction)backButton:(id)sender;
 
@@ -30,6 +30,20 @@
 	// Do any additional setup after loading the view.
 }
 
+
+-(void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender{
+    WebViewController *WVC = [segue destinationViewController];
+
+    if ([segue.identifier isEqualToString:@"webView"]) {
+        [WVC setURL:@"http://www.discoverPioneer.com"];
+    }
+    else if ([segue.identifier isEqualToString:@"webView2"]){
+        [WVC setURL:@"http://www.UniversityPrimetime.com"];
+
+    }
+    
+}
+
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
@@ -41,4 +55,5 @@
     [self dismissViewControllerAnimated:YES
                              completion:nil];
 }
+
 @end
