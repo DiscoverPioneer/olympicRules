@@ -41,24 +41,26 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view.
+    self.detailLabel.backgroundColor = [UIColor clearColor];
+    self.detailLabel.opaque=NO;
     self.detailLabel.text = self.nameString;
-    completeString = [NSString stringWithFormat:@"                              Description:\n%@\n\n                                   Rules:\n%@",self.descriptionString,self.ruleString];
+    completeString = [NSString stringWithFormat:@"                           Description:\n%@\n\n                          Competition:\n%@",self.descriptionString,self.ruleString];
    
     //UIFont *italic = [UIFont italicSystemFontOfSize:14.0f];
     //UIFont *boldItalic = [UIFont fontWithName:@"Trebuchet-BoldItalic" size:14];
-    UIFont *boldItalic = [UIFont fontWithName:@"Arial-BoldItalicMT" size:14];
+    UIFont *boldItalic = [UIFont fontWithName:@"Arial-BoldItalicMT" size:15];
     //UIFont *otherItalic = [UIFont italicSystemFontOfSize:12.0];
     NSMutableAttributedString *mutable = [[NSMutableAttributedString alloc] initWithString:completeString];
-    [mutable addAttribute:NSFontAttributeName value:[UIFont fontWithName:@"ArialMT" size:14] range:[completeString rangeOfString:completeString]];
+    [mutable addAttribute:NSFontAttributeName value:[UIFont fontWithName:@"ArialMT" size:15] range:[completeString rangeOfString:completeString]];
     
     //[mutable addAttribute:NSForegroundColorAttributeName value:[UIColor colorWithRed: 255.0/255.0f green:255.0/255.0f blue:255.0/255.0f alpha:1.0] range:[completeString rangeOfString:completeString]];
     [mutable addAttribute:NSForegroundColorAttributeName value:[UIColor whiteColor] range:[completeString rangeOfString:completeString]];
     
     
     NSArray *headers;
-    headers = @[@"Rules:", @"Equipment:", @"Description:", @"Equipment:", @"Dates:", @"Procedure:", @"Scoring:"];
+    headers = @[@"Sled:",@"Competition:", @"Equipment:", @"Description:", @"Equipment:", @"Dates:", @"Procedure:", @"Scoring:"];
     for (NSString *string in headers) {
-        [mutable addAttribute:NSFontAttributeName value:[UIFont fontWithName:@"Arial-BoldMT" size:14] range:[completeString rangeOfString:string]];
+        [mutable addAttribute:NSFontAttributeName value:[UIFont fontWithName:@"Arial-BoldMT" size:15] range:[completeString rangeOfString:string]];
         //[mutable addAttribute:NSFontAttributeName value:[UIFont boldSystemFontOfSize:14] range:[completeString rangeOfString:string]];
     }
     
