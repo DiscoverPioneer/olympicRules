@@ -40,8 +40,12 @@
     
     UIImageView *imageView = [[UIImageView alloc] initWithFrame:self.view.frame];
     [imageView setImage:[UIImage imageNamed:@"Background"]];
-    imageView.alpha = .7;
+    //imageView.alpha = .7;
     self.tableView.backgroundView = imageView;
+    
+    
+    
+    
     
 }
 
@@ -51,11 +55,13 @@
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView
 {
     // Return the number of sections.
+    
     return 2;
 }
 
 - (NSString *)tableView:(UITableView *)tableView titleForHeaderInSection:(NSInteger)section
 {
+    tableView.backgroundColor = [UIColor lightTextColor];
     if(section==0)
         return @"Men's Events";
     else

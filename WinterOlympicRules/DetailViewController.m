@@ -51,7 +51,8 @@
     NSMutableAttributedString *mutable = [[NSMutableAttributedString alloc] initWithString:completeString];
     [mutable addAttribute:NSFontAttributeName value:[UIFont fontWithName:@"ArialMT" size:14] range:[completeString rangeOfString:completeString]];
     
-    [mutable addAttribute:NSForegroundColorAttributeName value:[UIColor colorWithRed: 17.0/255.0f green:36.0/255.0f blue:255.0/255.0f alpha:1.0] range:[completeString rangeOfString:completeString]];
+    //[mutable addAttribute:NSForegroundColorAttributeName value:[UIColor colorWithRed: 255.0/255.0f green:255.0/255.0f blue:255.0/255.0f alpha:1.0] range:[completeString rangeOfString:completeString]];
+    [mutable addAttribute:NSForegroundColorAttributeName value:[UIColor whiteColor] range:[completeString rangeOfString:completeString]];
     
     
     NSArray *headers;
@@ -65,7 +66,7 @@
     NSString *bullet = @"•";
     //NSRange bulletText = [completeString rangeOfString:bullet];
     //[mutable addAttribute:NSForegroundColorAttributeName value:[UIColor colorWithRed: 150.0/255.0f green:70.0/255.0f blue:140.0/255.0f alpha:1.0] range:bulletText];
-    UIColor * bulletColor = [UIColor colorWithRed:0.0/255.0f green:70.0/255.0f blue:150.0/255.0f alpha:0.85];
+    //UIColor * bulletColor = [UIColor colorWithRed:0.0/255.0f green:70.0/255.0f blue:150.0/255.0f alpha:0.85];
     
     NSUInteger count = 0, length = [completeString length];
     NSRange range = NSMakeRange(0, length);
@@ -74,7 +75,7 @@
     {
         range = [completeString rangeOfString:bullet options:0 range:range];
         if(range.location != NSNotFound) {
-            [mutable addAttribute:NSForegroundColorAttributeName value:bulletColor range:NSMakeRange(range.location, [bullet length])];
+            [mutable addAttribute:NSForegroundColorAttributeName value:[UIColor whiteColor] range:NSMakeRange(range.location, [bullet length])];
             range = NSMakeRange(range.location + range.length, length - (range.location + range.length));
             count++;
         }
