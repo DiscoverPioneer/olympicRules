@@ -16,5 +16,6 @@
 
 @property (strong, nonatomic) IBOutlet UISearchBar *sportSearchBar;
 
+- (IBAction)infoButton:(id)sender;
 
 @end
