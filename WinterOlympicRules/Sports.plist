@@ -1212,50 +1212,68 @@ Dates:
 				<string>Skeleton</string>
 				<key>Rules</key>
 				<string>Scoring:
-• two days of competition, two runs per day
-• total of four runs
-• once fourth run is complete, times of all runs are added together.
-• competitor with fastest combined times is winner.
+  • two days of competition, two runs per day
+  • total of four runs
+  • when fourth run completed
+    times of all runs are added together
+  • competitor with fastest combined times
+    is winner
+  • runs timed electronically to 0.01 seconds
 
 Procedure:
-running start/push(up to @40 meters)within 30 seconds of start signal, spiked shoes assist, then dive/throw selves onto sled, lying prone, arms straight and tucked at their sides 
-race down course, shifting body to control sled, shoulders and head steer
-max sled weight 43kg - combined weight of sled and athlete cannot exceed 115 kilograms(253.53 pounds).</string>
+  • running start or push(up to @40 meters)
+    within 30 seconds of start signal
+    spiked shoes assist
+  • then dive/throw selves onto sled
+    lying prone, arms straight and tucked
+    at their sides
+    while racing down course
+  • steering - shifting body to control sled
+    using shoulders and head to steer
+  • max sled weight 43kg
+    combined weight of sled and athlete
+    cannot exceed 115 kilograms
+    (253.53 pounds).</string>
 				<key>Description</key>
-				<string>Reappeared in Olympics in 2002
-head first down frozen track or’run’(same as bobsleigh/luge) min 1200 m long, ascending sections must not comprise more that 12% of total distance
-upward of speeds of 90mph/135kmh forces up to 5g(@space shuttle takeoff)
-sled can only be ridden in prone postion(face first on stomach)
-no steering mechanism on sled so riders use torque provide by head and  shoulders
-no brakes on sled so riders use rakes on their boots and upward incline at end of finish line
-rider may leave sled during run but must cross finish line on the sled for valid run
-temp of sled runners  must be 4degreesC of the reference runner to prevent gaining advantage of heated runners
-Runs timed electronically to 0.01 seconds
+				<string>
+Skeleton reappeared in the Olympics in 2002. Riders race head first down a frozen track or ’run’ (same used for bobsleigh and luge) for minimum distance of 1200m. Ascending sections must not comprise more that 12% of total distance of track.
+
+Sleds travel upward of speeds of 90mph/135kmh forces up to 5g(similar to space shuttle takeoff) Sleds can only be ridden in prone postion(face first on stomach). There is no steering mechanism on sled so riders use torque provide by head and shoulders. Also, no brakes on sled so riders use the rakes on their boots and an upward incline at end of finish line. Riders may leave their sled during run but must cross finish line on the sled for a valid run.The temperature of sled runners  must be 4degreesC of the reference runner, to prevent gaining speedadvantage of heated runners.
+
 
 Equipment:
-speed suit - skin tight to maximize aerodynamics of body
-helmet with chin guard or skeleton-specific helmet
-gloves
-spiked shoes
-googles or face shield
-optional padding under suit, elbow or shoulder pads
+  • speed suit - skin tight to maximize
+    aerodynamics of body
+  • helmet with chin guard or skeleton-specific
+    helmet
+  • gloves
+  • spiked shoes
+  • googles or face shield
+  • optional padding under suit, elbow or
+    shoulder pads
 
-sled   
-board on top
-tow blades under
-handles to hold on to while going down run
-no steering of=r brakes
-front and rear bumpers, absorb shocks from wall
-	Dimentions
-	   Length:800-1200 mm
-	   Height:80-200mm
-	   Distance between runners:340-380mm
+Sled:
+  • board on top
+  • tow blades under
+  • handles to hold on to while going down run
+  • no steering of=r brakes
+  • front and rear bumpers, absorb shocks from
+    wall
+  
+  Dimentions
+    Length:800-1200 mm
+    Height:80-200mm
+    Distance between runners:340-380mm
 
 Dates:
-February 13 - first tow heats of women’s racing.
-February 14 - first tow heats of men’s racing
-	women’s complete competition with medal round
-February 15 - men’s final heats and medals awarded.</string>
+  • 13 February first heats of women’s racing
+  • 14 February first heats of men’s racing
+    women’s complete competition with
+    medal round
+  • 15 February men’s final heats
+    medals awarded.
+
+                </string>
 			</dict>
 		</array>
 		<key>Womens</key>
@@ -1265,50 +1283,68 @@ February 15 - men’s final heats and medals awarded.</string>
 				<string>Skeleton</string>
 				<key>Rules</key>
 				<string>Scoring:
-two days of competition, two runs per day
-total of four runs
-once fourth run is complete, times of all runs are added together.
-competitor with fastest combined times is winner.
+  • two days of competition, two runs per day
+  • total of four runs
+  • when fourth run completed
+    times of all runs are added together
+  • competitor with fastest combined times
+    is winner
+  • runs timed electronically to 0.01 seconds
 
 Procedure:
-running start/push(up to @40 meters)within 30 seconds of start signal, spiked shoes assist, then dive/throw selves onto sled, lying prone, arms straight and tucked at their sides 
-race down course, shifting body to control sled, shoulders and head steer
-max sled weight 35kg - combined weight of sled and athlete cannot exceed 92 kilograms(208.82 pounds).</string>
+  • running start or push(up to @40 meters)
+    within 30 seconds of start signal
+    spiked shoes assist
+  • then dive/throw selves onto sled
+    lying prone, arms straight and tucked
+    at their sides
+    while racing down course
+  • steering - shifting body to control sled
+    using shoulders and head to steer
+  • max sled weight 43kg
+    combined weight of sled and athlete
+    cannot exceed 115 kilograms
+    (253.53 pounds).</string>
 				<key>Description</key>
-				<string>Reappeared in Olympics in 2002
-head first down frozen track or’run’(same as bobsleigh/luge) min 1200 m long, ascending sections must not comprise more that 12% of total distance
-upward of speeds of 90mph/135kmh forces up to 5g(@space shuttle takeoff)
-sled can only be ridden in prone postion(face first on stomach)
-no steering mechanism on sled so riders use torque provide by head and  shoulders
-no brakes on sled so riders use rakes on their boots and upward incline at end of finish line
-rider may leave sled during run but must cross finish line on the sled for valid run
-temp of sled runners  must be 4degreesC of the reference runner to prevent gaining advantage of heated runners
-Runs timed electronically to 0.01 seconds
+				<string>
+Skeleton reappeared in the Olympics in 2002. Riders race head first down a frozen track or ’run’ (same used for bobsleigh and luge) for minimum distance of 1200m. Ascending sections must not comprise more that 12% of total distance of track.
+
+Sleds travel upward of speeds of 90mph/135kmh forces up to 5g(similar to space shuttle takeoff) Sleds can only be ridden in prone postion(face first on stomach). There is no steering mechanism on sled so riders use torque provide by head and shoulders. Also, no brakes on sled so riders use the rakes on their boots and an upward incline at end of finish line. Riders may leave their sled during run but must cross finish line on the sled for a valid run.The temperature of sled runners  must be 4degreesC of the reference runner, to prevent gaining speedadvantage of heated runners.
+
 
 Equipment:
-speed suit - skin tight to maximize aerodynamics of body
-helmet with chin guard or skeleton-specific helmet
-gloves
-spiked shoes
-googles or face shield
-optional padding under suit, elbow or shoulder pads
+  • speed suit - skin tight to maximize
+    aerodynamics of body
+  • helmet with chin guard or skeleton-specific
+    helmet
+  • gloves
+  • spiked shoes
+  • googles or face shield
+  • optional padding under suit, elbow or
+    shoulder pads
 
-sled   
-board on top
-tow blades under
-handles to hold on to while going down run
-no steering of=r brakes
-front and rear bumpers, absorb shocks from wall
-	Dimentions
-	   Length:800-1200 mm
-	   Height:80-200mm
-	   Distance between runners:340-380mm
+Sled:
+  • board on top
+  • tow blades under
+  • handles to hold on to while going down run
+  • no steering of=r brakes
+  • front and rear bumpers, absorb shocks from
+    wall
+  
+  Dimentions
+    Length:800-1200 mm
+    Height:80-200mm
+    Distance between runners:340-380mm
 
 Dates:
-February 13 - first tow heats of women’s racing.
-February 14 - first tow heats of men’s racing
-	women’s complete competition with medal round
-February 15 - men’s final heats and medals awarded.</string>
+  • 13 February first heats of women’s racing
+  • 14 February first heats of men’s racing
+    women’s complete competition with
+    medal round
+  • 15 February men’s final heats
+    medals awarded.
+
+                </string>
 			</dict>
 		</array>
 	</dict>
