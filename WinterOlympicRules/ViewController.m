@@ -211,6 +211,11 @@
             [EVC setTitle:[[sportsArray objectAtIndex:indexPath.row]objectForKey:@"Sport"]];
             [EVC setEvents:[sportsArray objectAtIndex:indexPath.row]];
         }
+        else if ([segue.identifier isEqualToString:@"Disclosure"]){
+            NSLog(@"here");
+            
+        }
+            
     }
     
     
@@ -331,6 +336,8 @@
     }
 
 }
+
+
 
 
 

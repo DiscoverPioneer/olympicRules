@@ -105,6 +105,35 @@
             </objects>
             <point key="canvasLocation" x="2058" y="-414"/>
         </scene>
+        <!--View Controller - Disclosure-->
+        <scene sceneID="cpW-gb-Kb8">
+            <objects>
+                <viewController title="Disclosure" id="URA-2h-hII" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="bH3-4d-hGg">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Background" id="faG-Oy-ck9">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            </imageView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" text="This app was created by Pioneer Mobile Applications. Please visit us at www.discoverPioneer.com" textAlignment="center" id="VEt-KK-8aD">
+                                <rect key="frame" x="20" y="220" width="280" height="128"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="19"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                <dataDetectorType key="dataDetectorTypes" link="YES"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="IAa-Dl-ri2"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="hNM-An-e4V" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1738" y="721"/>
+        </scene>
         <!--View Controller - Sochi 2014-->
         <scene sceneID="8D2-yZ-eLh">
             <objects>
@@ -140,6 +169,16 @@
                         </connections>
                     </tableView>
                     <navigationItem key="navigationItem" title="Sochi 2014" id="yvB-WD-GxJ">
+                        <barButtonItem key="leftBarButtonItem" style="plain" id="4Tg-XK-Vok">
+                            <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="infoLight" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="HAx-t8-Yow">
+                                <rect key="frame" x="16" y="11" width="22" height="22"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                <state key="normal">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                            </button>
+                        </barButtonItem>
                         <barButtonItem key="rightBarButtonItem" systemItem="search" id="3YR-cy-yVh">
                             <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                             <connections>
