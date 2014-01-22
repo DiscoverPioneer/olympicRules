@@ -29,10 +29,10 @@
         
         
         //Background
-        UIImageView *imageView = [[UIImageView alloc] initWithFrame:self.view.frame];
+        /*UIImageView *imageView = [[UIImageView alloc] initWithFrame:self.view.frame];
         [imageView setImage:[UIImage imageNamed:@"Background"]];
         [self.view addSubview:imageView];
-        self.view.backgroundColor = [UIColor clearColor];
+        self.view.backgroundColor = [UIColor clearColor];*/
     }
     return self;
 }
@@ -51,7 +51,7 @@
     NSMutableAttributedString *mutable = [[NSMutableAttributedString alloc] initWithString:completeString];
     [mutable addAttribute:NSFontAttributeName value:[UIFont fontWithName:@"ArialMT" size:14] range:[completeString rangeOfString:completeString]];
     
-    [mutable addAttribute:NSForegroundColorAttributeName value:[UIColor colorWithRed: 32.0/255.0f green:70.0/255.0f blue:175.0/255.0f alpha:1.0] range:[completeString rangeOfString:completeString]];
+    [mutable addAttribute:NSForegroundColorAttributeName value:[UIColor colorWithRed: 17.0/255.0f green:36.0/255.0f blue:255.0/255.0f alpha:1.0] range:[completeString rangeOfString:completeString]];
     
     
     NSArray *headers;
