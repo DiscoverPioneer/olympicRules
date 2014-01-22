@@ -163,8 +163,9 @@
 }
 
 - (void)searchDisplayControllerDidBeginSearch:(UISearchDisplayController *)controller
+
 {
-   
+    [controller.searchResultsTableView setBackgroundColor:[UIColor lightTextColor]];
 }
 - (void)searchDisplayControllerDidEndSearch:(UISearchDisplayController *)controller
 {
@@ -303,11 +304,13 @@
             cell.textLabel.text=[[self.womensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Name"];
 
     }
-    else
+    else{
         cell.textLabel.text=[[sportsArray objectAtIndex:indexPath.row]objectForKey:@"Sport"];
 
-    cell.textLabel.textAlignment = NSTextAlignmentCenter;
-    cell.textLabel.textColor = [UIColor whiteColor];
+        cell.textLabel.textAlignment = NSTextAlignmentCenter;
+        cell.textLabel.textColor = [UIColor whiteColor];
+        
+    }
 
     return cell;
 }
