@@ -36,6 +36,13 @@
 	// Do any additional setup after loading the view.
     mensArray =[[NSArray alloc]initWithArray:[self.events objectForKey:@"Mens"]];
     womensArray =[[NSArray alloc]initWithArray:[self.events objectForKey:@"Womens"]];
+    
+    
+    UIImageView *imageView = [[UIImageView alloc] initWithFrame:self.view.frame];
+    [imageView setImage:[UIImage imageNamed:@"Background"]];
+    imageView.alpha = .7;
+    self.tableView.backgroundView = imageView;
+    
 }
 
 

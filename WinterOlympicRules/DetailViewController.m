@@ -86,6 +86,10 @@
 
     [self.textView setAttributedText:mutable];
     //self.textView.text=bulletList;
+    
+    
+
+   
 }
 
 

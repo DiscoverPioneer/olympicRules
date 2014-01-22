@@ -48,15 +48,35 @@
     [self.sportSearchBar sizeToFit];
     
     UIImageView *imageView = [[UIImageView alloc] initWithFrame:self.view.frame];
-    [imageView setImage:[UIImage imageNamed:@"Background"]];
+   [imageView setImage:[UIImage imageNamed:@"Background"]];
+    imageView.alpha = .7;
     self.tableView.backgroundView = imageView;
-    self.tableView.backgroundColor = [UIColor clearColor];
+    //imageView.backgroundColor=[UIColor colorWithHue:.1 saturation:.3 brightness:.9 alpha:.5];
+
+    
+    //self.tableView.opaque = NO;
+    //self.tableView.alpha = .5;
+
+    //self.tableView.backgroundColor = [UIColor colorWithHue:.5 saturation:1 brightness:.5 alpha:.9];//[UIColor clearColor];
+    
+   
+    
+  
+    
+   
+    
    
     // Hide the search bar until user scrolls up
     CGRect newBounds = self.tableView.bounds;
     newBounds.origin.y = newBounds.origin.y + self.sportSearchBar.bounds.size.height;
     self.tableView.bounds = newBounds;
 }
+
+/*- (void)tableView:(UITableView *)tableView willDisplayCell:(UITableViewCell *)cell forRowAtIndexPath:(NSIndexPath *)indexPath {
+    [cell setBackgroundColor:[UIColor clearColor]];
+    [cell setTintColor:[UIColor clearColor]];
+    
+}*/
 
 -(IBAction)goToSearch:(id)sender{
     
@@ -195,10 +215,17 @@
 }
 
 -(void)searchDisplayController:(UISearchDisplayController *)controller didLoadSearchResultsTableView:(UITableView *)tableView {
+    
+    UIImageView *imageView = [[UIImageView alloc] initWithFrame:self.view.frame];
+    [imageView setImage:[UIImage imageNamed:@"Background"]];
+    imageView.alpha = .5;
+    tableView.backgroundView = imageView;
+    
     tableView.backgroundColor = self.tableView.backgroundColor;
     tableView.separatorColor = self.tableView.separatorColor;
-    tableView.opaque=YES;
+    tableView.opaque=NO;
     tableView.tintColor = self.tableView.tintColor;
+    
 }
 
 #pragma mark - Table view data source
@@ -251,6 +278,20 @@
     if (tableView == self.searchDisplayController.searchResultsTableView) {
         cell.backgroundColor = [UIColor lightTextColor];
         [cell.textLabel setTintColor:[UIColor whiteColor]];
+        
+        UIImageView *imageView = [[UIImageView alloc] initWithFrame:self.view.frame];
+        [imageView setImage:[UIImage imageNamed:@"Background"]];
+        
+        imageView.alpha = .2;
+        
+        
+        CGRect newBounds = cell.bounds;
+        newBounds.origin.y = newBounds.origin.y + cell.bounds.size.height;
+        cell.bounds = newBounds;
+
+        cell.backgroundView = imageView;
+        cell.backgroundView.frame = cell.bounds;
+        
         if (indexPath.section==0){
 
             
