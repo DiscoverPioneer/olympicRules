@@ -166,6 +166,9 @@
 
 {
     [controller.searchResultsTableView setBackgroundColor:[UIColor lightTextColor]];
+    UIImageView *imageView = [[UIImageView alloc] initWithFrame:self.view.frame];
+    [imageView setImage:[UIImage imageNamed:@"Background"]];
+    [controller.searchResultsTableView setBackgroundView:imageView];
 }
 - (void)searchDisplayControllerDidEndSearch:(UISearchDisplayController *)controller
 {
@@ -217,15 +220,15 @@
 
 -(void)searchDisplayController:(UISearchDisplayController *)controller didLoadSearchResultsTableView:(UITableView *)tableView {
     
-    UIImageView *imageView = [[UIImageView alloc] initWithFrame:self.view.frame];
-    [imageView setImage:[UIImage imageNamed:@"Background"]];
-    imageView.alpha = .2;
-    tableView.backgroundView = imageView;
+    //UIImageView *imageView = [[UIImageView alloc] initWithFrame:self.view.frame];
+    //[imageView setImage:[UIImage imageNamed:@"Background"]];
+    //imageView.alpha = .2;
+    //tableView.backgroundView = imageView;
     
-    tableView.backgroundColor = self.tableView.backgroundColor;
-    tableView.separatorColor = self.tableView.separatorColor;
-    tableView.opaque=NO;
-    tableView.tintColor = self.tableView.tintColor;
+    //tableView.backgroundColor = self.tableView.backgroundColor;
+    //tableView.separatorColor = self.tableView.separatorColor;
+    //tableView.opaque=YES;
+    //tableView.tintColor = self.tableView.tintColor;
     
 }
 
