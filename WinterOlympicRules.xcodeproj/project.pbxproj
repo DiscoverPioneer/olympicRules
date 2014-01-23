@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0928DCD1188F251D0069B0B2 /* BackButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 0928DCD0188F251D0069B0B2 /* BackButton.png */; };
 		09C46D7618902CDA0073655F /* OlympicSchedule.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 09C46D7518902CDA0073655F /* OlympicSchedule.pdf */; };
+		09C46D791890A5450073655F /* PDFViewer.m in Sources */ = {isa = PBXBuildFile; fileRef = 09C46D781890A5450073655F /* PDFViewer.m */; };
 		09ED72D5188A04A400257CDF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 09ED72D4188A04A400257CDF /* Foundation.framework */; };
 		09ED72D7188A04A400257CDF /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 09ED72D6188A04A400257CDF /* CoreGraphics.framework */; };
 		09ED72D9188A04A400257CDF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 09ED72D8188A04A400257CDF /* UIKit.framework */; };
@@ -43,6 +44,8 @@
 /* Begin PBXFileReference section */
 		0928DCD0188F251D0069B0B2 /* BackButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BackButton.png; sourceTree = "<group>"; };
 		09C46D7518902CDA0073655F /* OlympicSchedule.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = OlympicSchedule.pdf; sourceTree = "<group>"; };
+		09C46D771890A5450073655F /* PDFViewer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PDFViewer.h; sourceTree = "<group>"; };
+		09C46D781890A5450073655F /* PDFViewer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PDFViewer.m; sourceTree = "<group>"; };
 		09ED72D1188A04A400257CDF /* WinterOlympicRules.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WinterOlympicRules.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		09ED72D4188A04A400257CDF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		09ED72D6188A04A400257CDF /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -143,6 +146,8 @@
 				CE00F610188F92B200BA1B81 /* CreatedByViewController.m */,
 				CE00F612188FA08800BA1B81 /* WebViewController.h */,
 				CE00F613188FA08800BA1B81 /* WebViewController.m */,
+				09C46D771890A5450073655F /* PDFViewer.h */,
+				09C46D781890A5450073655F /* PDFViewer.m */,
 				0928DCD0188F251D0069B0B2 /* BackButton.png */,
 				09ED730F188A177D00257CDF /* Sports.plist */,
 				09C46D7518902CDA0073655F /* OlympicSchedule.pdf */,
@@ -283,6 +288,7 @@
 			files = (
 				09ED730E188A077C00257CDF /* DetailViewController.m in Sources */,
 				CE00F614188FA08800BA1B81 /* WebViewController.m in Sources */,
+				09C46D791890A5450073655F /* PDFViewer.m in Sources */,
 				09ED72EB188A04A500257CDF /* ViewController.m in Sources */,
 				09ED730B188A077300257CDF /* EventsViewController.m in Sources */,
 				09ED72E5188A04A500257CDF /* AppDelegate.m in Sources */,
