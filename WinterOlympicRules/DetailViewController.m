@@ -58,7 +58,7 @@
     
     
     NSArray *headers;
-    headers = @[@"Sled:",@"Competition:", @"Equipment:", @"Description:", @"Equipment:", @"Dates:", @"Procedure:", @"Scoring:"];
+    headers = @[@"Individual Events:",@"Team Events:",@"Qualifying Heats:",@"Finals:",@"Medal Round:",@"Relay Setup:",@"Disqualification:",@"Sled:",@"Competition:", @"Equipment:", @"Description:", @"Equipment:", @"Dates:", @"Procedure:", @"Scoring:"];
     for (NSString *string in headers) {
         [mutable addAttribute:NSFontAttributeName value:[UIFont fontWithName:@"Arial-BoldMT" size:15] range:[completeString rangeOfString:string]];
         //[mutable addAttribute:NSFontAttributeName value:[UIFont boldSystemFontOfSize:14] range:[completeString rangeOfString:string]];
