@@ -266,6 +266,40 @@
             </objects>
             <point key="canvasLocation" x="1700" y="815"/>
         </scene>
+        <!--Viewer-->
+        <scene sceneID="yJk-zC-Nyy">
+            <objects>
+                <viewController id="ILx-1E-m3h" customClass="PDFViewer" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Vfw-iE-0ca">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <webView contentMode="scaleToFill" paginationMode="leftToRight" id="Um5-bS-Nvq">
+                                <rect key="frame" x="0.0" y="64" width="320" height="416"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <outlet property="delegate" destination="ILx-1E-m3h" id="Jjw-NY-W3k"/>
+                                </connections>
+                            </webView>
+                            <activityIndicatorView hidden="YES" opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" hidesWhenStopped="YES" style="whiteLarge" id="JEY-SS-moy">
+                                <rect key="frame" x="142" y="221" width="37" height="37"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="color" red="0.087908294009999999" green="0.80504181900000005" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            </activityIndicatorView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="Dvw-MO-pBV"/>
+                    <connections>
+                        <outlet property="activityIndicator" destination="JEY-SS-moy" id="DAv-uY-4k7"/>
+                        <outlet property="webView" destination="Um5-bS-Nvq" id="Cei-lW-xwe"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="5S9-ps-TGf" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1559" y="-455"/>
+        </scene>
         <!--View Controller - Sochi 2014-->
         <scene sceneID="8D2-yZ-eLh">
             <objects>
@@ -327,6 +361,7 @@
                         <outlet property="sportSearchBar" destination="srC-kt-zdY" id="d1c-a4-eo6"/>
                         <segue destination="1zN-ml-nWJ" kind="push" identifier="DetailViewController" id="TRT-iO-X7m"/>
                         <segue destination="j2L-en-ZIY" kind="push" identifier="EventsViewController" id="Bd4-5w-H9A"/>
+                        <segue destination="ILx-1E-m3h" kind="push" identifier="pdfViewer" id="e0d-sA-CFa"/>
                     </connections>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="uMS-hl-ERq" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -370,7 +405,7 @@
         <simulatedScreenMetrics key="destination"/>
     </simulatedMetricsContainer>
     <inferredMetricsTieBreakers>
-        <segue reference="TRT-iO-X7m"/>
         <segue reference="ejd-L0-yLe"/>
+        <segue reference="vuc-Qr-8sC"/>
     </inferredMetricsTieBreakers>
 </document>

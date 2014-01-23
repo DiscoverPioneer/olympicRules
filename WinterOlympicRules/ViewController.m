@@ -10,6 +10,7 @@
 #import "EventsViewController.h"
 #import "DetailViewController.h"
 #import "CreatedByViewController.h"
+#import "PDFViewer.h"
 @interface ViewController (){
     NSMutableArray *sportsArray;
     UISearchDisplayController *searchDisplayController;
@@ -216,7 +217,12 @@
             NSLog(@"here");
             
         }
-            
+        else if ([segue.identifier isEqualToString:@"pdfViewer"]){
+            PDFViewer *PVC = [segue destinationViewController];
+            [PVC setTitle:@"Schedule"];
+        }
+
+        
     }
     
     
@@ -246,20 +252,26 @@
     if (tableView == self.searchDisplayController.searchResultsTableView)
         return 2;
     else
-        return 1;
+        return 2;
 }
 - (NSString *)tableView:(UITableView *)tableView titleForHeaderInSection:(NSInteger)section
 {
     
      tableView.backgroundColor = [UIColor lightTextColor];
     if (tableView == self.searchDisplayController.searchResultsTableView) {
+        
         if (section==0)
             return @"Men's Events";
         else
             return @"Women's Events";
     }
-    else
-        return @"Sports";
+    else{
+        if (section==0)
+            return @"Schedule";
+        else
+            return @"Sports";
+
+    }
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
@@ -274,8 +286,15 @@
             return self.womensFilteredArray.count;
         }
     }
-    else
-        return sportsArray.count;
+    else{
+        if (section==0) {
+            return 1;
+        }
+        else if (section ==1){
+            return sportsArray.count;
+        }
+    }
+    return 0;
 }
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
@@ -315,12 +334,17 @@
             cell.textLabel.text=[[self.womensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Name"];
 
     }
-    else{
+    else if(indexPath.section==1){
         cell.textLabel.text=[[sportsArray objectAtIndex:indexPath.row]objectForKey:@"Sport"];
 
         cell.textLabel.textAlignment = NSTextAlignmentCenter;
         cell.textLabel.textColor = [UIColor whiteColor];
         
+    }
+    else if(indexPath.section==0){
+        cell.textLabel.text=@"Olympic Schedule";
+        cell.textLabel.textAlignment = NSTextAlignmentCenter;
+        cell.textLabel.textColor = [UIColor whiteColor];
     }
 
     return cell;
@@ -332,7 +356,10 @@
         [self performSegueWithIdentifier:@"DetailViewController" sender:tableView];
     }
     else{
-        [self performSegueWithIdentifier:@"EventsViewController" sender:tableView];
+        if(indexPath.section==0)
+            [self performSegueWithIdentifier:@"pdfViewer" sender:tableView];
+        else
+            [self performSegueWithIdentifier:@"EventsViewController" sender:tableView];
 
     }
 

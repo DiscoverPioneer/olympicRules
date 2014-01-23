@@ -29,15 +29,12 @@
 
 - (void)viewDidLoad
 {
+    
     [super viewDidLoad];
 
    
     
-    /*NSURL *webSite;
-    NSString *webSiteUrlString;
-    webSiteUrlString=[[NSString alloc]initWithFormat:@"http://www.discoverPioneer.com"];
-    webSite=[[NSURL alloc]initWithString:webSiteUrlString];
-    [self.webView loadRequest:[NSURLRequest requestWithURL:webSite]];*/
+    
    
 }
 
