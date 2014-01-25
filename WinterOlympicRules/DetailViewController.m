@@ -44,7 +44,16 @@
     self.detailLabel.backgroundColor = [UIColor clearColor];
     self.detailLabel.opaque=NO;
     self.detailLabel.text = self.nameString;
-    completeString = [NSString stringWithFormat:@"                           Description:\n%@\n\n                          Competition:\n%@",self.descriptionString,self.ruleString];
+    
+    if ([self.ruleString length] >0) {
+        completeString = [NSString stringWithFormat:@"                           Description:\n%@\n\n                          Competition:\n%@",self.descriptionString,self.ruleString];
+    }else{
+        
+        completeString = [NSString stringWithFormat:@"                           Description:\n%@\n",self.descriptionString];
+    }
+        
+    
+    //completeString = [NSString stringWithFormat:@"                           Description:\n%@\n\n                          Competition:\n%@",self.descriptionString,self.ruleString];
    
     //UIFont *italic = [UIFont italicSystemFontOfSize:14.0f];
     //UIFont *boldItalic = [UIFont fontWithName:@"Trebuchet-BoldItalic" size:14];
