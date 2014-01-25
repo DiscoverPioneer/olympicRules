@@ -29,7 +29,7 @@
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Giant Slalom</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
@@ -37,7 +37,7 @@
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Slalom</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
@@ -45,7 +45,7 @@
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Super-G</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
@@ -72,7 +72,7 @@
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Giant Slalom</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
@@ -80,7 +80,7 @@
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Slalom</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
@@ -88,7 +88,7 @@
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Super-G</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
@@ -103,7 +103,7 @@
 		<array>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>10km Biathlon</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
@@ -111,7 +111,7 @@
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>12.5km Pursuit Biathlon</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
@@ -119,7 +119,7 @@
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>14km Mass Start Biathlon</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
@@ -127,7 +127,7 @@
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>20km Biathlon</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
@@ -135,7 +135,7 @@
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>4x7.5km Relay Biathlon</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
@@ -146,7 +146,7 @@
 		<array>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>10km Pursuit Biathlon</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
@@ -154,7 +154,7 @@
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>12.5km Mass Start Biathlon</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
@@ -162,7 +162,7 @@
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>15km Biathlon</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
@@ -170,7 +170,7 @@
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>4x6km Relay Biathlon</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
@@ -178,7 +178,7 @@
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>7.5km Biathlon</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
@@ -656,15 +656,15 @@ Penalty shoot-out
 In the case of a tie after any sudden-victory period, a game-winning penalty shoot competition takes place to determine the winner.
 
 There are three major rules of play in ice hockey that limit the movement of the puck:
-  • offside - if player enters opponent's
+  • offside - if player enters opponent&apos;s
     zone before the puck itself
   • icing - shoot the puck all the way
     across both the center line and
-    the opponent's goal line
+    the opponent&apos;s goal line
   • puck going out of play
     when puck goes past the perimeter
     of the ice rink (onto the player
-    benches, over the "glass," or
+    benches, over the &quot;glass,&quot; or
     onto the protective netting above the
     glass) and a stoppage of play is called
     by the officials
@@ -672,14 +672,14 @@ There are three major rules of play in ice hockey that limit the movement of the
     once it leaves the perimeter of the rink
     
     Penalties:
-    For most penalties, the offending player is sent to the"penalty box" and his team has to play without him for a short amount of time. Minor penalties last for two minutes, major penalties last for five minutes, and a double minor penalty is two consecutive penalties of two minutes duration. A single Minor penalty may be extended by a further two minutes for causing visible injury to the victimized player. This is usually when blood is drawn during high sticking. The team that has been given a penalty is said to be playing shorthanded while the opposing team is on a power play.
+    For most penalties, the offending player is sent to the&quot;penalty box&quot; and his team has to play without him for a short amount of time. Minor penalties last for two minutes, major penalties last for five minutes, and a double minor penalty is two consecutive penalties of two minutes duration. A single Minor penalty may be extended by a further two minutes for causing visible injury to the victimized player. This is usually when blood is drawn during high sticking. The team that has been given a penalty is said to be playing shorthanded while the opposing team is on a power play.
     
-    A two-minute minor penalty is often charged for lesser infractions such as tripping, elbowing, roughing, high-sticking, delay of the game, too many players on the ice, boarding, illegal equipment, charging (leaping into an opponent or body-checking him after taking more than two strides), holding, holding the stick (grabbing an opponent's stick), interference, hooking, slashing, kneeing, unsportsmanlike conduct (arguing a penalty call with referee, extremely vulgar or inappropriate verbal comments), butt-ending (striking an opponent with the knob of the stick), spearing, or cross-checking. Five-minute major penalties are called for especially violent instances of most minor infractions that result in intentional injury to an opponent, or when a "minor" penalty results in visible injury (such as bleeding), as well as for fighting. Major penalties are always served in full; they do not terminate on a goal scored by the other team.
+    A two-minute minor penalty is often charged for lesser infractions such as tripping, elbowing, roughing, high-sticking, delay of the game, too many players on the ice, boarding, illegal equipment, charging (leaping into an opponent or body-checking him after taking more than two strides), holding, holding the stick (grabbing an opponent&apos;s stick), interference, hooking, slashing, kneeing, unsportsmanlike conduct (arguing a penalty call with referee, extremely vulgar or inappropriate verbal comments), butt-ending (striking an opponent with the knob of the stick), spearing, or cross-checking. Five-minute major penalties are called for especially violent instances of most minor infractions that result in intentional injury to an opponent, or when a &quot;minor&quot; penalty results in visible injury (such as bleeding), as well as for fighting. Major penalties are always served in full; they do not terminate on a goal scored by the other team.
     
     A penalty shot is awarded to a player when the illegal actions of another player stop a clear scoring opportunity, most commonly when the player is on a breakaway - “A penalty shot allows the obstructed player to pick up the puck on the centre red-line and attempt to score on the goalie with no other players on the ice, to compensate for the earlier missed scoring opportunity. A penalty shot is also awarded for a defender other than the goaltender covering the puck in the goal crease, a goaltender intentionally displacing his own goal posts during a breakaway to avoid a goal, a defender intentionally displacing his own goal posts when there is less than two minutes to play in regulation time or at any point during overtime, or a player or coach intentionally throwing a stick or other object at the puck or the puck carrier and the throwing action disrupts a shot or pass play.
     An ice hockey referee is responsible for assessing most penalties during a game.
     
-    Officials also stop play for puck movement violations, such as using one's hands to pass the puck in the offensive end, but no players are penalized for these offences. The sole exceptions are deliberately falling on or gathering the puck to the body, carrying the puck in the hand, and shooting the puck out of play in one's defensive zone (all penalized two minutes for delay of game).
+    Officials also stop play for puck movement violations, such as using one&apos;s hands to pass the puck in the offensive end, but no players are penalized for these offences. The sole exceptions are deliberately falling on or gathering the puck to the body, carrying the puck in the hand, and shooting the puck out of play in one&apos;s defensive zone (all penalized two minutes for delay of game).
 
 Officials:
 A typical game of ice hockey has two to four officials on the ice, charged with enforcing the rules of the game. There are typically two linesmen who are mainly responsible for calling offside and icing violations, breaking up fights, and conducting faceoffs,[42] and one or two referees,[43] who call goals and all other penalties. Linesmen can, however, report to the referee(s) that a penalty should be assessed against an offending player in some situations.[44] The restrictions on this practice vary depending on the governing rules. On-ice officials are assisted by off-ice officials who act as goal judges, time keepers, and official scorers.
@@ -741,7 +741,7 @@ Skaters use sticks to shoot rubber puck into opponents net to score points. Five
 
 Players:
 
-A team must not have more than six players on the ice while play is in progress. Typically, these players are one goalkeeper, two defenders, two wings and one centre. However, fewer players can be on the ice as a result of penalties, and a goalkeeper can be replaced for another skater at any time at the team's own risk.
+A team must not have more than six players on the ice while play is in progress. Typically, these players are one goalkeeper, two defenders, two wings and one centre. However, fewer players can be on the ice as a result of penalties, and a goalkeeper can be replaced for another skater at any time at the team&apos;s own risk.
 
 Tactics:
   • defensive
@@ -1230,7 +1230,145 @@ Dates:
 		<array>
 			<dict>
 				<key>Name</key>
-				<string>Nordic Combined</string>
+				<string>Individual Ski Jumping K90</string>
+				<key>Rules</key>
+				<string></string>
+				<key>Description</key>
+				<string>
+
+  • ski jumping competition (1 jump)
+  • 10 km cross-country ski race.
+  • three men&apos;s events  in Nordic Combined
+    individual event with a normal hill (NH)
+    ski jump
+    individual event with a large hill (LH)
+    ski jump
+    team event, two jumps from the large hill
+    for each team member and a 4—5 km relay
+  
+  • individual event (Gundersen race)
+    first stage is a jump from the normal
+    (large hill) each participant making
+    one jump
+    second stage is a 10 km race
+
+  • points are scored for distance and style in
+    ski jump
+  • skiers with the most ski jumping points start
+    first in the cross-country race
+    this process continues following the gap
+    that reflects the difference in jumping
+    scores
+  • first cross-country skier to cross the
+    finish line wins the event
+
+  • team event is similar to individual event
+    4 ahtletes compete
+      part 1 each skier has one jump on a
+      large hill
+      points for all jumps count towards
+      team total
+      difference of forty-five points translates
+      to a one minute advantage in 4—5 km
+      cross-country relay
+
+  • Nordic Combined winner is the team whose
+    skier crosses the finish line first
+
+Equipment:
+Ski jumping gear
+  • boots - Specialized high-backed for skier
+    to lean far forward during flight
+  • binding must be mounted parallel to the
+    run-direction
+    no more than 57% of the entire ski length
+    is located in the front portion of the ski
+    (the binding toe piece divides the ski into
+    front and back portions)
+  • connection cord that is a part of the binding
+    attaches the ski to the boot and prevents
+    the skis from wobbling during flight
+  • ski jumping suit - must be made of the
+  same material and must be breathable
+  • Jumping skis may be no longer than 146%
+    of the total height of the competitor
+
+ 
+ 
+                </string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Sprint K120</string>
+				<key>Rules</key>
+				<string></string>
+				<key>Description</key>
+				<string>
+
+  • ski jumping competition (1 jump)
+  • 10 km cross-country ski race.
+  • three men&apos;s events  in Nordic Combined
+    individual event with a normal hill (NH)
+    ski jump
+    individual event with a large hill (LH)
+    ski jump
+    team event, two jumps from the large hill
+    for each team member and a 4—5 km relay
+  
+  • individual event (Gundersen race)
+    first stage is a jump from the normal
+    (large hill) each participant making
+    one jump
+    second stage is a 10 km race
+
+  • points are scored for distance and style in
+    ski jump
+  • skiers with the most ski jumping points start
+    first in the cross-country race
+    this process continues following the gap
+    that reflects the difference in jumping
+    scores
+  • first cross-country skier to cross the
+    finish line wins the event
+
+  • team event is similar to individual event
+    4 ahtletes compete
+      part 1 each skier has one jump on a
+      large hill
+      points for all jumps count towards
+      team total
+      difference of forty-five points translates
+      to a one minute advantage in 4—5 km
+      cross-country relay
+
+  • Nordic Combined winner is the team whose
+    skier crosses the finish line first
+
+Equipment:
+Ski jumping gear
+  • boots - Specialized high-backed for skier
+    to lean far forward during flight
+  • binding must be mounted parallel to the
+    run-direction
+    no more than 57% of the entire ski length
+    is located in the front portion of the ski
+    (the binding toe piece divides the ski into
+    front and back portions)
+  • connection cord that is a part of the binding
+    attaches the ski to the boot and prevents
+    the skis from wobbling during flight
+  • ski jumping suit - must be made of the
+  same material and must be breathable
+  • Jumping skis may be no longer than 146%
+    of the total height of the competitor
+
+ 
+ 
+                </string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Team 4x5 km Nordic Combined</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
@@ -1299,77 +1437,7 @@ Ski jumping gear
 			</dict>
 		</array>
 		<key>Womens</key>
-		<array>
-			<dict>
-				<key>Name</key>
-				<string>Nordic Combined</string>
-				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string>
-
-  • ski jumping competition (1 jump)
-  • 10 km cross-country ski race.
-  • three men&apos;s events  in Nordic Combined
-    individual event with a normal hill (NH)
-    ski jump
-    individual event with a large hill (LH)
-    ski jump
-    team event, two jumps from the large hill
-    for each team member and a 4—5 km relay
-  
-  • individual event (Gundersen race)
-    first stage is a jump from the normal
-    (large hill) each participant making
-    one jump
-    second stage is a 10 km race
-
-  • points are scored for distance and style in
-    ski jump
-  • skiers with the most ski jumping points start
-    first in the cross-country race
-    this process continues following the gap
-    that reflects the difference in jumping
-    scores
-  • first cross-country skier to cross the
-    finish line wins the event
-
-  • team event is similar to individual event
-    4 ahtletes compete
-      part 1 each skier has one jump on a
-      large hill
-      points for all jumps count towards
-      team total
-      difference of forty-five points translates
-      to a one minute advantage in 4—5 km
-      cross-country relay
-
-  • Nordic Combined winner is the team whose
-    skier crosses the finish line first
-
-Equipment:
-Ski jumping gear
-  • boots - Specialized high-backed for skier
-    to lean far forward during flight
-  • binding must be mounted parallel to the
-    run-direction
-    no more than 57% of the entire ski length
-    is located in the front portion of the ski
-    (the binding toe piece divides the ski into
-    front and back portions)
-  • connection cord that is a part of the binding
-    attaches the ski to the boot and prevents
-    the skis from wobbling during flight
-  • ski jumping suit - must be made of the
-  same material and must be breathable
-  • Jumping skis may be no longer than 146%
-    of the total height of the competitor
-
- 
- 
-                </string>
-			</dict>
-		</array>
+		<array/>
 	</dict>
 	<dict>
 		<key>Sport</key>
@@ -1378,7 +1446,280 @@ Ski jumping gear
 		<array>
 			<dict>
 				<key>Name</key>
-				<string>Short Track Speed Skating</string>
+				<string>1000m Speed Skating</string>
+				<key>Rules</key>
+				<string>
+Individual Events:
+  • Six individual competitions
+    Men and Women
+  • 500-meter, 1,000-meter, and 1,500-meter
+
+Team Events:
+  • Two team events in short track speed
+  • 5,000-meter men&apos;s four-skater relay
+  • 3,000-meter women&apos;s four-skater relay
+
+Qualifying Heats:
+  • 500-meter and 1,000-meter races
+    eight qualifying heats are contested.
+  • 1,500-meter race
+    36 Olympians will compete in six
+    qualifying heats.
+
+Finals:
+  • 500-meter and 1,000-meter events
+    the top two finishers in each heat
+    move on to the next round  of the
+  • 1,500-meter
+    Top three finishers in each heat
+    advance to the next round
+    Skaters can also advance if they are
+    judged to have been interfered with during
+    a heat
+
+Medal Round:
+  • Top two finishers in the two 500-meter and
+    1,000-meter semifinal heats advance
+    to the medal round
+  • Top two finishers in three 1,500-meter
+    semifinals will compete for gold
+    Final - decides the medals
+
+Relay Setup:
+  • Eight teams will compete in each of the
+    two relay competitions
+  • Top two finishers in a pair of semifinal
+    heats advance to the medal round
+    will be decided by one race
+    Teams can also advance if they were
+    interfered with during a heat
+
+
+Scoring:
+  • Timed to one-thousandth of a second
+  • ties are rare in this event
+  • Referee is also present to ensure
+    all skaters follow the rules of the
+    competition
+
+Disqualification:
+  • multiple false starts
+  • impeding other skaters
+  • skating outside of the track
+
+</string>
+				<key>Description</key>
+				<string>Short track speed skating is one of the most competitive events at the Olympic Winter Games.
+
+Unlike its long track counterpart, where Olympians compete for the best overall time, short track speed skating is every man or woman for himself or herself. With skaters racing tightly in packs around a track roughly the size of an ice hockey rink, short track speed skating is fast, furious, and sometimes dangerous, as crashes sometimes occur in this event.
+
+Equipment:
+  • skates with long blades
+  • skin-tight suits to achieve peak speeds
+  • gloves, skaters often touch the ice
+    while zooming through the turns
+    helmets are mandatory
+
+Dates:
+  • five days of the Winter Games
+  • 10 February men&apos;s 1,500-meter final
+  • 13 February women&apos;s 500-meter final
+  • 15 February gold medals will be decided
+    men&apos;s 1,000-meter
+    women&apos;s 1,500-meter events
+  • 18 February women&apos;s relay final
+  • 21 February medal rounds in the
+    men&apos;s 500-meter
+    women&apos;s 1,000-meter
+    men&apos;s relay competitions
+
+</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>1500m Speed Skating</string>
+				<key>Rules</key>
+				<string>
+Individual Events:
+  • Six individual competitions
+    Men and Women
+  • 500-meter, 1,000-meter, and 1,500-meter
+
+Team Events:
+  • Two team events in short track speed
+  • 5,000-meter men&apos;s four-skater relay
+  • 3,000-meter women&apos;s four-skater relay
+
+Qualifying Heats:
+  • 500-meter and 1,000-meter races
+    eight qualifying heats are contested.
+  • 1,500-meter race
+    36 Olympians will compete in six
+    qualifying heats.
+
+Finals:
+  • 500-meter and 1,000-meter events
+    the top two finishers in each heat
+    move on to the next round  of the
+  • 1,500-meter
+    Top three finishers in each heat
+    advance to the next round
+    Skaters can also advance if they are
+    judged to have been interfered with during
+    a heat
+
+Medal Round:
+  • Top two finishers in the two 500-meter and
+    1,000-meter semifinal heats advance
+    to the medal round
+  • Top two finishers in three 1,500-meter
+    semifinals will compete for gold
+    Final - decides the medals
+
+Relay Setup:
+  • Eight teams will compete in each of the
+    two relay competitions
+  • Top two finishers in a pair of semifinal
+    heats advance to the medal round
+    will be decided by one race
+    Teams can also advance if they were
+    interfered with during a heat
+
+
+Scoring:
+  • Timed to one-thousandth of a second
+  • ties are rare in this event
+  • Referee is also present to ensure
+    all skaters follow the rules of the
+    competition
+
+Disqualification:
+  • multiple false starts
+  • impeding other skaters
+  • skating outside of the track
+
+</string>
+				<key>Description</key>
+				<string>Short track speed skating is one of the most competitive events at the Olympic Winter Games.
+
+Unlike its long track counterpart, where Olympians compete for the best overall time, short track speed skating is every man or woman for himself or herself. With skaters racing tightly in packs around a track roughly the size of an ice hockey rink, short track speed skating is fast, furious, and sometimes dangerous, as crashes sometimes occur in this event.
+
+Equipment:
+  • skates with long blades
+  • skin-tight suits to achieve peak speeds
+  • gloves, skaters often touch the ice
+    while zooming through the turns
+    helmets are mandatory
+
+Dates:
+  • five days of the Winter Games
+  • 10 February men&apos;s 1,500-meter final
+  • 13 February women&apos;s 500-meter final
+  • 15 February gold medals will be decided
+    men&apos;s 1,000-meter
+    women&apos;s 1,500-meter events
+  • 18 February women&apos;s relay final
+  • 21 February medal rounds in the
+    men&apos;s 500-meter
+    women&apos;s 1,000-meter
+    men&apos;s relay competitions
+
+</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>5000m Relay Speed Skating</string>
+				<key>Rules</key>
+				<string>
+Individual Events:
+  • Six individual competitions
+    Men and Women
+  • 500-meter, 1,000-meter, and 1,500-meter
+
+Team Events:
+  • Two team events in short track speed
+  • 5,000-meter men&apos;s four-skater relay
+  • 3,000-meter women&apos;s four-skater relay
+
+Qualifying Heats:
+  • 500-meter and 1,000-meter races
+    eight qualifying heats are contested.
+  • 1,500-meter race
+    36 Olympians will compete in six
+    qualifying heats.
+
+Finals:
+  • 500-meter and 1,000-meter events
+    the top two finishers in each heat
+    move on to the next round  of the
+  • 1,500-meter
+    Top three finishers in each heat
+    advance to the next round
+    Skaters can also advance if they are
+    judged to have been interfered with during
+    a heat
+
+Medal Round:
+  • Top two finishers in the two 500-meter and
+    1,000-meter semifinal heats advance
+    to the medal round
+  • Top two finishers in three 1,500-meter
+    semifinals will compete for gold
+    Final - decides the medals
+
+Relay Setup:
+  • Eight teams will compete in each of the
+    two relay competitions
+  • Top two finishers in a pair of semifinal
+    heats advance to the medal round
+    will be decided by one race
+    Teams can also advance if they were
+    interfered with during a heat
+
+
+Scoring:
+  • Timed to one-thousandth of a second
+  • ties are rare in this event
+  • Referee is also present to ensure
+    all skaters follow the rules of the
+    competition
+
+Disqualification:
+  • multiple false starts
+  • impeding other skaters
+  • skating outside of the track
+
+</string>
+				<key>Description</key>
+				<string>Short track speed skating is one of the most competitive events at the Olympic Winter Games.
+
+Unlike its long track counterpart, where Olympians compete for the best overall time, short track speed skating is every man or woman for himself or herself. With skaters racing tightly in packs around a track roughly the size of an ice hockey rink, short track speed skating is fast, furious, and sometimes dangerous, as crashes sometimes occur in this event.
+
+Equipment:
+  • skates with long blades
+  • skin-tight suits to achieve peak speeds
+  • gloves, skaters often touch the ice
+    while zooming through the turns
+    helmets are mandatory
+
+Dates:
+  • five days of the Winter Games
+  • 10 February men&apos;s 1,500-meter final
+  • 13 February women&apos;s 500-meter final
+  • 15 February gold medals will be decided
+    men&apos;s 1,000-meter
+    women&apos;s 1,500-meter events
+  • 18 February women&apos;s relay final
+  • 21 February medal rounds in the
+    men&apos;s 500-meter
+    women&apos;s 1,000-meter
+    men&apos;s relay competitions
+
+</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>500m Speed Skating</string>
 				<key>Rules</key>
 				<string>
 Individual Events:
@@ -1472,7 +1813,280 @@ Dates:
 		<array>
 			<dict>
 				<key>Name</key>
-				<string>Short Track Speed Skating</string>
+				<string>1000m Speed Skating</string>
+				<key>Rules</key>
+				<string>
+Individual Events:
+  • Six individual competitions
+    Men and Women
+  • 500-meter, 1,000-meter, and 1,500-meter
+
+Team Events:
+  • Two team events in short track speed
+  • 5,000-meter men&apos;s four-skater relay
+  • 3,000-meter women&apos;s four-skater relay
+
+Qualifying Heats:
+  • 500-meter and 1,000-meter races
+    eight qualifying heats are contested.
+  • 1,500-meter race
+    36 Olympians will compete in six
+    qualifying heats.
+
+Finals:
+  • 500-meter and 1,000-meter events
+    the top two finishers in each heat
+    move on to the next round  of the
+  • 1,500-meter
+    Top three finishers in each heat
+    advance to the next round
+    Skaters can also advance if they are
+    judged to have been interfered with during
+    a heat
+
+Medal Round:
+  • Top two finishers in the two 500-meter and
+    1,000-meter semifinal heats advance
+    to the medal round
+  • Top two finishers in three 1,500-meter
+    semifinals will compete for gold
+    Final - decides the medals
+
+Relay Setup:
+  • Eight teams will compete in each of the
+    two relay competitions
+  • Top two finishers in a pair of semifinal
+    heats advance to the medal round
+    will be decided by one race
+    Teams can also advance if they were
+    interfered with during a heat
+
+
+Scoring:
+  • Timed to one-thousandth of a second
+  • ties are rare in this event
+  • Referee is also present to ensure
+    all skaters follow the rules of the
+    competition
+
+Disqualification:
+  • multiple false starts
+  • impeding other skaters
+  • skating outside of the track
+
+</string>
+				<key>Description</key>
+				<string>Short track speed skating is one of the most competitive events at the Olympic Winter Games.
+
+Unlike its long track counterpart, where Olympians compete for the best overall time, short track speed skating is every man or woman for himself or herself. With skaters racing tightly in packs around a track roughly the size of an ice hockey rink, short track speed skating is fast, furious, and sometimes dangerous, as crashes sometimes occur in this event.
+
+Equipment:
+  • skates with long blades
+  • skin-tight suits to achieve peak speeds
+  • gloves, skaters often touch the ice
+    while zooming through the turns
+    helmets are mandatory
+
+Dates:
+  • five days of the Winter Games
+  • 10 February men&apos;s 1,500-meter final
+  • 13 February women&apos;s 500-meter final
+  • 15 February gold medals will be decided
+    men&apos;s 1,000-meter
+    women&apos;s 1,500-meter events
+  • 18 February women&apos;s relay final
+  • 21 February medal rounds in the
+    men&apos;s 500-meter
+    women&apos;s 1,000-meter
+    men&apos;s relay competitions
+
+</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>1500m Speed Skating</string>
+				<key>Rules</key>
+				<string>
+Individual Events:
+  • Six individual competitions
+    Men and Women
+  • 500-meter, 1,000-meter, and 1,500-meter
+
+Team Events:
+  • Two team events in short track speed
+  • 5,000-meter men&apos;s four-skater relay
+  • 3,000-meter women&apos;s four-skater relay
+
+Qualifying Heats:
+  • 500-meter and 1,000-meter races
+    eight qualifying heats are contested.
+  • 1,500-meter race
+    36 Olympians will compete in six
+    qualifying heats.
+
+Finals:
+  • 500-meter and 1,000-meter events
+    the top two finishers in each heat
+    move on to the next round  of the
+  • 1,500-meter
+    Top three finishers in each heat
+    advance to the next round
+    Skaters can also advance if they are
+    judged to have been interfered with during
+    a heat
+
+Medal Round:
+  • Top two finishers in the two 500-meter and
+    1,000-meter semifinal heats advance
+    to the medal round
+  • Top two finishers in three 1,500-meter
+    semifinals will compete for gold
+    Final - decides the medals
+
+Relay Setup:
+  • Eight teams will compete in each of the
+    two relay competitions
+  • Top two finishers in a pair of semifinal
+    heats advance to the medal round
+    will be decided by one race
+    Teams can also advance if they were
+    interfered with during a heat
+
+
+Scoring:
+  • Timed to one-thousandth of a second
+  • ties are rare in this event
+  • Referee is also present to ensure
+    all skaters follow the rules of the
+    competition
+
+Disqualification:
+  • multiple false starts
+  • impeding other skaters
+  • skating outside of the track
+
+</string>
+				<key>Description</key>
+				<string>Short track speed skating is one of the most competitive events at the Olympic Winter Games.
+
+Unlike its long track counterpart, where Olympians compete for the best overall time, short track speed skating is every man or woman for himself or herself. With skaters racing tightly in packs around a track roughly the size of an ice hockey rink, short track speed skating is fast, furious, and sometimes dangerous, as crashes sometimes occur in this event.
+
+Equipment:
+  • skates with long blades
+  • skin-tight suits to achieve peak speeds
+  • gloves, skaters often touch the ice
+    while zooming through the turns
+    helmets are mandatory
+
+Dates:
+  • five days of the Winter Games
+  • 10 February men&apos;s 1,500-meter final
+  • 13 February women&apos;s 500-meter final
+  • 15 February gold medals will be decided
+    men&apos;s 1,000-meter
+    women&apos;s 1,500-meter events
+  • 18 February women&apos;s relay final
+  • 21 February medal rounds in the
+    men&apos;s 500-meter
+    women&apos;s 1,000-meter
+    men&apos;s relay competitions
+
+</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>5000m Relay Speed Skating</string>
+				<key>Rules</key>
+				<string>
+Individual Events:
+  • Six individual competitions
+    Men and Women
+  • 500-meter, 1,000-meter, and 1,500-meter
+
+Team Events:
+  • Two team events in short track speed
+  • 5,000-meter men&apos;s four-skater relay
+  • 3,000-meter women&apos;s four-skater relay
+
+Qualifying Heats:
+  • 500-meter and 1,000-meter races
+    eight qualifying heats are contested.
+  • 1,500-meter race
+    36 Olympians will compete in six
+    qualifying heats.
+
+Finals:
+  • 500-meter and 1,000-meter events
+    the top two finishers in each heat
+    move on to the next round  of the
+  • 1,500-meter
+    Top three finishers in each heat
+    advance to the next round
+    Skaters can also advance if they are
+    judged to have been interfered with during
+    a heat
+
+Medal Round:
+  • Top two finishers in the two 500-meter and
+    1,000-meter semifinal heats advance
+    to the medal round
+  • Top two finishers in three 1,500-meter
+    semifinals will compete for gold
+    Final - decides the medals
+
+Relay Setup:
+  • Eight teams will compete in each of the
+    two relay competitions
+  • Top two finishers in a pair of semifinal
+    heats advance to the medal round
+    will be decided by one race
+    Teams can also advance if they were
+    interfered with during a heat
+
+
+Scoring:
+  • Timed to one-thousandth of a second
+  • ties are rare in this event
+  • Referee is also present to ensure
+    all skaters follow the rules of the
+    competition
+
+Disqualification:
+  • multiple false starts
+  • impeding other skaters
+  • skating outside of the track
+
+</string>
+				<key>Description</key>
+				<string>Short track speed skating is one of the most competitive events at the Olympic Winter Games.
+
+Unlike its long track counterpart, where Olympians compete for the best overall time, short track speed skating is every man or woman for himself or herself. With skaters racing tightly in packs around a track roughly the size of an ice hockey rink, short track speed skating is fast, furious, and sometimes dangerous, as crashes sometimes occur in this event.
+
+Equipment:
+  • skates with long blades
+  • skin-tight suits to achieve peak speeds
+  • gloves, skaters often touch the ice
+    while zooming through the turns
+    helmets are mandatory
+
+Dates:
+  • five days of the Winter Games
+  • 10 February men&apos;s 1,500-meter final
+  • 13 February women&apos;s 500-meter final
+  • 15 February gold medals will be decided
+    men&apos;s 1,000-meter
+    women&apos;s 1,500-meter events
+  • 18 February women&apos;s relay final
+  • 21 February medal rounds in the
+    men&apos;s 500-meter
+    women&apos;s 1,000-meter
+    men&apos;s relay competitions
+
+</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>500m Speed Skating</string>
 				<key>Rules</key>
 				<string>
 Individual Events:
@@ -1716,7 +2330,147 @@ Dates:
 		<array>
 			<dict>
 				<key>Name</key>
-				<string>Ski Jumping</string>
+				<string>K120 Individual (90m) Ski Jumping</string>
+				<key>Rules</key>
+				<string>
+Scoring:
+Winner is decided on a scoring system based on distance, style, in run length and wind conditions.
+                    
+Each hill has a target called the calculation point (or K point or &quot;critical point&quot;) which is a par distance to aim for. It is also the place where many jumpers land, in the middle of the landing area. This point is marked by the K line on the landing strip. For K-90 and K-120 competitions, the K line is at 90 metres (300 ft) and 120 metres (390 ft) respectively. Skiers are awarded 60 points if they land on the K Line. Skiers not landing on the K Line receive or lose points for every metre (3 ft) they miss the mark by, depending on if they surpass it or fall short, respectively. The typical meter value is 2 points in small hills, 1,8 points in large hills and 1,2 points in ski-flying hills. Thus, it is possible for a jumper to get a negative score if the jump is way short of the K line with poor style marks (typically a fall). The value of a metre is determined from the size of the hill. The K point is the point on the hill where the slope begins to flatten as measured from the take off.
+                    
+In addition, five judges are based in a tower to the side of the expected landing point. They can award up to 20 points each for style based on keeping the skis steady during flight, balance, good body position, and landing. The highest and lowest style scores are disregarded, with the remaining three scores added to the distance score. Thus, a perfectly scored K-120 jump - with at least four of the judges awarding 20 points each - and the jumper landing on the K-point, is awarded a total of 120 points.
+                    
+In January 2010, a new scoring system was introduced to compensate for variable outdoor conditions. Aerodynamics and take-off speed are important variables that determine the value of a jump, and if weather conditions change during a competition, the conditions will not be equal for everyone and thus unfair. The jumper will now receive or lose points if the inrun length is adjusted. An advanced calculation also determines plus/minus points for the actual wind conditions at the time of the jump. These points are added or withdrawn from the original scores from the jump itself.
+                    
+In the individual event, the scores from each skier&apos;s two competition jumps are combined to determine the winner.
+                    
+Rules:
+Ski jumpers below the minimum safe body mass index are penalized with a shorter maximum ski length, reducing the aerodynamic lift they can achieve. These rules have been credited with stopping the most severe cases of underweight athletes, but some competitors still lose weight to maximize the distance they can jump.
+                    
+                
+                
+                
+                </string>
+				<key>Description</key>
+				<string>
+Ski jumping is a sport in which skiers go down a take-off ramp, jump and attempt to land as far as possible down the hill below. In addition to the length of the jump, judges give points for style. The skis used for ski jumping are wide and long (260 to 275 centimetres (100 to 108 in)). Ski jumping belongs to the nordic type of competitive skiing.
+
+Individual competition consists of a training jump and two scored jumps. The team event consists of four members of the same nation, who each jump twice.
+
+On April 6, 2011, the International Olympic Committee officially accepted women&apos;s ski jumping into the official Olympic program for the 2014 Winter Olympics in Sochi, Russia.
+
+Technique:
+The ski jump is divided into four separate sections
+    1) In-run
+    2) Take-off (jump)
+    3) Flight
+    4) Landing
+
+In each part the athlete is required to pay attention to and practice a particular technique in order to maximise the outcome of ultimate length and style marks.
+
+Using the modern V-technique skiers are able to exceed the distance of the take-off hill by about 10%. Aerodynamics has become a factor of increasing importance in modern ski jumping, with recent rules addressing the regulation of ski jumping suits.
+
+The landing requires the skiers to touch the ground in the Telemark landing style. This involves the jumper landing with one foot in front of the other, mimicking the style of the Norwegian inventors of Telemark skiing. Failure to comply with this regulation will lead to the deduction of style marks (points).
+
+Normal hill competitions
+  • calculation line is approximately
+    80 - 100 metres (260 - 330 ft)
+    distances of up to and over 110 metres
+    (360 ft) can be obtained
+Large hill competitions
+  • calculation line is approximately
+    120 - 130 metres (390 - 430 ft)
+    distances of over 145 metres
+    (476 ft) can be obtained
+    individual and team competitions
+    are run on these hills
+Ski-flying competitions
+  • calculation line is 185 metres (607 ft)
+
+Female ski jumpers
+  • need a longer approach than their
+    male colleagues to make up for
+    their light weight to reach the
+    necessary speed
+  • due to their light weight female
+    jumpers reach distances not below
+    those of male jumpers
+
+</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>K120 Team (90m) Ski Jumping</string>
+				<key>Rules</key>
+				<string>
+Scoring:
+Winner is decided on a scoring system based on distance, style, in run length and wind conditions.
+                    
+Each hill has a target called the calculation point (or K point or &quot;critical point&quot;) which is a par distance to aim for. It is also the place where many jumpers land, in the middle of the landing area. This point is marked by the K line on the landing strip. For K-90 and K-120 competitions, the K line is at 90 metres (300 ft) and 120 metres (390 ft) respectively. Skiers are awarded 60 points if they land on the K Line. Skiers not landing on the K Line receive or lose points for every metre (3 ft) they miss the mark by, depending on if they surpass it or fall short, respectively. The typical meter value is 2 points in small hills, 1,8 points in large hills and 1,2 points in ski-flying hills. Thus, it is possible for a jumper to get a negative score if the jump is way short of the K line with poor style marks (typically a fall). The value of a metre is determined from the size of the hill. The K point is the point on the hill where the slope begins to flatten as measured from the take off.
+                    
+In addition, five judges are based in a tower to the side of the expected landing point. They can award up to 20 points each for style based on keeping the skis steady during flight, balance, good body position, and landing. The highest and lowest style scores are disregarded, with the remaining three scores added to the distance score. Thus, a perfectly scored K-120 jump - with at least four of the judges awarding 20 points each - and the jumper landing on the K-point, is awarded a total of 120 points.
+                    
+In January 2010, a new scoring system was introduced to compensate for variable outdoor conditions. Aerodynamics and take-off speed are important variables that determine the value of a jump, and if weather conditions change during a competition, the conditions will not be equal for everyone and thus unfair. The jumper will now receive or lose points if the inrun length is adjusted. An advanced calculation also determines plus/minus points for the actual wind conditions at the time of the jump. These points are added or withdrawn from the original scores from the jump itself.
+                    
+In the individual event, the scores from each skier&apos;s two competition jumps are combined to determine the winner.
+                    
+Rules:
+Ski jumpers below the minimum safe body mass index are penalized with a shorter maximum ski length, reducing the aerodynamic lift they can achieve. These rules have been credited with stopping the most severe cases of underweight athletes, but some competitors still lose weight to maximize the distance they can jump.
+                    
+                
+                
+                
+                </string>
+				<key>Description</key>
+				<string>
+Ski jumping is a sport in which skiers go down a take-off ramp, jump and attempt to land as far as possible down the hill below. In addition to the length of the jump, judges give points for style. The skis used for ski jumping are wide and long (260 to 275 centimetres (100 to 108 in)). Ski jumping belongs to the nordic type of competitive skiing.
+
+Individual competition consists of a training jump and two scored jumps. The team event consists of four members of the same nation, who each jump twice.
+
+On April 6, 2011, the International Olympic Committee officially accepted women&apos;s ski jumping into the official Olympic program for the 2014 Winter Olympics in Sochi, Russia.
+
+Technique:
+The ski jump is divided into four separate sections
+    1) In-run
+    2) Take-off (jump)
+    3) Flight
+    4) Landing
+
+In each part the athlete is required to pay attention to and practice a particular technique in order to maximise the outcome of ultimate length and style marks.
+
+Using the modern V-technique skiers are able to exceed the distance of the take-off hill by about 10%. Aerodynamics has become a factor of increasing importance in modern ski jumping, with recent rules addressing the regulation of ski jumping suits.
+
+The landing requires the skiers to touch the ground in the Telemark landing style. This involves the jumper landing with one foot in front of the other, mimicking the style of the Norwegian inventors of Telemark skiing. Failure to comply with this regulation will lead to the deduction of style marks (points).
+
+Normal hill competitions
+  • calculation line is approximately
+    80 - 100 metres (260 - 330 ft)
+    distances of up to and over 110 metres
+    (360 ft) can be obtained
+Large hill competitions
+  • calculation line is approximately
+    120 - 130 metres (390 - 430 ft)
+    distances of over 145 metres
+    (476 ft) can be obtained
+    individual and team competitions
+    are run on these hills
+Ski-flying competitions
+  • calculation line is 185 metres (607 ft)
+
+Female ski jumpers
+  • need a longer approach than their
+    male colleagues to make up for
+    their light weight to reach the
+    necessary speed
+  • due to their light weight female
+    jumpers reach distances not below
+    those of male jumpers
+
+</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>K90 Individual(70m) Ski Jumping</string>
 				<key>Rules</key>
 				<string>
 Scoring:
@@ -1789,7 +2543,7 @@ Female ski jumpers
 		<array>
 			<dict>
 				<key>Name</key>
-				<string>Ski Jumping</string>
+				<string>K90 Individual (70m) Ski Jumping</string>
 				<key>Rules</key>
 				<string>
 Scoring:
@@ -1866,12 +2620,67 @@ Female ski jumpers
 		<array>
 			<dict>
 				<key>Name</key>
-				<string>Snowboarding</string>
+				<string>Giant Parallel Slalom</string>
+				<key>Rules</key>
+				<string></string>
+				<key>Description</key>
+				<string>Ten snowboarding events will be held at the Rosa Khutor Extreme ParkSochi.Events will include parallel giant slalom, snowboard cross, half-pipe, and the new events of parallel slalom and slopestyle.
+                    
+Events
+  • Men&apos;s Parallel Giant Slalom
+  • Men&apos;s Parallel Slalom(new event)
+  • Men&apos;s Snowboard Cross
+  • Men&apos;s Halfpipe
+  • Men&apos;s Slopestyle(new event)
+                    
+  • Ladies&apos; Parallel Giant Slalom
+  • Ladies&apos; Parallel Slalom(new event)
+  • Ladies&apos; Snowboard Cross
+  • Ladies&apos; Halfpipe
+  • Ladies&apos; Slopestyle(new event)
+
+
+Parallel Giant Slalom
+  • features head-to-head competition on
+    courses next to one another
+  • top athletes from the qualifying round
+    advance to compete elimination style
+  • winner of the head-to-head races moves
+    onto the next round
+  • gold-medal winner is the athlete who
+    is not defeated in any of his or her races
+
+
+Equipment:
+
+  • board -halfpipe and slopestyle
+    allows snowboarder to keep balance
+    and perform acrobatic tricks
+  • slalom board - stiff and narrow
+    ideal for sharp turns and high speeds
+  • snowboard cross board - designed for
+    high speeds
+    flexible to help snowboarder avoid
+    mistakes when negotiating obstacles
+  • soft boots  - usually worn for the
+    halfpipe, slopestyle, and snowboard cross
+  • hard boots  - similar to skiing boots
+    are used for the slalom
+  • hard plastic helmet is required for all
+    snowboard competitors
+
+Dates:
+6 - 22 February
+                
+</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Half Pipe</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
 				<string>
-Snowboarding winll be held at
 
 Ten snowboarding events will be held at the Rosa Khutor Extreme ParkSochi.Events will include parallel giant slalom, snowboard cross, half-pipe, and the new events of parallel slalom and slopestyle.
                     
@@ -1896,6 +2705,55 @@ Half-Pipe
     performance
   • rider with the highest score wins
 
+
+Equipment:
+
+  • board -halfpipe and slopestyle
+    allows snowboarder to keep balance
+    and perform acrobatic tricks
+  • slalom board - stiff and narrow
+    ideal for sharp turns and high speeds
+  • snowboard cross board - designed for
+    high speeds
+    flexible to help snowboarder avoid
+    mistakes when negotiating obstacles
+  • soft boots  - usually worn for the
+    halfpipe, slopestyle, and snowboard cross
+  • hard boots  - similar to skiing boots
+    are used for the slalom
+  • hard plastic helmet is required for all
+    snowboard competitors
+
+Dates:
+6 - 22 February
+                
+</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Parallel Slalom</string>
+				<key>Rules</key>
+				<string></string>
+				<key>Description</key>
+				<string>
+
+Ten snowboarding events will be held at the Rosa Khutor Extreme ParkSochi.Events will include parallel giant slalom, snowboard cross, half-pipe, and the new events of parallel slalom and slopestyle.
+                    
+Events
+  • Men&apos;s Parallel Giant Slalom
+  • Men&apos;s Parallel Slalom(new event)
+  • Men&apos;s Snowboard Cross
+  • Men&apos;s Halfpipe
+  • Men&apos;s Slopestyle(new event)
+                    
+  • Ladies&apos; Parallel Giant Slalom
+  • Ladies&apos; Parallel Slalom(new event)
+  • Ladies&apos; Snowboard Cross
+  • Ladies&apos; Halfpipe
+  • Ladies&apos; Slopestyle(new event)
+
+
+
 Parallel Slalom
   • features two athletes riding
     side-by-side courses at the same time
@@ -1904,15 +2762,52 @@ Parallel Slalom
     the rider must follow
   • snowboarder with the fastest time wins
 
-Parallel Giant Slalom
-  • features head-to-head competition on
-    courses next to one another
-  • top athletes from the qualifying round
-    advance to compete elimination style
-  • winner of the head-to-head races moves
-    onto the next round
-  • gold-medal winner is the athlete who
-    is not defeated in any of his or her races
+Equipment:
+
+  • board -halfpipe and slopestyle
+    allows snowboarder to keep balance
+    and perform acrobatic tricks
+  • slalom board - stiff and narrow
+    ideal for sharp turns and high speeds
+  • snowboard cross board - designed for
+    high speeds
+    flexible to help snowboarder avoid
+    mistakes when negotiating obstacles
+  • soft boots  - usually worn for the
+    halfpipe, slopestyle, and snowboard cross
+  • hard boots  - similar to skiing boots
+    are used for the slalom
+  • hard plastic helmet is required for all
+    snowboard competitors
+
+Dates:
+6 - 22 February
+                
+</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Slopestyle</string>
+				<key>Rules</key>
+				<string></string>
+				<key>Description</key>
+				<string>
+
+Ten snowboarding events will be held at the Rosa Khutor Extreme ParkSochi.Events will include parallel giant slalom, snowboard cross, half-pipe, and the new events of parallel slalom and slopestyle.
+                    
+Events
+  • Men&apos;s Parallel Giant Slalom
+  • Men&apos;s Parallel Slalom(new event)
+  • Men&apos;s Snowboard Cross
+  • Men&apos;s Halfpipe
+  • Men&apos;s Slopestyle(new event)
+                    
+  • Ladies&apos; Parallel Giant Slalom
+  • Ladies&apos; Parallel Slalom(new event)
+  • Ladies&apos; Snowboard Cross
+  • Ladies&apos; Halfpipe
+  • Ladies&apos; Slopestyle(new event)
+
 
 Slopestyle
   • will be contested for the first time
@@ -1924,6 +2819,53 @@ Slopestyle
   • goal is to perform high-amplitude tricks
     at a high technical level
   • rider with the best score wins
+
+
+Equipment:
+
+  • board -halfpipe and slopestyle
+    allows snowboarder to keep balance
+    and perform acrobatic tricks
+  • slalom board - stiff and narrow
+    ideal for sharp turns and high speeds
+  • snowboard cross board - designed for
+    high speeds
+    flexible to help snowboarder avoid
+    mistakes when negotiating obstacles
+  • soft boots  - usually worn for the
+    halfpipe, slopestyle, and snowboard cross
+  • hard boots  - similar to skiing boots
+    are used for the slalom
+  • hard plastic helmet is required for all
+    snowboard competitors
+
+Dates:
+6 - 22 February
+                
+</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Snowboard Cross</string>
+				<key>Rules</key>
+				<string></string>
+				<key>Description</key>
+				<string>
+
+Ten snowboarding events will be held at the Rosa Khutor Extreme ParkSochi.Events will include parallel giant slalom, snowboard cross, half-pipe, and the new events of parallel slalom and slopestyle.
+                    
+Events
+  • Men&apos;s Parallel Giant Slalom
+  • Men&apos;s Parallel Slalom(new event)
+  • Men&apos;s Snowboard Cross
+  • Men&apos;s Halfpipe
+  • Men&apos;s Slopestyle(new event)
+                    
+  • Ladies&apos; Parallel Giant Slalom
+  • Ladies&apos; Parallel Slalom(new event)
+  • Ladies&apos; Snowboard Cross
+  • Ladies&apos; Halfpipe
+  • Ladies&apos; Slopestyle(new event)
 
 Snowboard Cross
   • features a course that include moguls,
@@ -1960,11 +2902,282 @@ Dates:
 		<array>
 			<dict>
 				<key>Name</key>
-				<string>Snowboarding</string>
+				<string>Giant Parallel Slalom</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
-				<string>Snowboarding</string>
+				<string>Ten snowboarding events will be held at the Rosa Khutor Extreme ParkSochi.Events will include parallel giant slalom, snowboard cross, half-pipe, and the new events of parallel slalom and slopestyle.
+                    
+Events
+  • Men&apos;s Parallel Giant Slalom
+  • Men&apos;s Parallel Slalom(new event)
+  • Men&apos;s Snowboard Cross
+  • Men&apos;s Halfpipe
+  • Men&apos;s Slopestyle(new event)
+                    
+  • Ladies&apos; Parallel Giant Slalom
+  • Ladies&apos; Parallel Slalom(new event)
+  • Ladies&apos; Snowboard Cross
+  • Ladies&apos; Halfpipe
+  • Ladies&apos; Slopestyle(new event)
+
+
+Parallel Giant Slalom
+  • features head-to-head competition on
+    courses next to one another
+  • top athletes from the qualifying round
+    advance to compete elimination style
+  • winner of the head-to-head races moves
+    onto the next round
+  • gold-medal winner is the athlete who
+    is not defeated in any of his or her races
+
+
+Equipment:
+
+  • board -halfpipe and slopestyle
+    allows snowboarder to keep balance
+    and perform acrobatic tricks
+  • slalom board - stiff and narrow
+    ideal for sharp turns and high speeds
+  • snowboard cross board - designed for
+    high speeds
+    flexible to help snowboarder avoid
+    mistakes when negotiating obstacles
+  • soft boots  - usually worn for the
+    halfpipe, slopestyle, and snowboard cross
+  • hard boots  - similar to skiing boots
+    are used for the slalom
+  • hard plastic helmet is required for all
+    snowboard competitors
+
+Dates:
+6 - 22 February
+                
+</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Half Pipe</string>
+				<key>Rules</key>
+				<string></string>
+				<key>Description</key>
+				<string>
+
+Ten snowboarding events will be held at the Rosa Khutor Extreme ParkSochi.Events will include parallel giant slalom, snowboard cross, half-pipe, and the new events of parallel slalom and slopestyle.
+                    
+Events
+  • Men&apos;s Parallel Giant Slalom
+  • Men&apos;s Parallel Slalom(new event)
+  • Men&apos;s Snowboard Cross
+  • Men&apos;s Halfpipe
+  • Men&apos;s Slopestyle(new event)
+                    
+  • Ladies&apos; Parallel Giant Slalom
+  • Ladies&apos; Parallel Slalom(new event)
+  • Ladies&apos; Snowboard Cross
+  • Ladies&apos; Halfpipe
+  • Ladies&apos; Slopestyle(new event)
+
+Half-Pipe
+  • features snowboarders doing tricks
+    and acrobatic maneuvers above the
+    rim of a half-pipe-shaped course
+  • athletes scored on their technical
+    performance
+  • rider with the highest score wins
+
+
+Equipment:
+
+  • board -halfpipe and slopestyle
+    allows snowboarder to keep balance
+    and perform acrobatic tricks
+  • slalom board - stiff and narrow
+    ideal for sharp turns and high speeds
+  • snowboard cross board - designed for
+    high speeds
+    flexible to help snowboarder avoid
+    mistakes when negotiating obstacles
+  • soft boots  - usually worn for the
+    halfpipe, slopestyle, and snowboard cross
+  • hard boots  - similar to skiing boots
+    are used for the slalom
+  • hard plastic helmet is required for all
+    snowboard competitors
+
+Dates:
+6 - 22 February
+                
+</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Parallel Slalom</string>
+				<key>Rules</key>
+				<string></string>
+				<key>Description</key>
+				<string>
+
+Ten snowboarding events will be held at the Rosa Khutor Extreme ParkSochi.Events will include parallel giant slalom, snowboard cross, half-pipe, and the new events of parallel slalom and slopestyle.
+                    
+Events
+  • Men&apos;s Parallel Giant Slalom
+  • Men&apos;s Parallel Slalom(new event)
+  • Men&apos;s Snowboard Cross
+  • Men&apos;s Halfpipe
+  • Men&apos;s Slopestyle(new event)
+                    
+  • Ladies&apos; Parallel Giant Slalom
+  • Ladies&apos; Parallel Slalom(new event)
+  • Ladies&apos; Snowboard Cross
+  • Ladies&apos; Halfpipe
+  • Ladies&apos; Slopestyle(new event)
+
+
+
+Parallel Slalom
+  • features two athletes riding
+    side-by-side courses at the same time
+  • each course is filled with blue and
+    red gates which dictate the course
+    the rider must follow
+  • snowboarder with the fastest time wins
+
+Equipment:
+
+  • board -halfpipe and slopestyle
+    allows snowboarder to keep balance
+    and perform acrobatic tricks
+  • slalom board - stiff and narrow
+    ideal for sharp turns and high speeds
+  • snowboard cross board - designed for
+    high speeds
+    flexible to help snowboarder avoid
+    mistakes when negotiating obstacles
+  • soft boots  - usually worn for the
+    halfpipe, slopestyle, and snowboard cross
+  • hard boots  - similar to skiing boots
+    are used for the slalom
+  • hard plastic helmet is required for all
+    snowboard competitors
+
+Dates:
+6 - 22 February
+                
+</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Slopestyle</string>
+				<key>Rules</key>
+				<string></string>
+				<key>Description</key>
+				<string>
+
+Ten snowboarding events will be held at the Rosa Khutor Extreme ParkSochi.Events will include parallel giant slalom, snowboard cross, half-pipe, and the new events of parallel slalom and slopestyle.
+                    
+Events
+  • Men&apos;s Parallel Giant Slalom
+  • Men&apos;s Parallel Slalom(new event)
+  • Men&apos;s Snowboard Cross
+  • Men&apos;s Halfpipe
+  • Men&apos;s Slopestyle(new event)
+                    
+  • Ladies&apos; Parallel Giant Slalom
+  • Ladies&apos; Parallel Slalom(new event)
+  • Ladies&apos; Snowboard Cross
+  • Ladies&apos; Halfpipe
+  • Ladies&apos; Slopestyle(new event)
+
+
+Slopestyle
+  • will be contested for the first time
+    at the 2014 Olympic Games
+  • features snowboarders doing tricks
+    on rails, quater-pipes and jumps
+  • semi-final and a final round
+  • each rider takes two runs in each round
+  • goal is to perform high-amplitude tricks
+    at a high technical level
+  • rider with the best score wins
+
+
+Equipment:
+
+  • board -halfpipe and slopestyle
+    allows snowboarder to keep balance
+    and perform acrobatic tricks
+  • slalom board - stiff and narrow
+    ideal for sharp turns and high speeds
+  • snowboard cross board - designed for
+    high speeds
+    flexible to help snowboarder avoid
+    mistakes when negotiating obstacles
+  • soft boots  - usually worn for the
+    halfpipe, slopestyle, and snowboard cross
+  • hard boots  - similar to skiing boots
+    are used for the slalom
+  • hard plastic helmet is required for all
+    snowboard competitors
+
+Dates:
+6 - 22 February
+                
+</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Snowboard Cross</string>
+				<key>Rules</key>
+				<string></string>
+				<key>Description</key>
+				<string>
+
+Ten snowboarding events will be held at the Rosa Khutor Extreme ParkSochi.Events will include parallel giant slalom, snowboard cross, half-pipe, and the new events of parallel slalom and slopestyle.
+                    
+Events
+  • Men&apos;s Parallel Giant Slalom
+  • Men&apos;s Parallel Slalom(new event)
+  • Men&apos;s Snowboard Cross
+  • Men&apos;s Halfpipe
+  • Men&apos;s Slopestyle(new event)
+                    
+  • Ladies&apos; Parallel Giant Slalom
+  • Ladies&apos; Parallel Slalom(new event)
+  • Ladies&apos; Snowboard Cross
+  • Ladies&apos; Halfpipe
+  • Ladies&apos; Slopestyle(new event)
+
+Snowboard Cross
+  • features a course that include moguls,
+    obstacles, banks and jumps
+  • four athletes ride at a time in an
+    effort to cross the finish line first
+  • first person across the finish line wins
+
+Equipment:
+
+  • board -halfpipe and slopestyle
+    allows snowboarder to keep balance
+    and perform acrobatic tricks
+  • slalom board - stiff and narrow
+    ideal for sharp turns and high speeds
+  • snowboard cross board - designed for
+    high speeds
+    flexible to help snowboarder avoid
+    mistakes when negotiating obstacles
+  • soft boots  - usually worn for the
+    halfpipe, slopestyle, and snowboard cross
+  • hard boots  - similar to skiing boots
+    are used for the slalom
+  • hard plastic helmet is required for all
+    snowboard competitors
+
+Dates:
+6 - 22 February
+                
+</string>
 			</dict>
 		</array>
 	</dict>
@@ -1975,7 +3188,537 @@ Dates:
 		<array>
 			<dict>
 				<key>Name</key>
-				<string>Speed Skating</string>
+				<string>10000m Speed Skating</string>
+				<key>Rules</key>
+				<string>
+Speed Skaters compete in 500m, 1,000m, 1,500m, 5,000m and a team pursuit. There is also a 10,000m for men and a 3,000m for women. In each event, skaters race in pairs against the clock on a standard 400m oval ring. All events are skated once, apart from the 500m, which is skated twice. In this case, the final result is based on the total time of the two races.
+                                    </string>
+				<key>Description</key>
+				<string>
+                    
+Speed skating is a competitive form of ice skating in which the competitors race each other in traveling a certain distance on skates. Types of speed skating are long track speed skating, short track speed skating, and marathon speed skating. Long-track speed skating is usually referred to as just &quot;speed skating&quot;, while short-track speed skating is known as &quot;short track&quot;. The ISU, the governing body of both ice sports, refers to long track as &quot;speed skating&quot; and short track as &quot;short track skating&quot;. The standard rink for long track is 400 meters long.
+
+Short-track speed skating takes place on a smaller rink, normally the size of an ice hockey rink. Distances are shorter than in long-track racing, with the longest Olympic race being 3000 meters. Races are usually held as knockouts, with the best two in heats of four or five qualifying for the final race, where medals are awarded. Disqualifications and falls are not uncommon.
+
+In the individual events, skaters race in pairs on separate tracks (the inner and outer lanes). Athletes switch lanes at every lap in order to skate an equal distance. The 500 meter race is skated twice, with both races taking place on the same day. The final result is based on the total time taken over the two races.
+
+In the team pursuit races, men skate 8 laps, and women skate 6. Two teams of three members each take part in each race. The teams start all at once from different sides of the track. Each skater in a team Â«leadsÂ» the group for a time, skating in front to take on all the air resistance. Meanwhile, his partners fall in behind him. The race comes to an end only when the last skater on a team crosses the finish line.
+
+Short track
+
+  • races are run counter-clockwise on a
+    111m track
+  • skater is disqualified if he or she
+    passes inside the track
+  • lead skater has right-of-way
+  • skater can be disqualified if they
+    cross track another skater by cutting
+    off another skater while changing his
+    or her own lane
+    after two false starts, the skater
+    is disqualified
+  • a disqualified skater will be given
+    last place in their heat or final
+  • a skater can be disqualified if he
+    or she deliberately impedes another
+    skater&apos;s way to slow the skater down
+
+Long track
+
+  • races are run counter-clockwise
+  • individual competition - only two
+    skaters are allowed to race at once
+  • must remain in their respective lanes
+  • skaters must change lanes every lap
+  • skater changing from the outside lane
+    to the inside has right-of-way
+  • team pursuit,the only non-individual
+    competition form,
+  • two teams of each three skaters are
+    allowed to race at once
+  • both teams remain in the inner lane
+    for the duration of the race they
+    start on opposite sides of the rink
+
+Equipment:
+
+Short Track
+  • speed skates - use special skates with
+    a blade that isn&apos;t attached to the boot
+  • boots are usually made of kangaroo leather
+  • spandex skin suit with hoods to reduce
+    air resistance
+  • protective helmet
+  • protective eyewear
+  • shin pads
+  • knee pads
+  • neck guard (bib style)
+  • kevlar suit(optional)to protect against
+    being cut from another skater&apos;s blade
+
+Long Track
+  • same equipment should be worn as
+    short track
+  • exceptions -a helmet, shin pads,
+    knee pads, and neck guardnot required
+
+A speed skating rink (or speed skating oval)
+  • is an ice rink (but also a sport venue)
+    in which a speed skating competition
+    is held
+  • demarcation of the competition lanes
+    are made by painted lines or marks in
+    the ice and movable blocks of rubber
+  • track must be 400 metres long
+    with a warm-up lane at least 4 metres
+    wide inside the competition lanes
+    track must also be enclosed within
+    a building
+  • measurement of the track is made
+    half a meter into the lane
+    total length of the track is distance
+    a competitor skates each lap
+      the length of two straights
+      one inner and one outer curve
+      plus the extra distance skated when
+      changing lanes in the cross-over area
+      on a standard track equals 7 centimeters
+
+  • 400 m track with inner radius 25.0 m
+    has 113.57 m long straights
+  • 400 m track with inner radius 25.5 m
+    has 112.00 m long straights
+  • 400 m track with inner radius 26.0 m
+    has 110.43 m long straights
+</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>1000m Speed Skating</string>
+				<key>Rules</key>
+				<string>
+Speed Skaters compete in 500m, 1,000m, 1,500m, 5,000m and a team pursuit. There is also a 10,000m for men and a 3,000m for women. In each event, skaters race in pairs against the clock on a standard 400m oval ring. All events are skated once, apart from the 500m, which is skated twice. In this case, the final result is based on the total time of the two races.
+                                    </string>
+				<key>Description</key>
+				<string>
+                    
+Speed skating is a competitive form of ice skating in which the competitors race each other in traveling a certain distance on skates. Types of speed skating are long track speed skating, short track speed skating, and marathon speed skating. Long-track speed skating is usually referred to as just &quot;speed skating&quot;, while short-track speed skating is known as &quot;short track&quot;. The ISU, the governing body of both ice sports, refers to long track as &quot;speed skating&quot; and short track as &quot;short track skating&quot;. The standard rink for long track is 400 meters long.
+
+Short-track speed skating takes place on a smaller rink, normally the size of an ice hockey rink. Distances are shorter than in long-track racing, with the longest Olympic race being 3000 meters. Races are usually held as knockouts, with the best two in heats of four or five qualifying for the final race, where medals are awarded. Disqualifications and falls are not uncommon.
+
+In the individual events, skaters race in pairs on separate tracks (the inner and outer lanes). Athletes switch lanes at every lap in order to skate an equal distance. The 500 meter race is skated twice, with both races taking place on the same day. The final result is based on the total time taken over the two races.
+
+In the team pursuit races, men skate 8 laps, and women skate 6. Two teams of three members each take part in each race. The teams start all at once from different sides of the track. Each skater in a team Â«leadsÂ» the group for a time, skating in front to take on all the air resistance. Meanwhile, his partners fall in behind him. The race comes to an end only when the last skater on a team crosses the finish line.
+
+Short track
+
+  • races are run counter-clockwise on a
+    111m track
+  • skater is disqualified if he or she
+    passes inside the track
+  • lead skater has right-of-way
+  • skater can be disqualified if they
+    cross track another skater by cutting
+    off another skater while changing his
+    or her own lane
+    after two false starts, the skater
+    is disqualified
+  • a disqualified skater will be given
+    last place in their heat or final
+  • a skater can be disqualified if he
+    or she deliberately impedes another
+    skater&apos;s way to slow the skater down
+
+Long track
+
+  • races are run counter-clockwise
+  • individual competition - only two
+    skaters are allowed to race at once
+  • must remain in their respective lanes
+  • skaters must change lanes every lap
+  • skater changing from the outside lane
+    to the inside has right-of-way
+  • team pursuit,the only non-individual
+    competition form,
+  • two teams of each three skaters are
+    allowed to race at once
+  • both teams remain in the inner lane
+    for the duration of the race they
+    start on opposite sides of the rink
+
+Equipment:
+
+Short Track
+  • speed skates - use special skates with
+    a blade that isn&apos;t attached to the boot
+  • boots are usually made of kangaroo leather
+  • spandex skin suit with hoods to reduce
+    air resistance
+  • protective helmet
+  • protective eyewear
+  • shin pads
+  • knee pads
+  • neck guard (bib style)
+  • kevlar suit(optional)to protect against
+    being cut from another skater&apos;s blade
+
+Long Track
+  • same equipment should be worn as
+    short track
+  • exceptions -a helmet, shin pads,
+    knee pads, and neck guardnot required
+
+A speed skating rink (or speed skating oval)
+  • is an ice rink (but also a sport venue)
+    in which a speed skating competition
+    is held
+  • demarcation of the competition lanes
+    are made by painted lines or marks in
+    the ice and movable blocks of rubber
+  • track must be 400 metres long
+    with a warm-up lane at least 4 metres
+    wide inside the competition lanes
+    track must also be enclosed within
+    a building
+  • measurement of the track is made
+    half a meter into the lane
+    total length of the track is distance
+    a competitor skates each lap
+      the length of two straights
+      one inner and one outer curve
+      plus the extra distance skated when
+      changing lanes in the cross-over area
+      on a standard track equals 7 centimeters
+
+  • 400 m track with inner radius 25.0 m
+    has 113.57 m long straights
+  • 400 m track with inner radius 25.5 m
+    has 112.00 m long straights
+  • 400 m track with inner radius 26.0 m
+    has 110.43 m long straights
+</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>1500m Speed Skating</string>
+				<key>Rules</key>
+				<string>
+Speed Skaters compete in 500m, 1,000m, 1,500m, 5,000m and a team pursuit. There is also a 10,000m for men and a 3,000m for women. In each event, skaters race in pairs against the clock on a standard 400m oval ring. All events are skated once, apart from the 500m, which is skated twice. In this case, the final result is based on the total time of the two races.
+                                    </string>
+				<key>Description</key>
+				<string>
+                    
+Speed skating is a competitive form of ice skating in which the competitors race each other in traveling a certain distance on skates. Types of speed skating are long track speed skating, short track speed skating, and marathon speed skating. Long-track speed skating is usually referred to as just &quot;speed skating&quot;, while short-track speed skating is known as &quot;short track&quot;. The ISU, the governing body of both ice sports, refers to long track as &quot;speed skating&quot; and short track as &quot;short track skating&quot;. The standard rink for long track is 400 meters long.
+
+Short-track speed skating takes place on a smaller rink, normally the size of an ice hockey rink. Distances are shorter than in long-track racing, with the longest Olympic race being 3000 meters. Races are usually held as knockouts, with the best two in heats of four or five qualifying for the final race, where medals are awarded. Disqualifications and falls are not uncommon.
+
+In the individual events, skaters race in pairs on separate tracks (the inner and outer lanes). Athletes switch lanes at every lap in order to skate an equal distance. The 500 meter race is skated twice, with both races taking place on the same day. The final result is based on the total time taken over the two races.
+
+In the team pursuit races, men skate 8 laps, and women skate 6. Two teams of three members each take part in each race. The teams start all at once from different sides of the track. Each skater in a team Â«leadsÂ» the group for a time, skating in front to take on all the air resistance. Meanwhile, his partners fall in behind him. The race comes to an end only when the last skater on a team crosses the finish line.
+
+Short track
+
+  • races are run counter-clockwise on a
+    111m track
+  • skater is disqualified if he or she
+    passes inside the track
+  • lead skater has right-of-way
+  • skater can be disqualified if they
+    cross track another skater by cutting
+    off another skater while changing his
+    or her own lane
+    after two false starts, the skater
+    is disqualified
+  • a disqualified skater will be given
+    last place in their heat or final
+  • a skater can be disqualified if he
+    or she deliberately impedes another
+    skater&apos;s way to slow the skater down
+
+Long track
+
+  • races are run counter-clockwise
+  • individual competition - only two
+    skaters are allowed to race at once
+  • must remain in their respective lanes
+  • skaters must change lanes every lap
+  • skater changing from the outside lane
+    to the inside has right-of-way
+  • team pursuit,the only non-individual
+    competition form,
+  • two teams of each three skaters are
+    allowed to race at once
+  • both teams remain in the inner lane
+    for the duration of the race they
+    start on opposite sides of the rink
+
+Equipment:
+
+Short Track
+  • speed skates - use special skates with
+    a blade that isn&apos;t attached to the boot
+  • boots are usually made of kangaroo leather
+  • spandex skin suit with hoods to reduce
+    air resistance
+  • protective helmet
+  • protective eyewear
+  • shin pads
+  • knee pads
+  • neck guard (bib style)
+  • kevlar suit(optional)to protect against
+    being cut from another skater&apos;s blade
+
+Long Track
+  • same equipment should be worn as
+    short track
+  • exceptions -a helmet, shin pads,
+    knee pads, and neck guardnot required
+
+A speed skating rink (or speed skating oval)
+  • is an ice rink (but also a sport venue)
+    in which a speed skating competition
+    is held
+  • demarcation of the competition lanes
+    are made by painted lines or marks in
+    the ice and movable blocks of rubber
+  • track must be 400 metres long
+    with a warm-up lane at least 4 metres
+    wide inside the competition lanes
+    track must also be enclosed within
+    a building
+  • measurement of the track is made
+    half a meter into the lane
+    total length of the track is distance
+    a competitor skates each lap
+      the length of two straights
+      one inner and one outer curve
+      plus the extra distance skated when
+      changing lanes in the cross-over area
+      on a standard track equals 7 centimeters
+
+  • 400 m track with inner radius 25.0 m
+    has 113.57 m long straights
+  • 400 m track with inner radius 25.5 m
+    has 112.00 m long straights
+  • 400 m track with inner radius 26.0 m
+    has 110.43 m long straights
+</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>5000m Speed Skating</string>
+				<key>Rules</key>
+				<string>
+Speed Skaters compete in 500m, 1,000m, 1,500m, 5,000m and a team pursuit. There is also a 10,000m for men and a 3,000m for women. In each event, skaters race in pairs against the clock on a standard 400m oval ring. All events are skated once, apart from the 500m, which is skated twice. In this case, the final result is based on the total time of the two races.
+                                    </string>
+				<key>Description</key>
+				<string>
+                    
+Speed skating is a competitive form of ice skating in which the competitors race each other in traveling a certain distance on skates. Types of speed skating are long track speed skating, short track speed skating, and marathon speed skating. Long-track speed skating is usually referred to as just &quot;speed skating&quot;, while short-track speed skating is known as &quot;short track&quot;. The ISU, the governing body of both ice sports, refers to long track as &quot;speed skating&quot; and short track as &quot;short track skating&quot;. The standard rink for long track is 400 meters long.
+
+Short-track speed skating takes place on a smaller rink, normally the size of an ice hockey rink. Distances are shorter than in long-track racing, with the longest Olympic race being 3000 meters. Races are usually held as knockouts, with the best two in heats of four or five qualifying for the final race, where medals are awarded. Disqualifications and falls are not uncommon.
+
+In the individual events, skaters race in pairs on separate tracks (the inner and outer lanes). Athletes switch lanes at every lap in order to skate an equal distance. The 500 meter race is skated twice, with both races taking place on the same day. The final result is based on the total time taken over the two races.
+
+In the team pursuit races, men skate 8 laps, and women skate 6. Two teams of three members each take part in each race. The teams start all at once from different sides of the track. Each skater in a team Â«leadsÂ» the group for a time, skating in front to take on all the air resistance. Meanwhile, his partners fall in behind him. The race comes to an end only when the last skater on a team crosses the finish line.
+
+Short track
+
+  • races are run counter-clockwise on a
+    111m track
+  • skater is disqualified if he or she
+    passes inside the track
+  • lead skater has right-of-way
+  • skater can be disqualified if they
+    cross track another skater by cutting
+    off another skater while changing his
+    or her own lane
+    after two false starts, the skater
+    is disqualified
+  • a disqualified skater will be given
+    last place in their heat or final
+  • a skater can be disqualified if he
+    or she deliberately impedes another
+    skater&apos;s way to slow the skater down
+
+Long track
+
+  • races are run counter-clockwise
+  • individual competition - only two
+    skaters are allowed to race at once
+  • must remain in their respective lanes
+  • skaters must change lanes every lap
+  • skater changing from the outside lane
+    to the inside has right-of-way
+  • team pursuit,the only non-individual
+    competition form,
+  • two teams of each three skaters are
+    allowed to race at once
+  • both teams remain in the inner lane
+    for the duration of the race they
+    start on opposite sides of the rink
+
+Equipment:
+
+Short Track
+  • speed skates - use special skates with
+    a blade that isn&apos;t attached to the boot
+  • boots are usually made of kangaroo leather
+  • spandex skin suit with hoods to reduce
+    air resistance
+  • protective helmet
+  • protective eyewear
+  • shin pads
+  • knee pads
+  • neck guard (bib style)
+  • kevlar suit(optional)to protect against
+    being cut from another skater&apos;s blade
+
+Long Track
+  • same equipment should be worn as
+    short track
+  • exceptions -a helmet, shin pads,
+    knee pads, and neck guardnot required
+
+A speed skating rink (or speed skating oval)
+  • is an ice rink (but also a sport venue)
+    in which a speed skating competition
+    is held
+  • demarcation of the competition lanes
+    are made by painted lines or marks in
+    the ice and movable blocks of rubber
+  • track must be 400 metres long
+    with a warm-up lane at least 4 metres
+    wide inside the competition lanes
+    track must also be enclosed within
+    a building
+  • measurement of the track is made
+    half a meter into the lane
+    total length of the track is distance
+    a competitor skates each lap
+      the length of two straights
+      one inner and one outer curve
+      plus the extra distance skated when
+      changing lanes in the cross-over area
+      on a standard track equals 7 centimeters
+
+  • 400 m track with inner radius 25.0 m
+    has 113.57 m long straights
+  • 400 m track with inner radius 25.5 m
+    has 112.00 m long straights
+  • 400 m track with inner radius 26.0 m
+    has 110.43 m long straights
+</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>500m Speed Skating</string>
+				<key>Rules</key>
+				<string>
+Speed Skaters compete in 500m, 1,000m, 1,500m, 5,000m and a team pursuit. There is also a 10,000m for men and a 3,000m for women. In each event, skaters race in pairs against the clock on a standard 400m oval ring. All events are skated once, apart from the 500m, which is skated twice. In this case, the final result is based on the total time of the two races.
+                                    </string>
+				<key>Description</key>
+				<string>
+                    
+Speed skating is a competitive form of ice skating in which the competitors race each other in traveling a certain distance on skates. Types of speed skating are long track speed skating, short track speed skating, and marathon speed skating. Long-track speed skating is usually referred to as just &quot;speed skating&quot;, while short-track speed skating is known as &quot;short track&quot;. The ISU, the governing body of both ice sports, refers to long track as &quot;speed skating&quot; and short track as &quot;short track skating&quot;. The standard rink for long track is 400 meters long.
+
+Short-track speed skating takes place on a smaller rink, normally the size of an ice hockey rink. Distances are shorter than in long-track racing, with the longest Olympic race being 3000 meters. Races are usually held as knockouts, with the best two in heats of four or five qualifying for the final race, where medals are awarded. Disqualifications and falls are not uncommon.
+
+In the individual events, skaters race in pairs on separate tracks (the inner and outer lanes). Athletes switch lanes at every lap in order to skate an equal distance. The 500 meter race is skated twice, with both races taking place on the same day. The final result is based on the total time taken over the two races.
+
+In the team pursuit races, men skate 8 laps, and women skate 6. Two teams of three members each take part in each race. The teams start all at once from different sides of the track. Each skater in a team Â«leadsÂ» the group for a time, skating in front to take on all the air resistance. Meanwhile, his partners fall in behind him. The race comes to an end only when the last skater on a team crosses the finish line.
+
+Short track
+
+  • races are run counter-clockwise on a
+    111m track
+  • skater is disqualified if he or she
+    passes inside the track
+  • lead skater has right-of-way
+  • skater can be disqualified if they
+    cross track another skater by cutting
+    off another skater while changing his
+    or her own lane
+    after two false starts, the skater
+    is disqualified
+  • a disqualified skater will be given
+    last place in their heat or final
+  • a skater can be disqualified if he
+    or she deliberately impedes another
+    skater&apos;s way to slow the skater down
+
+Long track
+
+  • races are run counter-clockwise
+  • individual competition - only two
+    skaters are allowed to race at once
+  • must remain in their respective lanes
+  • skaters must change lanes every lap
+  • skater changing from the outside lane
+    to the inside has right-of-way
+  • team pursuit,the only non-individual
+    competition form,
+  • two teams of each three skaters are
+    allowed to race at once
+  • both teams remain in the inner lane
+    for the duration of the race they
+    start on opposite sides of the rink
+
+Equipment:
+
+Short Track
+  • speed skates - use special skates with
+    a blade that isn&apos;t attached to the boot
+  • boots are usually made of kangaroo leather
+  • spandex skin suit with hoods to reduce
+    air resistance
+  • protective helmet
+  • protective eyewear
+  • shin pads
+  • knee pads
+  • neck guard (bib style)
+  • kevlar suit(optional)to protect against
+    being cut from another skater&apos;s blade
+
+Long Track
+  • same equipment should be worn as
+    short track
+  • exceptions -a helmet, shin pads,
+    knee pads, and neck guardnot required
+
+A speed skating rink (or speed skating oval)
+  • is an ice rink (but also a sport venue)
+    in which a speed skating competition
+    is held
+  • demarcation of the competition lanes
+    are made by painted lines or marks in
+    the ice and movable blocks of rubber
+  • track must be 400 metres long
+    with a warm-up lane at least 4 metres
+    wide inside the competition lanes
+    track must also be enclosed within
+    a building
+  • measurement of the track is made
+    half a meter into the lane
+    total length of the track is distance
+    a competitor skates each lap
+      the length of two straights
+      one inner and one outer curve
+      plus the extra distance skated when
+      changing lanes in the cross-over area
+      on a standard track equals 7 centimeters
+
+  • 400 m track with inner radius 25.0 m
+    has 113.57 m long straights
+  • 400 m track with inner radius 25.5 m
+    has 112.00 m long straights
+  • 400 m track with inner radius 26.0 m
+    has 110.43 m long straights
+</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Team Pursuit Speed Skating</string>
 				<key>Rules</key>
 				<string>
 Speed Skaters compete in 500m, 1,000m, 1,500m, 5,000m and a team pursuit. There is also a 10,000m for men and a 3,000m for women. In each event, skaters race in pairs against the clock on a standard 400m oval ring. All events are skated once, apart from the 500m, which is skated twice. In this case, the final result is based on the total time of the two races.
@@ -2084,7 +3827,537 @@ A speed skating rink (or speed skating oval)
 		<array>
 			<dict>
 				<key>Name</key>
-				<string>Speed Skating</string>
+				<string>100m Speed Skating</string>
+				<key>Rules</key>
+				<string>
+Speed Skaters compete in 500m, 1,000m, 1,500m, 5,000m and a team pursuit. There is also a 10,000m for men and a 3,000m for women. In each event, skaters race in pairs against the clock on a standard 400m oval ring. All events are skated once, apart from the 500m, which is skated twice. In this case, the final result is based on the total time of the two races.
+                                    </string>
+				<key>Description</key>
+				<string>
+                    
+Speed skating is a competitive form of ice skating in which the competitors race each other in traveling a certain distance on skates. Types of speed skating are long track speed skating, short track speed skating, and marathon speed skating. Long-track speed skating is usually referred to as just &quot;speed skating&quot;, while short-track speed skating is known as &quot;short track&quot;. The ISU, the governing body of both ice sports, refers to long track as &quot;speed skating&quot; and short track as &quot;short track skating&quot;. The standard rink for long track is 400 meters long.
+
+Short-track speed skating takes place on a smaller rink, normally the size of an ice hockey rink. Distances are shorter than in long-track racing, with the longest Olympic race being 3000 meters. Races are usually held as knockouts, with the best two in heats of four or five qualifying for the final race, where medals are awarded. Disqualifications and falls are not uncommon.
+
+In the individual events, skaters race in pairs on separate tracks (the inner and outer lanes). Athletes switch lanes at every lap in order to skate an equal distance. The 500 meter race is skated twice, with both races taking place on the same day. The final result is based on the total time taken over the two races.
+
+In the team pursuit races, men skate 8 laps, and women skate 6. Two teams of three members each take part in each race. The teams start all at once from different sides of the track. Each skater in a team Â«leadsÂ» the group for a time, skating in front to take on all the air resistance. Meanwhile, his partners fall in behind him. The race comes to an end only when the last skater on a team crosses the finish line.
+
+Short track
+
+  • races are run counter-clockwise on a
+    111m track
+  • skater is disqualified if he or she
+    passes inside the track
+  • lead skater has right-of-way
+  • skater can be disqualified if they
+    cross track another skater by cutting
+    off another skater while changing his
+    or her own lane
+    after two false starts, the skater
+    is disqualified
+  • a disqualified skater will be given
+    last place in their heat or final
+  • a skater can be disqualified if he
+    or she deliberately impedes another
+    skater&apos;s way to slow the skater down
+
+Long track
+
+  • races are run counter-clockwise
+  • individual competition - only two
+    skaters are allowed to race at once
+  • must remain in their respective lanes
+  • skaters must change lanes every lap
+  • skater changing from the outside lane
+    to the inside has right-of-way
+  • team pursuit,the only non-individual
+    competition form,
+  • two teams of each three skaters are
+    allowed to race at once
+  • both teams remain in the inner lane
+    for the duration of the race they
+    start on opposite sides of the rink
+
+Equipment:
+
+Short Track
+  • speed skates - use special skates with
+    a blade that isn&apos;t attached to the boot
+  • boots are usually made of kangaroo leather
+  • spandex skin suit with hoods to reduce
+    air resistance
+  • protective helmet
+  • protective eyewear
+  • shin pads
+  • knee pads
+  • neck guard (bib style)
+  • kevlar suit(optional)to protect against
+    being cut from another skater&apos;s blade
+
+Long Track
+  • same equipment should be worn as
+    short track
+  • exceptions -a helmet, shin pads,
+    knee pads, and neck guardnot required
+
+A speed skating rink (or speed skating oval)
+  • is an ice rink (but also a sport venue)
+    in which a speed skating competition
+    is held
+  • demarcation of the competition lanes
+    are made by painted lines or marks in
+    the ice and movable blocks of rubber
+  • track must be 400 metres long
+    with a warm-up lane at least 4 metres
+    wide inside the competition lanes
+    track must also be enclosed within
+    a building
+  • measurement of the track is made
+    half a meter into the lane
+    total length of the track is distance
+    a competitor skates each lap
+      the length of two straights
+      one inner and one outer curve
+      plus the extra distance skated when
+      changing lanes in the cross-over area
+      on a standard track equals 7 centimeters
+
+  • 400 m track with inner radius 25.0 m
+    has 113.57 m long straights
+  • 400 m track with inner radius 25.5 m
+    has 112.00 m long straights
+  • 400 m track with inner radius 26.0 m
+    has 110.43 m long straights
+</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>1500m Speed Skating</string>
+				<key>Rules</key>
+				<string>
+Speed Skaters compete in 500m, 1,000m, 1,500m, 5,000m and a team pursuit. There is also a 10,000m for men and a 3,000m for women. In each event, skaters race in pairs against the clock on a standard 400m oval ring. All events are skated once, apart from the 500m, which is skated twice. In this case, the final result is based on the total time of the two races.
+                                    </string>
+				<key>Description</key>
+				<string>
+                    
+Speed skating is a competitive form of ice skating in which the competitors race each other in traveling a certain distance on skates. Types of speed skating are long track speed skating, short track speed skating, and marathon speed skating. Long-track speed skating is usually referred to as just &quot;speed skating&quot;, while short-track speed skating is known as &quot;short track&quot;. The ISU, the governing body of both ice sports, refers to long track as &quot;speed skating&quot; and short track as &quot;short track skating&quot;. The standard rink for long track is 400 meters long.
+
+Short-track speed skating takes place on a smaller rink, normally the size of an ice hockey rink. Distances are shorter than in long-track racing, with the longest Olympic race being 3000 meters. Races are usually held as knockouts, with the best two in heats of four or five qualifying for the final race, where medals are awarded. Disqualifications and falls are not uncommon.
+
+In the individual events, skaters race in pairs on separate tracks (the inner and outer lanes). Athletes switch lanes at every lap in order to skate an equal distance. The 500 meter race is skated twice, with both races taking place on the same day. The final result is based on the total time taken over the two races.
+
+In the team pursuit races, men skate 8 laps, and women skate 6. Two teams of three members each take part in each race. The teams start all at once from different sides of the track. Each skater in a team Â«leadsÂ» the group for a time, skating in front to take on all the air resistance. Meanwhile, his partners fall in behind him. The race comes to an end only when the last skater on a team crosses the finish line.
+
+Short track
+
+  • races are run counter-clockwise on a
+    111m track
+  • skater is disqualified if he or she
+    passes inside the track
+  • lead skater has right-of-way
+  • skater can be disqualified if they
+    cross track another skater by cutting
+    off another skater while changing his
+    or her own lane
+    after two false starts, the skater
+    is disqualified
+  • a disqualified skater will be given
+    last place in their heat or final
+  • a skater can be disqualified if he
+    or she deliberately impedes another
+    skater&apos;s way to slow the skater down
+
+Long track
+
+  • races are run counter-clockwise
+  • individual competition - only two
+    skaters are allowed to race at once
+  • must remain in their respective lanes
+  • skaters must change lanes every lap
+  • skater changing from the outside lane
+    to the inside has right-of-way
+  • team pursuit,the only non-individual
+    competition form,
+  • two teams of each three skaters are
+    allowed to race at once
+  • both teams remain in the inner lane
+    for the duration of the race they
+    start on opposite sides of the rink
+
+Equipment:
+
+Short Track
+  • speed skates - use special skates with
+    a blade that isn&apos;t attached to the boot
+  • boots are usually made of kangaroo leather
+  • spandex skin suit with hoods to reduce
+    air resistance
+  • protective helmet
+  • protective eyewear
+  • shin pads
+  • knee pads
+  • neck guard (bib style)
+  • kevlar suit(optional)to protect against
+    being cut from another skater&apos;s blade
+
+Long Track
+  • same equipment should be worn as
+    short track
+  • exceptions -a helmet, shin pads,
+    knee pads, and neck guardnot required
+
+A speed skating rink (or speed skating oval)
+  • is an ice rink (but also a sport venue)
+    in which a speed skating competition
+    is held
+  • demarcation of the competition lanes
+    are made by painted lines or marks in
+    the ice and movable blocks of rubber
+  • track must be 400 metres long
+    with a warm-up lane at least 4 metres
+    wide inside the competition lanes
+    track must also be enclosed within
+    a building
+  • measurement of the track is made
+    half a meter into the lane
+    total length of the track is distance
+    a competitor skates each lap
+      the length of two straights
+      one inner and one outer curve
+      plus the extra distance skated when
+      changing lanes in the cross-over area
+      on a standard track equals 7 centimeters
+
+  • 400 m track with inner radius 25.0 m
+    has 113.57 m long straights
+  • 400 m track with inner radius 25.5 m
+    has 112.00 m long straights
+  • 400 m track with inner radius 26.0 m
+    has 110.43 m long straights
+</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>3000m Speed Skating</string>
+				<key>Rules</key>
+				<string>
+Speed Skaters compete in 500m, 1,000m, 1,500m, 5,000m and a team pursuit. There is also a 10,000m for men and a 3,000m for women. In each event, skaters race in pairs against the clock on a standard 400m oval ring. All events are skated once, apart from the 500m, which is skated twice. In this case, the final result is based on the total time of the two races.
+                                    </string>
+				<key>Description</key>
+				<string>
+                    
+Speed skating is a competitive form of ice skating in which the competitors race each other in traveling a certain distance on skates. Types of speed skating are long track speed skating, short track speed skating, and marathon speed skating. Long-track speed skating is usually referred to as just &quot;speed skating&quot;, while short-track speed skating is known as &quot;short track&quot;. The ISU, the governing body of both ice sports, refers to long track as &quot;speed skating&quot; and short track as &quot;short track skating&quot;. The standard rink for long track is 400 meters long.
+
+Short-track speed skating takes place on a smaller rink, normally the size of an ice hockey rink. Distances are shorter than in long-track racing, with the longest Olympic race being 3000 meters. Races are usually held as knockouts, with the best two in heats of four or five qualifying for the final race, where medals are awarded. Disqualifications and falls are not uncommon.
+
+In the individual events, skaters race in pairs on separate tracks (the inner and outer lanes). Athletes switch lanes at every lap in order to skate an equal distance. The 500 meter race is skated twice, with both races taking place on the same day. The final result is based on the total time taken over the two races.
+
+In the team pursuit races, men skate 8 laps, and women skate 6. Two teams of three members each take part in each race. The teams start all at once from different sides of the track. Each skater in a team Â«leadsÂ» the group for a time, skating in front to take on all the air resistance. Meanwhile, his partners fall in behind him. The race comes to an end only when the last skater on a team crosses the finish line.
+
+Short track
+
+  • races are run counter-clockwise on a
+    111m track
+  • skater is disqualified if he or she
+    passes inside the track
+  • lead skater has right-of-way
+  • skater can be disqualified if they
+    cross track another skater by cutting
+    off another skater while changing his
+    or her own lane
+    after two false starts, the skater
+    is disqualified
+  • a disqualified skater will be given
+    last place in their heat or final
+  • a skater can be disqualified if he
+    or she deliberately impedes another
+    skater&apos;s way to slow the skater down
+
+Long track
+
+  • races are run counter-clockwise
+  • individual competition - only two
+    skaters are allowed to race at once
+  • must remain in their respective lanes
+  • skaters must change lanes every lap
+  • skater changing from the outside lane
+    to the inside has right-of-way
+  • team pursuit,the only non-individual
+    competition form,
+  • two teams of each three skaters are
+    allowed to race at once
+  • both teams remain in the inner lane
+    for the duration of the race they
+    start on opposite sides of the rink
+
+Equipment:
+
+Short Track
+  • speed skates - use special skates with
+    a blade that isn&apos;t attached to the boot
+  • boots are usually made of kangaroo leather
+  • spandex skin suit with hoods to reduce
+    air resistance
+  • protective helmet
+  • protective eyewear
+  • shin pads
+  • knee pads
+  • neck guard (bib style)
+  • kevlar suit(optional)to protect against
+    being cut from another skater&apos;s blade
+
+Long Track
+  • same equipment should be worn as
+    short track
+  • exceptions -a helmet, shin pads,
+    knee pads, and neck guardnot required
+
+A speed skating rink (or speed skating oval)
+  • is an ice rink (but also a sport venue)
+    in which a speed skating competition
+    is held
+  • demarcation of the competition lanes
+    are made by painted lines or marks in
+    the ice and movable blocks of rubber
+  • track must be 400 metres long
+    with a warm-up lane at least 4 metres
+    wide inside the competition lanes
+    track must also be enclosed within
+    a building
+  • measurement of the track is made
+    half a meter into the lane
+    total length of the track is distance
+    a competitor skates each lap
+      the length of two straights
+      one inner and one outer curve
+      plus the extra distance skated when
+      changing lanes in the cross-over area
+      on a standard track equals 7 centimeters
+
+  • 400 m track with inner radius 25.0 m
+    has 113.57 m long straights
+  • 400 m track with inner radius 25.5 m
+    has 112.00 m long straights
+  • 400 m track with inner radius 26.0 m
+    has 110.43 m long straights
+</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>5000m Speed Skating</string>
+				<key>Rules</key>
+				<string>
+Speed Skaters compete in 500m, 1,000m, 1,500m, 5,000m and a team pursuit. There is also a 10,000m for men and a 3,000m for women. In each event, skaters race in pairs against the clock on a standard 400m oval ring. All events are skated once, apart from the 500m, which is skated twice. In this case, the final result is based on the total time of the two races.
+                                    </string>
+				<key>Description</key>
+				<string>
+                    
+Speed skating is a competitive form of ice skating in which the competitors race each other in traveling a certain distance on skates. Types of speed skating are long track speed skating, short track speed skating, and marathon speed skating. Long-track speed skating is usually referred to as just &quot;speed skating&quot;, while short-track speed skating is known as &quot;short track&quot;. The ISU, the governing body of both ice sports, refers to long track as &quot;speed skating&quot; and short track as &quot;short track skating&quot;. The standard rink for long track is 400 meters long.
+
+Short-track speed skating takes place on a smaller rink, normally the size of an ice hockey rink. Distances are shorter than in long-track racing, with the longest Olympic race being 3000 meters. Races are usually held as knockouts, with the best two in heats of four or five qualifying for the final race, where medals are awarded. Disqualifications and falls are not uncommon.
+
+In the individual events, skaters race in pairs on separate tracks (the inner and outer lanes). Athletes switch lanes at every lap in order to skate an equal distance. The 500 meter race is skated twice, with both races taking place on the same day. The final result is based on the total time taken over the two races.
+
+In the team pursuit races, men skate 8 laps, and women skate 6. Two teams of three members each take part in each race. The teams start all at once from different sides of the track. Each skater in a team Â«leadsÂ» the group for a time, skating in front to take on all the air resistance. Meanwhile, his partners fall in behind him. The race comes to an end only when the last skater on a team crosses the finish line.
+
+Short track
+
+  • races are run counter-clockwise on a
+    111m track
+  • skater is disqualified if he or she
+    passes inside the track
+  • lead skater has right-of-way
+  • skater can be disqualified if they
+    cross track another skater by cutting
+    off another skater while changing his
+    or her own lane
+    after two false starts, the skater
+    is disqualified
+  • a disqualified skater will be given
+    last place in their heat or final
+  • a skater can be disqualified if he
+    or she deliberately impedes another
+    skater&apos;s way to slow the skater down
+
+Long track
+
+  • races are run counter-clockwise
+  • individual competition - only two
+    skaters are allowed to race at once
+  • must remain in their respective lanes
+  • skaters must change lanes every lap
+  • skater changing from the outside lane
+    to the inside has right-of-way
+  • team pursuit,the only non-individual
+    competition form,
+  • two teams of each three skaters are
+    allowed to race at once
+  • both teams remain in the inner lane
+    for the duration of the race they
+    start on opposite sides of the rink
+
+Equipment:
+
+Short Track
+  • speed skates - use special skates with
+    a blade that isn&apos;t attached to the boot
+  • boots are usually made of kangaroo leather
+  • spandex skin suit with hoods to reduce
+    air resistance
+  • protective helmet
+  • protective eyewear
+  • shin pads
+  • knee pads
+  • neck guard (bib style)
+  • kevlar suit(optional)to protect against
+    being cut from another skater&apos;s blade
+
+Long Track
+  • same equipment should be worn as
+    short track
+  • exceptions -a helmet, shin pads,
+    knee pads, and neck guardnot required
+
+A speed skating rink (or speed skating oval)
+  • is an ice rink (but also a sport venue)
+    in which a speed skating competition
+    is held
+  • demarcation of the competition lanes
+    are made by painted lines or marks in
+    the ice and movable blocks of rubber
+  • track must be 400 metres long
+    with a warm-up lane at least 4 metres
+    wide inside the competition lanes
+    track must also be enclosed within
+    a building
+  • measurement of the track is made
+    half a meter into the lane
+    total length of the track is distance
+    a competitor skates each lap
+      the length of two straights
+      one inner and one outer curve
+      plus the extra distance skated when
+      changing lanes in the cross-over area
+      on a standard track equals 7 centimeters
+
+  • 400 m track with inner radius 25.0 m
+    has 113.57 m long straights
+  • 400 m track with inner radius 25.5 m
+    has 112.00 m long straights
+  • 400 m track with inner radius 26.0 m
+    has 110.43 m long straights
+</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>500m Speed Skating</string>
+				<key>Rules</key>
+				<string>
+Speed Skaters compete in 500m, 1,000m, 1,500m, 5,000m and a team pursuit. There is also a 10,000m for men and a 3,000m for women. In each event, skaters race in pairs against the clock on a standard 400m oval ring. All events are skated once, apart from the 500m, which is skated twice. In this case, the final result is based on the total time of the two races.
+                                    </string>
+				<key>Description</key>
+				<string>
+                    
+Speed skating is a competitive form of ice skating in which the competitors race each other in traveling a certain distance on skates. Types of speed skating are long track speed skating, short track speed skating, and marathon speed skating. Long-track speed skating is usually referred to as just &quot;speed skating&quot;, while short-track speed skating is known as &quot;short track&quot;. The ISU, the governing body of both ice sports, refers to long track as &quot;speed skating&quot; and short track as &quot;short track skating&quot;. The standard rink for long track is 400 meters long.
+
+Short-track speed skating takes place on a smaller rink, normally the size of an ice hockey rink. Distances are shorter than in long-track racing, with the longest Olympic race being 3000 meters. Races are usually held as knockouts, with the best two in heats of four or five qualifying for the final race, where medals are awarded. Disqualifications and falls are not uncommon.
+
+In the individual events, skaters race in pairs on separate tracks (the inner and outer lanes). Athletes switch lanes at every lap in order to skate an equal distance. The 500 meter race is skated twice, with both races taking place on the same day. The final result is based on the total time taken over the two races.
+
+In the team pursuit races, men skate 8 laps, and women skate 6. Two teams of three members each take part in each race. The teams start all at once from different sides of the track. Each skater in a team Â«leadsÂ» the group for a time, skating in front to take on all the air resistance. Meanwhile, his partners fall in behind him. The race comes to an end only when the last skater on a team crosses the finish line.
+
+Short track
+
+  • races are run counter-clockwise on a
+    111m track
+  • skater is disqualified if he or she
+    passes inside the track
+  • lead skater has right-of-way
+  • skater can be disqualified if they
+    cross track another skater by cutting
+    off another skater while changing his
+    or her own lane
+    after two false starts, the skater
+    is disqualified
+  • a disqualified skater will be given
+    last place in their heat or final
+  • a skater can be disqualified if he
+    or she deliberately impedes another
+    skater&apos;s way to slow the skater down
+
+Long track
+
+  • races are run counter-clockwise
+  • individual competition - only two
+    skaters are allowed to race at once
+  • must remain in their respective lanes
+  • skaters must change lanes every lap
+  • skater changing from the outside lane
+    to the inside has right-of-way
+  • team pursuit,the only non-individual
+    competition form,
+  • two teams of each three skaters are
+    allowed to race at once
+  • both teams remain in the inner lane
+    for the duration of the race they
+    start on opposite sides of the rink
+
+Equipment:
+
+Short Track
+  • speed skates - use special skates with
+    a blade that isn&apos;t attached to the boot
+  • boots are usually made of kangaroo leather
+  • spandex skin suit with hoods to reduce
+    air resistance
+  • protective helmet
+  • protective eyewear
+  • shin pads
+  • knee pads
+  • neck guard (bib style)
+  • kevlar suit(optional)to protect against
+    being cut from another skater&apos;s blade
+
+Long Track
+  • same equipment should be worn as
+    short track
+  • exceptions -a helmet, shin pads,
+    knee pads, and neck guardnot required
+
+A speed skating rink (or speed skating oval)
+  • is an ice rink (but also a sport venue)
+    in which a speed skating competition
+    is held
+  • demarcation of the competition lanes
+    are made by painted lines or marks in
+    the ice and movable blocks of rubber
+  • track must be 400 metres long
+    with a warm-up lane at least 4 metres
+    wide inside the competition lanes
+    track must also be enclosed within
+    a building
+  • measurement of the track is made
+    half a meter into the lane
+    total length of the track is distance
+    a competitor skates each lap
+      the length of two straights
+      one inner and one outer curve
+      plus the extra distance skated when
+      changing lanes in the cross-over area
+      on a standard track equals 7 centimeters
+
+  • 400 m track with inner radius 25.0 m
+    has 113.57 m long straights
+  • 400 m track with inner radius 25.5 m
+    has 112.00 m long straights
+  • 400 m track with inner radius 26.0 m
+    has 110.43 m long straights
+</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Team Pursuit Speed Skating</string>
 				<key>Rules</key>
 				<string>
 Speed Skaters compete in 500m, 1,000m, 1,500m, 5,000m and a team pursuit. There is also a 10,000m for men and a 3,000m for women. In each event, skaters race in pairs against the clock on a standard 400m oval ring. All events are skated once, apart from the 500m, which is skated twice. In this case, the final result is based on the total time of the two races.
