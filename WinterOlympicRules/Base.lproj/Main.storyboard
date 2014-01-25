@@ -265,35 +265,31 @@
             </objects>
             <point key="canvasLocation" x="1700" y="815"/>
         </scene>
-        <!--Viewer-->
+        <!--Viewer - Calander-->
         <scene sceneID="yJk-zC-Nyy">
             <objects>
-                <viewController id="ILx-1E-m3h" customClass="PDFViewer" sceneMemberID="viewController">
+                <viewController title="Calander" id="ILx-1E-m3h" customClass="PDFViewer" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Vfw-iE-0ca">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
-                            <webView contentMode="scaleToFill" allowsInlineMediaPlayback="NO" mediaPlaybackRequiresUserAction="NO" mediaPlaybackAllowsAirPlay="NO" keyboardDisplayRequiresUserAction="NO" paginationMode="leftToRight" id="Um5-bS-Nvq">
-                                <rect key="frame" x="0.0" y="64" width="320" height="416"/>
+                            <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" id="sav-di-Ce6">
+                                <rect key="frame" x="0.0" y="52" width="320" height="480"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                <dataDetectorType key="dataDetectorTypes"/>
-                                <connections>
-                                    <outlet property="delegate" destination="ILx-1E-m3h" id="9KT-dB-E7a"/>
-                                </connections>
-                            </webView>
-                            <activityIndicatorView hidden="YES" opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" hidesWhenStopped="YES" style="whiteLarge" id="JEY-SS-moy">
-                                <rect key="frame" x="142" y="221" width="37" height="37"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="color" red="0.087908294009999999" green="0.80504181900000005" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                            </activityIndicatorView>
+                                <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="WO calander.png" id="H64-zP-HN5">
+                                        <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                    </imageView>
+                                </subviews>
+                            </scrollView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" id="Dvw-MO-pBV"/>
                     <connections>
-                        <outlet property="activityIndicator" destination="JEY-SS-moy" id="DAv-uY-4k7"/>
-                        <outlet property="webView" destination="Um5-bS-Nvq" id="Cei-lW-xwe"/>
+                        <outlet property="imageView" destination="H64-zP-HN5" id="W3v-jP-Hr6"/>
+                        <outlet property="scrollView" destination="sav-di-Ce6" id="ibe-m6-jav"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="5S9-ps-TGf" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -398,6 +394,7 @@
     </scenes>
     <resources>
         <image name="Background" width="320" height="480"/>
+        <image name="WO calander.png" width="687" height="760"/>
     </resources>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
         <simulatedStatusBarMetrics key="statusBar"/>
