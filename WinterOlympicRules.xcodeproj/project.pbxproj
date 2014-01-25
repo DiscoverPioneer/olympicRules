@@ -29,6 +29,7 @@
 		09ED7310188A177D00257CDF /* Sports.plist in Resources */ = {isa = PBXBuildFile; fileRef = 09ED730F188A177D00257CDF /* Sports.plist */; };
 		CE00F611188F92B200BA1B81 /* CreatedByViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE00F610188F92B200BA1B81 /* CreatedByViewController.m */; };
 		CE00F614188FA08800BA1B81 /* WebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE00F613188FA08800BA1B81 /* WebViewController.m */; };
+		CEFD876E189424440063DE98 /* WO calander.png in Resources */ = {isa = PBXBuildFile; fileRef = CEFD876D189424440063DE98 /* WO calander.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -74,6 +75,7 @@
 		CE00F610188F92B200BA1B81 /* CreatedByViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CreatedByViewController.m; sourceTree = "<group>"; };
 		CE00F612188FA08800BA1B81 /* WebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebViewController.h; sourceTree = "<group>"; };
 		CE00F613188FA08800BA1B81 /* WebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebViewController.m; sourceTree = "<group>"; };
+		CEFD876D189424440063DE98 /* WO calander.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "WO calander.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +151,7 @@
 				09C46D771890A5450073655F /* PDFViewer.h */,
 				09C46D781890A5450073655F /* PDFViewer.m */,
 				0928DCD0188F251D0069B0B2 /* BackButton.png */,
+				CEFD876D189424440063DE98 /* WO calander.png */,
 				09ED730F188A177D00257CDF /* Sports.plist */,
 				09C46D7518902CDA0073655F /* OlympicSchedule.pdf */,
 				09ED72EC188A04A500257CDF /* Images.xcassets */,
@@ -266,6 +269,7 @@
 				09C46D7618902CDA0073655F /* OlympicSchedule.pdf in Resources */,
 				09ED7310188A177D00257CDF /* Sports.plist in Resources */,
 				0928DCD1188F251D0069B0B2 /* BackButton.png in Resources */,
+				CEFD876E189424440063DE98 /* WO calander.png in Resources */,
 				09ED72DF188A04A400257CDF /* InfoPlist.strings in Resources */,
 				09ED72E8188A04A500257CDF /* Main.storyboard in Resources */,
 			);
