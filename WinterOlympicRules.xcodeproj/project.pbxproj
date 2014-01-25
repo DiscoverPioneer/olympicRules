@@ -45,7 +45,7 @@
 		0928DCD0188F251D0069B0B2 /* BackButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BackButton.png; sourceTree = "<group>"; };
 		09C46D7518902CDA0073655F /* OlympicSchedule.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = OlympicSchedule.pdf; sourceTree = "<group>"; };
 		09C46D771890A5450073655F /* PDFViewer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PDFViewer.h; sourceTree = "<group>"; };
-		09C46D781890A5450073655F /* PDFViewer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PDFViewer.m; sourceTree = "<group>"; };
+		09C46D781890A5450073655F /* PDFViewer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = PDFViewer.m; sourceTree = "<group>"; usesTabs = 0; wrapsLines = 1; };
 		09ED72D1188A04A400257CDF /* WinterOlympicRules.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WinterOlympicRules.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		09ED72D4188A04A400257CDF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		09ED72D6188A04A400257CDF /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };

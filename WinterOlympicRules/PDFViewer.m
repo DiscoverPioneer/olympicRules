@@ -19,6 +19,7 @@
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
     if (self) {
         // Custom initialization
+        self.webView.delegate = self;
     }
     return self;
 }
@@ -43,6 +44,8 @@
         [self.webView loadRequest:request];
         // make it full size
         self.webView.scalesPageToFit = YES;
+        
+        
     }
     @catch (NSException *exception) {
         UIAlertView *alert = [[UIAlertView alloc]initWithTitle:@"Error" message:@"Sorry Could not load schedule" delegate:Nil cancelButtonTitle:@"Ok" otherButtonTitles: nil];

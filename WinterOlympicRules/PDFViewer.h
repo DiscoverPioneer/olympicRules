@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface PDFViewer : UIViewController
+@interface PDFViewer : UIViewController<UIWebViewDelegate>
 @property (strong, nonatomic) IBOutlet UIWebView *webView;
 @property (weak, nonatomic) IBOutlet UIActivityIndicatorView *activityIndicator;
 
