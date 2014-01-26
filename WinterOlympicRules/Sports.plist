@@ -1708,7 +1708,7 @@ Equipment:
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Pairs</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
@@ -1716,7 +1716,7 @@ Equipment:
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Ice Dancing</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
@@ -1724,15 +1724,7 @@ Equipment:
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
-				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>Name</key>
-				<string></string>
+				<string>Team Events</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
@@ -1789,7 +1781,7 @@ Equipment:
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Pairs</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
@@ -1797,7 +1789,7 @@ Equipment:
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Ice Dancing</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
@@ -1805,15 +1797,7 @@ Equipment:
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
-				<key>Rules</key>
-				<string></string>
-				<key>Description</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>Name</key>
-				<string></string>
+				<string>Team Events</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
