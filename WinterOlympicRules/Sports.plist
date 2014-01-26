@@ -21,14 +21,14 @@
 
 Combined events include one downhill run followed by two slalom runs. All times are added together and the fastest total time determines the winner. The downhill and the slalom of the combined event are run on different, shorter courses than the regular downhill and slalom events.
 
-The super combined (or "super combi"), consisting of a single run of slalom (which may be run first, but is usually not) and normally a shortened downhill run (or a super G run). This new format lessened the advantage of the slalom specialists in the event. In either type of combined event, the winner is the skier with the fastest aggregate time.
+The super combined (or &quot;super combi&quot;), consisting of a single run of slalom (which may be run first, but is usually not) and normally a shortened downhill run (or a super G run). This new format lessened the advantage of the slalom specialists in the event. In either type of combined event, the winner is the skier with the fastest aggregate time.
 
 
 Equipment:
 
   • reinforced plastic boots
     specific to the competition discipline
-  • bindings - secure the skier's feet
+  • bindings - secure the skier&apos;s feet
     to the skis
   • gloves - made of leather or synthetic
     material
@@ -73,13 +73,13 @@ The course is designed to challenge the best skiers:
                     
 Racers are allowed extensive preparation for the race, which includes daily course inspection and discussion with their coaches and teammates as well as several practice runs before the actual race. Racers do not make any unnecessary turns while on the course, and try to do everything they can to maintain the most aerodynamic position while negotiating turns and jumps.
                     
-Unlike Slalom and Giant Slalom, where racers have two combined times, the Downhill race is a single "run." Times are typically between 1:30  and 2:30 minutes. Tenths and hundredths and, occasionally, thousandths of seconds count: medals have sometimes been decided by as little as one or two hundredths of a second, and ties are not unheard of.
+Unlike Slalom and Giant Slalom, where racers have two combined times, the Downhill race is a single &quot;run.&quot; Times are typically between 1:30  and 2:30 minutes. Tenths and hundredths and, occasionally, thousandths of seconds count: medals have sometimes been decided by as little as one or two hundredths of a second, and ties are not unheard of.
                     
 Equipment:
                     
   • reinforced plastic boots
     specific to the competition discipline
-  • bindings - secure the skier's feet
+  • bindings - secure the skier&apos;s feet
     to the skis
   • gloves - made of leather or synthetic
     material
@@ -119,7 +119,7 @@ Equipment:
 
   • reinforced plastic boots
     specific to the competition discipline
-  • bindings - secure the skier's feet
+  • bindings - secure the skier&apos;s feet
     to the skis
   • gloves - made of leather or synthetic
     material
@@ -154,13 +154,13 @@ Equipment:
 				<string>
 Slalom races are traditionally the shortest race. They are comprised of close together turns or gates. Each competitor makes one run, then the course is reset on the same slope, but the position of the gates are changed. The same day, those skiers qualifying for the second run make their run. The fastest combined times of the two runs is the winner.
 
-The word "Slalom" is from the Morgedal/Seljord dialect of Norwegian: "sla," meaning slightly inclining hillside, and "lom," meaning track after skis. In the early 1980s, bamboo poles (also called "gates") were replaced by hard plastic poles, hinged at the base. The rigid nature of the old-style bamboo gates had forced skiers to maneuver their entire body around each gate, while the hinged gates require only that the skis and boots of the skier (as the FIS rules state) go around each gate. The new gates allowed skiers to take a much more direct path down a slalom course through the process of "cross-blocking" or "shinning" the gates. Cross-blocking is a technique in which a skier's legs go around the gate with their upper body inclined toward, or even across, the gate; in this case the skier's outside pole and their shinguards hit the gate, knocking it down and out of the way. In the early 1990s, flags were removed completely from slalom gates in international competition.
+The word &quot;Slalom&quot; is from the Morgedal/Seljord dialect of Norwegian: &quot;sla,&quot; meaning slightly inclining hillside, and &quot;lom,&quot; meaning track after skis. In the early 1980s, bamboo poles (also called &quot;gates&quot;) were replaced by hard plastic poles, hinged at the base. The rigid nature of the old-style bamboo gates had forced skiers to maneuver their entire body around each gate, while the hinged gates require only that the skis and boots of the skier (as the FIS rules state) go around each gate. The new gates allowed skiers to take a much more direct path down a slalom course through the process of &quot;cross-blocking&quot; or &quot;shinning&quot; the gates. Cross-blocking is a technique in which a skier&apos;s legs go around the gate with their upper body inclined toward, or even across, the gate; in this case the skier&apos;s outside pole and their shinguards hit the gate, knocking it down and out of the way. In the early 1990s, flags were removed completely from slalom gates in international competition.
              
 Equipment:
              
   • reinforced plastic boots
     specific to the competition discipline
-  • bindings - secure the skier's feet
+  • bindings - secure the skier&apos;s feet
     to the skis
   • gloves - made of leather or synthetic
     material
@@ -196,13 +196,13 @@ Equipment:
 				<string></string>
 				<key>Description</key>
 				<string>
-Super-G is short for super giant slalom. Races are run on a course shorter than the downhill, but, longer than the GS. The skier with the fastest time over one run is the winner. a racing discipline of alpine skiing. Along with the faster downhill, it is regarded as a "speed" event, in contrast to the technical eventsgiant slalom and slalom
+Super-G is short for super giant slalom. Races are run on a course shorter than the downhill, but, longer than the GS. The skier with the fastest time over one run is the winner. a racing discipline of alpine skiing. Along with the faster downhill, it is regarded as a &quot;speed&quot; event, in contrast to the technical eventsgiant slalom and slalom
 
 Equipment:
              
   • reinforced plastic boots
     specific to the competition discipline
-  • bindings - secure the skier's feet
+  • bindings - secure the skier&apos;s feet
     to the skis
   • gloves - made of leather or synthetic
     material
@@ -283,29 +283,29 @@ Equipment:
 				<string>10km Biathlon</string>
 				<key>Rules</key>
 				<string>
-The distance is skied over five laps. The biathlete shoots four times at any shooting lane, in the order of prone, standing, prone, standing, totaling 20 targets. For each missed target a fixed penalty time, usually one minute, is added to the skiing time of the biathlete. Competitors' starts are staggered, normally by 30 seconds.
+The distance is skied over five laps. The biathlete shoots four times at any shooting lane, in the order of prone, standing, prone, standing, totaling 20 targets. For each missed target a fixed penalty time, usually one minute, is added to the skiing time of the biathlete. Competitors&apos; starts are staggered, normally by 30 seconds.
                 </string>
 				<key>Description</key>
 				<string>
-This event combines cross-country skiing and rifle shooting. A biathlon competition consists of a race in which contestants ski around a cross-country trial system, and where the total distance is broken up by either two or four shooting rounds, half in prone position, the other half standing. Depending on the shooting performance, extra distance or time is added to the contestant's total running distance/time. As in most races, the contestant with the shortest total time wins.
+This event combines cross-country skiing and rifle shooting. A biathlon competition consists of a race in which contestants ski around a cross-country trial system, and where the total distance is broken up by either two or four shooting rounds, half in prone position, the other half standing. Depending on the shooting performance, extra distance or time is added to the contestant&apos;s total running distance/time. As in most races, the contestant with the shortest total time wins.
                     
-For each shooting round, the biathlete must hit five targets; each missed target must be "atoned for" in one of three ways, depending on the competition format:
+For each shooting round, the biathlete must hit five targets; each missed target must be &quot;atoned for&quot; in one of three ways, depending on the competition format:
                     
   • skiing around a 150 metres
     (490 ft) penalty loop, typically
     taking 20 - 30 seconds (running time
     depending on weather/snow conditions)
-  • having one minute added to a skier's
+  • having one minute added to a skier&apos;s
     total time
-  • having to use an "extra cartridge"
+  • having to use an &quot;extra cartridge&quot;
     (placed at the shooting range)
     to finish off the target
-    only three such "extras" are available
+    only three such &quot;extras&quot; are available
     for each round
     a penalty loop must be made for each
     of the targets left standing
 
-In order to keep track of the contestants' progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
+In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
                     
 Equipment:
   • no equipment other than skis and
@@ -327,30 +327,30 @@ Equipment:
 				<string>12.5km Pursuit Biathlon</string>
 				<key>Rules</key>
 				<string>
-In a pursuit, biathletes' starts are separated by their time differences from a previous race, most commonly a sprint. The contestant crossing the finish line first is the winner. The distance is 12.5 kilometres (7.8 mi) for men and 10 kilometres (6.2 mi) for women, skied over five laps; there are four shooting bouts (two prone, two standing, in that order), and each miss means a penalty loop of 150 m. The biathletes shoot on a first-come, first-served basis at the lane corresponding to the position they arrived for all shooting bouts.
+In a pursuit, biathletes&apos; starts are separated by their time differences from a previous race, most commonly a sprint. The contestant crossing the finish line first is the winner. The distance is 12.5 kilometres (7.8 mi) for men and 10 kilometres (6.2 mi) for women, skied over five laps; there are four shooting bouts (two prone, two standing, in that order), and each miss means a penalty loop of 150 m. The biathletes shoot on a first-come, first-served basis at the lane corresponding to the position they arrived for all shooting bouts.
 
                 </string>
 				<key>Description</key>
 				<string>
-This event combines cross-country skiing and rifle shooting. A biathlon competition consists of a race in which contestants ski around a cross-country trial system, and where the total distance is broken up by either two or four shooting rounds, half in prone position, the other half standing. Depending on the shooting performance, extra distance or time is added to the contestant's total running distance/time. As in most races, the contestant with the shortest total time wins.
+This event combines cross-country skiing and rifle shooting. A biathlon competition consists of a race in which contestants ski around a cross-country trial system, and where the total distance is broken up by either two or four shooting rounds, half in prone position, the other half standing. Depending on the shooting performance, extra distance or time is added to the contestant&apos;s total running distance/time. As in most races, the contestant with the shortest total time wins.
                     
-For each shooting round, the biathlete must hit five targets; each missed target must be "atoned for" in one of three ways, depending on the competition format:
+For each shooting round, the biathlete must hit five targets; each missed target must be &quot;atoned for&quot; in one of three ways, depending on the competition format:
                     
   • skiing around a 150 metres
     (490 ft) penalty loop, typically
     taking 20 - 30 seconds (running time
     depending on weather/snow conditions)
-  • having one minute added to a skier's
+  • having one minute added to a skier&apos;s
     total time
-  • having to use an "extra cartridge"
+  • having to use an &quot;extra cartridge&quot;
     (placed at the shooting range)
     to finish off the target
-    only three such "extras" are available
+    only three such &quot;extras&quot; are available
     for each round
     a penalty loop must be made for each
     of the targets left standing
 
-In order to keep track of the contestants' progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
+In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
                     
 Equipment:
   • no equipment other than skis and
@@ -372,29 +372,29 @@ Equipment:
 				<string>14km Mass Start Biathlon</string>
 				<key>Rules</key>
 				<string>
-In the mass start, all biathletes start at the same time and the first across the finish line wins. In this 15 kilometres (9.3 mi) or 12.5 kilometres (7.8 mi) for women competition, the distance is skied over five laps; there are four bouts of shooting (two prone, two standing, in that order) with the first shooting bout being at the lane corresponding to the competitor's bib number (Bib #10 shoots at lane #10 regardless of position in race), with the rest of the shooting bouts being on a first-come, first-served basis (If a competitor arrives at the lane in fifth place, they shoot at lane 5). As in sprint and pursuit, competitors must ski one 150 m penalty loop for each miss. Here again, to avoid unwanted congestion, World Cup Mass starts are held with only the 30 top ranking athletes on the start line (half that of the Pursuit as here all contestants start simultaneously).
+In the mass start, all biathletes start at the same time and the first across the finish line wins. In this 15 kilometres (9.3 mi) or 12.5 kilometres (7.8 mi) for women competition, the distance is skied over five laps; there are four bouts of shooting (two prone, two standing, in that order) with the first shooting bout being at the lane corresponding to the competitor&apos;s bib number (Bib #10 shoots at lane #10 regardless of position in race), with the rest of the shooting bouts being on a first-come, first-served basis (If a competitor arrives at the lane in fifth place, they shoot at lane 5). As in sprint and pursuit, competitors must ski one 150 m penalty loop for each miss. Here again, to avoid unwanted congestion, World Cup Mass starts are held with only the 30 top ranking athletes on the start line (half that of the Pursuit as here all contestants start simultaneously).
                 </string>
 				<key>Description</key>
 				<string>
-This event combines cross-country skiing and rifle shooting. A biathlon competition consists of a race in which contestants ski around a cross-country trial system, and where the total distance is broken up by either two or four shooting rounds, half in prone position, the other half standing. Depending on the shooting performance, extra distance or time is added to the contestant's total running distance/time. As in most races, the contestant with the shortest total time wins.
+This event combines cross-country skiing and rifle shooting. A biathlon competition consists of a race in which contestants ski around a cross-country trial system, and where the total distance is broken up by either two or four shooting rounds, half in prone position, the other half standing. Depending on the shooting performance, extra distance or time is added to the contestant&apos;s total running distance/time. As in most races, the contestant with the shortest total time wins.
                     
-For each shooting round, the biathlete must hit five targets; each missed target must be "atoned for" in one of three ways, depending on the competition format:
+For each shooting round, the biathlete must hit five targets; each missed target must be &quot;atoned for&quot; in one of three ways, depending on the competition format:
                     
   • skiing around a 150 metres
     (490 ft) penalty loop, typically
     taking 20 - 30 seconds (running time
     depending on weather/snow conditions)
-  • having one minute added to a skier's
+  • having one minute added to a skier&apos;s
     total time
-  • having to use an "extra cartridge"
+  • having to use an &quot;extra cartridge&quot;
     (placed at the shooting range)
     to finish off the target
-    only three such "extras" are available
+    only three such &quot;extras&quot; are available
     for each round
     a penalty loop must be made for each
     of the targets left standing
 
-In order to keep track of the contestants' progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
+In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
                     
 Equipment:
   • no equipment other than skis and
@@ -416,30 +416,30 @@ Equipment:
 				<string>20km Biathlon</string>
 				<key>Rules</key>
 				<string>
-The distance is skied over five laps. The biathlete shoots four times at any shooting lane, in the order of prone, standing, prone, standing, totaling 20 targets. For each missed target a fixed penalty time, usually one minute, is added to the skiing time of the biathlete. Competitors' starts are staggered, normally by 30 seconds.
+The distance is skied over five laps. The biathlete shoots four times at any shooting lane, in the order of prone, standing, prone, standing, totaling 20 targets. For each missed target a fixed penalty time, usually one minute, is added to the skiing time of the biathlete. Competitors&apos; starts are staggered, normally by 30 seconds.
 
                 </string>
 				<key>Description</key>
 				<string>
-This event combines cross-country skiing and rifle shooting. A biathlon competition consists of a race in which contestants ski around a cross-country trial system, and where the total distance is broken up by either two or four shooting rounds, half in prone position, the other half standing. Depending on the shooting performance, extra distance or time is added to the contestant's total running distance/time. As in most races, the contestant with the shortest total time wins.
+This event combines cross-country skiing and rifle shooting. A biathlon competition consists of a race in which contestants ski around a cross-country trial system, and where the total distance is broken up by either two or four shooting rounds, half in prone position, the other half standing. Depending on the shooting performance, extra distance or time is added to the contestant&apos;s total running distance/time. As in most races, the contestant with the shortest total time wins.
                     
-For each shooting round, the biathlete must hit five targets; each missed target must be "atoned for" in one of three ways, depending on the competition format:
+For each shooting round, the biathlete must hit five targets; each missed target must be &quot;atoned for&quot; in one of three ways, depending on the competition format:
                     
   • skiing around a 150 metres
     (490 ft) penalty loop, typically
     taking 20 - 30 seconds (running time
     depending on weather/snow conditions)
-  • having one minute added to a skier's
+  • having one minute added to a skier&apos;s
     total time
-  • having to use an "extra cartridge"
+  • having to use an &quot;extra cartridge&quot;
     (placed at the shooting range)
     to finish off the target
-    only three such "extras" are available
+    only three such &quot;extras&quot; are available
     for each round
     a penalty loop must be made for each
     of the targets left standing
 
-In order to keep track of the contestants' progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
+In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
                     
 Equipment:
   • no equipment other than skis and
@@ -461,29 +461,29 @@ Equipment:
 				<string>4x7.5km Relay Biathlon</string>
 				<key>Rules</key>
 				<string>
-The relay teams consist of four biathletes, who each ski 7.5 kilometres (4.7 mi) (men) or 6 kilometres (3.7 mi) (women), each leg skied over three laps, with two shooting rounds; one prone, one standing. For every round of five targets there are eight bullets available, though the last three can only be single-loaded manually one at a time from spare round holders or bullets deposited by the competitor into trays or onto the mat at the firing line. If after eight bullets there are still misses, one 150 m penalty loop must be taken for each missed target remaining. The first-leg participants start all at the same time, and as in cross-country skiing relays, every athlete of a team must touch the team's next-leg participant to perform a valid changeover. On the first shooting stage of the first leg, the participant must shoot in the lane corresponding to their bib number (Bib #10 shoots at lane #10 regardless of position in race), then for the remainder of the relay, the relay team shoots on a first-come, first-served basis (arrive at the range in fifth place, shoot at lane 5).
+The relay teams consist of four biathletes, who each ski 7.5 kilometres (4.7 mi) (men) or 6 kilometres (3.7 mi) (women), each leg skied over three laps, with two shooting rounds; one prone, one standing. For every round of five targets there are eight bullets available, though the last three can only be single-loaded manually one at a time from spare round holders or bullets deposited by the competitor into trays or onto the mat at the firing line. If after eight bullets there are still misses, one 150 m penalty loop must be taken for each missed target remaining. The first-leg participants start all at the same time, and as in cross-country skiing relays, every athlete of a team must touch the team&apos;s next-leg participant to perform a valid changeover. On the first shooting stage of the first leg, the participant must shoot in the lane corresponding to their bib number (Bib #10 shoots at lane #10 regardless of position in race), then for the remainder of the relay, the relay team shoots on a first-come, first-served basis (arrive at the range in fifth place, shoot at lane 5).
 </string>
 				<key>Description</key>
 				<string>
-This event combines cross-country skiing and rifle shooting. A biathlon competition consists of a race in which contestants ski around a cross-country trial system, and where the total distance is broken up by either two or four shooting rounds, half in prone position, the other half standing. Depending on the shooting performance, extra distance or time is added to the contestant's total running distance/time. As in most races, the contestant with the shortest total time wins.
+This event combines cross-country skiing and rifle shooting. A biathlon competition consists of a race in which contestants ski around a cross-country trial system, and where the total distance is broken up by either two or four shooting rounds, half in prone position, the other half standing. Depending on the shooting performance, extra distance or time is added to the contestant&apos;s total running distance/time. As in most races, the contestant with the shortest total time wins.
                     
-For each shooting round, the biathlete must hit five targets; each missed target must be "atoned for" in one of three ways, depending on the competition format:
+For each shooting round, the biathlete must hit five targets; each missed target must be &quot;atoned for&quot; in one of three ways, depending on the competition format:
                     
   • skiing around a 150 metres
     (490 ft) penalty loop, typically
     taking 20 - 30 seconds (running time
     depending on weather/snow conditions)
-  • having one minute added to a skier's
+  • having one minute added to a skier&apos;s
     total time
-  • having to use an "extra cartridge"
+  • having to use an &quot;extra cartridge&quot;
     (placed at the shooting range)
     to finish off the target
-    only three such "extras" are available
+    only three such &quot;extras&quot; are available
     for each round
     a penalty loop must be made for each
     of the targets left standing
 
-In order to keep track of the contestants' progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
+In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
                     
 Equipment:
   • no equipment other than skis and
@@ -510,25 +510,25 @@ Equipment:
 				<string></string>
 				<key>Description</key>
 				<string>
-This event combines cross-country skiing and rifle shooting. A biathlon competition consists of a race in which contestants ski around a cross-country trial system, and where the total distance is broken up by either two or four shooting rounds, half in prone position, the other half standing. Depending on the shooting performance, extra distance or time is added to the contestant's total running distance/time. As in most races, the contestant with the shortest total time wins.
+This event combines cross-country skiing and rifle shooting. A biathlon competition consists of a race in which contestants ski around a cross-country trial system, and where the total distance is broken up by either two or four shooting rounds, half in prone position, the other half standing. Depending on the shooting performance, extra distance or time is added to the contestant&apos;s total running distance/time. As in most races, the contestant with the shortest total time wins.
                     
-For each shooting round, the biathlete must hit five targets; each missed target must be "atoned for" in one of three ways, depending on the competition format:
+For each shooting round, the biathlete must hit five targets; each missed target must be &quot;atoned for&quot; in one of three ways, depending on the competition format:
                     
   • skiing around a 150 metres
     (490 ft) penalty loop, typically
     taking 20 - 30 seconds (running time
     depending on weather/snow conditions)
-  • having one minute added to a skier's
+  • having one minute added to a skier&apos;s
     total time
-  • having to use an "extra cartridge"
+  • having to use an &quot;extra cartridge&quot;
     (placed at the shooting range)
     to finish off the target
-    only three such "extras" are available
+    only three such &quot;extras&quot; are available
     for each round
     a penalty loop must be made for each
     of the targets left standing
 
-In order to keep track of the contestants' progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
+In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
                     
 Equipment:
   • no equipment other than skis and
@@ -554,25 +554,25 @@ Equipment:
 				<string></string>
 				<key>Description</key>
 				<string>
-This event combines cross-country skiing and rifle shooting. A biathlon competition consists of a race in which contestants ski around a cross-country trial system, and where the total distance is broken up by either two or four shooting rounds, half in prone position, the other half standing. Depending on the shooting performance, extra distance or time is added to the contestant's total running distance/time. As in most races, the contestant with the shortest total time wins.
+This event combines cross-country skiing and rifle shooting. A biathlon competition consists of a race in which contestants ski around a cross-country trial system, and where the total distance is broken up by either two or four shooting rounds, half in prone position, the other half standing. Depending on the shooting performance, extra distance or time is added to the contestant&apos;s total running distance/time. As in most races, the contestant with the shortest total time wins.
                     
-For each shooting round, the biathlete must hit five targets; each missed target must be "atoned for" in one of three ways, depending on the competition format:
+For each shooting round, the biathlete must hit five targets; each missed target must be &quot;atoned for&quot; in one of three ways, depending on the competition format:
                     
   • skiing around a 150 metres
     (490 ft) penalty loop, typically
     taking 20 - 30 seconds (running time
     depending on weather/snow conditions)
-  • having one minute added to a skier's
+  • having one minute added to a skier&apos;s
     total time
-  • having to use an "extra cartridge"
+  • having to use an &quot;extra cartridge&quot;
     (placed at the shooting range)
     to finish off the target
-    only three such "extras" are available
+    only three such &quot;extras&quot; are available
     for each round
     a penalty loop must be made for each
     of the targets left standing
 
-In order to keep track of the contestants' progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
+In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
                     
 Equipment:
   • no equipment other than skis and
@@ -598,25 +598,25 @@ Equipment:
 				<string></string>
 				<key>Description</key>
 				<string>
-This event combines cross-country skiing and rifle shooting. A biathlon competition consists of a race in which contestants ski around a cross-country trial system, and where the total distance is broken up by either two or four shooting rounds, half in prone position, the other half standing. Depending on the shooting performance, extra distance or time is added to the contestant's total running distance/time. As in most races, the contestant with the shortest total time wins.
+This event combines cross-country skiing and rifle shooting. A biathlon competition consists of a race in which contestants ski around a cross-country trial system, and where the total distance is broken up by either two or four shooting rounds, half in prone position, the other half standing. Depending on the shooting performance, extra distance or time is added to the contestant&apos;s total running distance/time. As in most races, the contestant with the shortest total time wins.
                     
-For each shooting round, the biathlete must hit five targets; each missed target must be "atoned for" in one of three ways, depending on the competition format:
+For each shooting round, the biathlete must hit five targets; each missed target must be &quot;atoned for&quot; in one of three ways, depending on the competition format:
                     
   • skiing around a 150 metres
     (490 ft) penalty loop, typically
     taking 20 - 30 seconds (running time
     depending on weather/snow conditions)
-  • having one minute added to a skier's
+  • having one minute added to a skier&apos;s
     total time
-  • having to use an "extra cartridge"
+  • having to use an &quot;extra cartridge&quot;
     (placed at the shooting range)
     to finish off the target
-    only three such "extras" are available
+    only three such &quot;extras&quot; are available
     for each round
     a penalty loop must be made for each
     of the targets left standing
 
-In order to keep track of the contestants' progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
+In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
                     
 Equipment:
   • no equipment other than skis and
@@ -642,25 +642,25 @@ Equipment:
 				<string></string>
 				<key>Description</key>
 				<string>
-This event combines cross-country skiing and rifle shooting. A biathlon competition consists of a race in which contestants ski around a cross-country trial system, and where the total distance is broken up by either two or four shooting rounds, half in prone position, the other half standing. Depending on the shooting performance, extra distance or time is added to the contestant's total running distance/time. As in most races, the contestant with the shortest total time wins.
+This event combines cross-country skiing and rifle shooting. A biathlon competition consists of a race in which contestants ski around a cross-country trial system, and where the total distance is broken up by either two or four shooting rounds, half in prone position, the other half standing. Depending on the shooting performance, extra distance or time is added to the contestant&apos;s total running distance/time. As in most races, the contestant with the shortest total time wins.
                     
-For each shooting round, the biathlete must hit five targets; each missed target must be "atoned for" in one of three ways, depending on the competition format:
+For each shooting round, the biathlete must hit five targets; each missed target must be &quot;atoned for&quot; in one of three ways, depending on the competition format:
                     
   • skiing around a 150 metres
     (490 ft) penalty loop, typically
     taking 20 - 30 seconds (running time
     depending on weather/snow conditions)
-  • having one minute added to a skier's
+  • having one minute added to a skier&apos;s
     total time
-  • having to use an "extra cartridge"
+  • having to use an &quot;extra cartridge&quot;
     (placed at the shooting range)
     to finish off the target
-    only three such "extras" are available
+    only three such &quot;extras&quot; are available
     for each round
     a penalty loop must be made for each
     of the targets left standing
 
-In order to keep track of the contestants' progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
+In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
                     
 Equipment:
   • no equipment other than skis and
@@ -686,25 +686,25 @@ Equipment:
 				<string></string>
 				<key>Description</key>
 				<string>
-This event combines cross-country skiing and rifle shooting. A biathlon competition consists of a race in which contestants ski around a cross-country trial system, and where the total distance is broken up by either two or four shooting rounds, half in prone position, the other half standing. Depending on the shooting performance, extra distance or time is added to the contestant's total running distance/time. As in most races, the contestant with the shortest total time wins.
+This event combines cross-country skiing and rifle shooting. A biathlon competition consists of a race in which contestants ski around a cross-country trial system, and where the total distance is broken up by either two or four shooting rounds, half in prone position, the other half standing. Depending on the shooting performance, extra distance or time is added to the contestant&apos;s total running distance/time. As in most races, the contestant with the shortest total time wins.
                     
-For each shooting round, the biathlete must hit five targets; each missed target must be "atoned for" in one of three ways, depending on the competition format:
+For each shooting round, the biathlete must hit five targets; each missed target must be &quot;atoned for&quot; in one of three ways, depending on the competition format:
                     
   • skiing around a 150 metres
     (490 ft) penalty loop, typically
     taking 20 - 30 seconds (running time
     depending on weather/snow conditions)
-  • having one minute added to a skier's
+  • having one minute added to a skier&apos;s
     total time
-  • having to use an "extra cartridge"
+  • having to use an &quot;extra cartridge&quot;
     (placed at the shooting range)
     to finish off the target
-    only three such "extras" are available
+    only three such &quot;extras&quot; are available
     for each round
     a penalty loop must be made for each
     of the targets left standing
 
-In order to keep track of the contestants' progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
+In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
                     
 Equipment:
   • no equipment other than skis and
@@ -735,11 +735,11 @@ Equipment:
 				<string>Two-man</string>
 				<key>Rules</key>
 				<string>
-Individual runs down the course, or "heats", begin from a standing start, with the crew pushing the sled for up to 50 meters before boarding; though the pilot does not steer, grooves in the ice make steering unnecessary until the sled leaves the starting area. Race times are recorded in hundredths of seconds, so even seemingly minor errors- especially those at the beginning, which affect the remainder of the heat- can have a measurable impact on the final race standings.The men's and women's standings for normal races are calculated over the aggregate of two runs or heats. Competitions consist of four heats.
+Individual runs down the course, or &quot;heats&quot;, begin from a standing start, with the crew pushing the sled for up to 50 meters before boarding; though the pilot does not steer, grooves in the ice make steering unnecessary until the sled leaves the starting area. Race times are recorded in hundredths of seconds, so even seemingly minor errors- especially those at the beginning, which affect the remainder of the heat- can have a measurable impact on the final race standings.The men&apos;s and women&apos;s standings for normal races are calculated over the aggregate of two runs or heats. Competitions consist of four heats.
                 </string>
 				<key>Description</key>
 				<string>
-Teams of two, a brakeman and a pilot, make timed runs down narrow, twisting, banked, iced tracks in a gravity-powered sled. Crews must push sleds from a standing start up to 50 m's. Each team has four runs held over a two day period. The 4 timed runs, timed to 0.01 seconds, are combined to calculate the final score. In the case of a tie, the same place is awarded.
+Teams of two, a brakeman and a pilot, make timed runs down narrow, twisting, banked, iced tracks in a gravity-powered sled. Crews must push sleds from a standing start up to 50 m&apos;s. Each team has four runs held over a two day period. The 4 timed runs, timed to 0.01 seconds, are combined to calculate the final score. In the case of a tie, the same place is awarded.
                     
 Although sledding on snow or ice had been popular in many northern countries, bobsleighing is a relatively modern sport. It originates from two crestas (skeleton sleds) being attached together with a board and a steering mechanism being attached to the front cresta. The name of the sport appeared when competitors adopted the technique of bobbing back and forth inside the sled to increase its speed
                     
@@ -760,8 +760,8 @@ Equipment:
     during the push start
 
 Dates:
-16 February Men's Two Man runs 1 and 2
-17 February Men's Two Man runs 3 and 4
+16 February Men&apos;s Two Man runs 1 and 2
+17 February Men&apos;s Two Man runs 3 and 4
 
                 </string>
 			</dict>
@@ -770,11 +770,11 @@ Dates:
 				<string>Four-man</string>
 				<key>Rules</key>
 				<string>
-Individual runs down the course, or "heats", begin from a standing start, with the crew pushing the sled for up to 50 meters before boarding; though the pilot does not steer, grooves in the ice make steering unnecessary until the sled leaves the starting area. Race times are recorded in hundredths of seconds, so even seemingly minor errors- especially those at the beginning, which affect the remainder of the heat- can have a measurable impact on the final race standings.The men's and women's standings for normal races are calculated over the aggregate of two runs or heats. Competitions consist of four heats.
+Individual runs down the course, or &quot;heats&quot;, begin from a standing start, with the crew pushing the sled for up to 50 meters before boarding; though the pilot does not steer, grooves in the ice make steering unnecessary until the sled leaves the starting area. Race times are recorded in hundredths of seconds, so even seemingly minor errors- especially those at the beginning, which affect the remainder of the heat- can have a measurable impact on the final race standings.The men&apos;s and women&apos;s standings for normal races are calculated over the aggregate of two runs or heats. Competitions consist of four heats.
                 </string>
 				<key>Description</key>
 				<string>
-Teams of four, a brakeman, a pilot, and 2 pushmen, make timed runs down narrow, twisting, banked, iced tracks in a gravity-powered sled. Crews must push sleds from a standing start up to 50 m's. Each team has four runs held over a two day period. The 4 timed runs, timed to 0.01 seconds, are combined to calculate the final score. In the case of a tie, the same place is awarded.
+Teams of four, a brakeman, a pilot, and 2 pushmen, make timed runs down narrow, twisting, banked, iced tracks in a gravity-powered sled. Crews must push sleds from a standing start up to 50 m&apos;s. Each team has four runs held over a two day period. The 4 timed runs, timed to 0.01 seconds, are combined to calculate the final score. In the case of a tie, the same place is awarded.
                     
                     
 Although sledding on snow or ice had been popular in many northern countries, bobsleighing is a relatively modern sport. It originates from two crestas (skeleton sleds) being attached together with a board and a steering mechanism being attached to the front cresta.
@@ -798,11 +798,10 @@ Equipment:
     during the push start
 
 Dates:
-22 February Men's Four Man runs 1 and 2
-23 February Men's Four Man runs 3 and 4
+22 February Men&apos;s Four Man runs 1 and 2
+23 February Men&apos;s Four Man runs 3 and 4
                 </string>
 			</dict>
-			
 		</array>
 		<key>Womens</key>
 		<array>
@@ -811,11 +810,11 @@ Dates:
 				<string>Two-woman</string>
 				<key>Rules</key>
 				<string>
-Individual runs down the course, or "heats", begin from a standing start, with the crew pushing the sled for up to 50 meters before boarding; though the pilot does not steer, grooves in the ice make steering unnecessary until the sled leaves the starting area. Race times are recorded in hundredths of seconds, so even seemingly minor errors- especially those at the beginning, which affect the remainder of the heat- can have a measurable impact on the final race standings.The men's and women's standings for normal races are calculated over the aggregate of two runs or heats. Competitions consist of four heats.
+Individual runs down the course, or &quot;heats&quot;, begin from a standing start, with the crew pushing the sled for up to 50 meters before boarding; though the pilot does not steer, grooves in the ice make steering unnecessary until the sled leaves the starting area. Race times are recorded in hundredths of seconds, so even seemingly minor errors- especially those at the beginning, which affect the remainder of the heat- can have a measurable impact on the final race standings.The men&apos;s and women&apos;s standings for normal races are calculated over the aggregate of two runs or heats. Competitions consist of four heats.
                 </string>
 				<key>Description</key>
 				<string>
-Teams of two, a brakeman and a pilot, make timed runs down narrow, twisting, banked, iced tracks in a gravity-powered sled. Crews must push sleds from a standing start up to 50 m's. Each team has four runs held over a two day period. The 4 timed runs, timed to 0.01 seconds, are combined to calculate the final score. In the case of a tie, the same place is awarded.
+Teams of two, a brakeman and a pilot, make timed runs down narrow, twisting, banked, iced tracks in a gravity-powered sled. Crews must push sleds from a standing start up to 50 m&apos;s. Each team has four runs held over a two day period. The 4 timed runs, timed to 0.01 seconds, are combined to calculate the final score. In the case of a tie, the same place is awarded.
                     
 Although sledding on snow or ice had been popular in many northern countries, bobsleighing is a relatively modern sport. It originates from two crestas (skeleton sleds) being attached together with a board and a steering mechanism being attached to the front cresta.
                     
@@ -838,11 +837,10 @@ Equipment:
     during the push start
 
 Dates:
-18 February Women's Two Man runs 1 and 2
-19 February Women's Two Man runs 3 and 4
+18 February Women&apos;s Two Man runs 1 and 2
+19 February Women&apos;s Two Man runs 3 and 4
                 </string>
 			</dict>
-			
 		</array>
 	</dict>
 	<dict>
@@ -852,86 +850,670 @@ Dates:
 		<array>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Individual Race (Classical)</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
-				<string></string>
+				<string>
+Individual Race is one of 12 cross-country skiing events featured in this year&apos;s Olympic Winter Games.
+
+  • 15 km race in the classical style
+  • skiers start at 30-second intervals
+  • the competitor who covers the distance
+    in the shortest time wins
+  • participants start in reverse order
+    to their ranking for the season
+    athletes ranked highest start last
+  • racers overtaken by faster competitors
+    must step aside to allow the faster
+    skier to pass
+    
+Equipment:
+
+  • ski boots
+    classic technique - similar to racing boots
+    free technique - stiffer, allowing
+    the ankle guard to remain more firmly
+    in place during the race
+  • bindings  -secure the skier’s boots
+    to the skis
+  • ski poles - for classic technique
+    can extend to the skier’s armpit
+    when standing
+    usually made of a carbon-fiber
+    or fiberglass composite
+    free technique poles are generally longer
+    can reach the skier’s shoulder or chin
+  • skis - help to optimize the distribution
+    of skier’s weight
+    optimizing speed
+  • ski wax - two types
+      gliding
+      gripping - prevents skis from slipping
+      backward when pushing off in the classic
+      technique
+    type of snow, weather conditions, humidity,
+    and other factors determine choice
+  • skier’s suit -made from a special
+    stretchable fabric (lycra) that
+    significantly reduces wind resistance
+    during the race
+    
+Date:
+14 February Men&apos;s 15 km classical
+                </string>
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Mass Start Race</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
-				<string></string>
+				<string>
+Mass Start Race is one of 12 cross-country skiing events featured in this year&apos;s Olympic Winter Games. Short loops in the stadium allows spectators to see contestants every 10-12 minutes.
+
+  • 50 km free technique event
+  • all skiers start at the same time
+  • 60 to 80 athletes are arranged into
+    rows of 7 to 11 people
+  • start skiing when the pistol shot fires
+  • winner is the skier who finishes first
+  
+Equipment:
+
+  • ski boots
+    classic technique - similar to racing boots
+    free technique - stiffer, allowing
+    the ankle guard to remain more firmly
+    in place during the race
+  • bindings  -secure the skier’s boots
+    to the skis
+  • ski poles - for classic technique
+    can extend to the skier’s armpit
+    when standing
+    usually made of a carbon-fiber
+    or fiberglass composite
+    free technique poles are generally longer
+    can reach the skier’s shoulder or chin
+  • skis - help to optimize the distribution
+    of skier’s weight
+    optimizing speed
+  • ski wax - two types
+      gliding
+      gripping - prevents skis from slipping
+      backward when pushing off in the classic
+      technique
+   type of snow, weather conditions, humidity,
+   and other factors determine choice
+  • skier’s suit -made from a special
+    stretchable fabric (lycra) that
+    significantly reduces wind resistance
+    during the race
+    
+Date:
+23 February Men&apos;s 50 km Mass Start
+                </string>
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Skiathlon</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
-				<string></string>
+				<string>
+Skiathlon Race is one of 12 cross-country skiing events featured in this year&apos;s Olympic Winter Games. Course is designed so skiers may pass through stadium several times.
+
+  • race the first half of the course on
+    classic technique skis
+  • exchange them for skating skis in
+    the stadium and finish the event using
+    the free technique
+  • ski 15 km twice (around a 3.75 km loop)
+    using each technique once
+    total distance of 30km
+  • timer does not stop during ski change
+  • first to cross the finish line wins
+  
+Equipment:
+
+  • ski boots
+    classic technique - similar to racing boots
+    free technique - stiffer, allowing
+    the ankle guard to remain more firmly
+    in place during the race
+  • bindings  -secure the skier’s boots
+    to the skis
+  • ski poles - for classic technique
+    can extend to the skier’s armpit
+    when standing
+    usually made of a carbon-fiber
+    or fiberglass composite
+    free technique poles are generally longer
+    can reach the skier’s shoulder or chin
+  • skis - help to optimize the distribution
+    of skier’s weight
+    optimizing speed
+  • ski wax - two types
+      gliding
+      gripping - prevents skis from slipping
+      backward when pushing off in the classic
+      technique
+   type of snow, weather conditions, humidity,
+   and other factors determine choice
+  • skier’s suit -made from a special
+    stretchable fabric (lycra) that
+    significantly reduces wind resistance
+    during the race
+    
+Date:
+9 February Men&apos;s Skiathlon
+</string>
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Relay</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
-				<string></string>
+				<string>
+Men&apos;s Relay is one of 12 cross-country skiing events featured in this year&apos;s Olympic Winter Games.
+
+  • 10 km mass start
+  • skied by teams of four athletes
+  • switchover - in a specially designated
+    zone
+    team members tag each other
+  • first and second legs are skied
+    using the classic technique
+  • third and fourth using free technique
+  • team that crosses the finish line
+    first after 4 legs wins
+
+Equipment:
+
+  • ski boots
+    classic technique - similar to racing boots
+    free technique - stiffer, allowing
+    the ankle guard to remain more firmly
+    in place during the race
+  • bindings  -secure the skier’s boots
+    to the skis
+  • ski poles - for classic technique
+    can extend to the skier’s armpit
+    when standing
+    usually made of a carbon-fiber
+    or fiberglass composite
+    free technique poles are generally longer
+    can reach the skier’s shoulder or chin
+  • skis - help to optimize the distribution
+    of skier’s weight
+    optimizing speed
+  • ski wax - two types
+      gliding
+      gripping - prevents skis from slipping
+      backward when pushing off in the classic
+      technique
+   type of snow, weather conditions, humidity,
+   and other factors determine choice
+  • skier’s suit -made from a special
+    stretchable fabric (lycra) that
+    significantly reduces wind resistance
+    during the race
+    
+Date:
+16 February 4 x 10 km Men&apos;s Relay</string>
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Individual Sprint</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
+				<string>
+Individual Sprint is one of 12 cross-country skiing events featured in this year&apos;s Olympic Winter Games.
+
+  • begin with a qualifying round
+  • start at 15-second intervals
+  • race around a a 1.4-1.6 km loop
+  • top 30 finishers advance to next round
+    placed in quarterfinal heats
+  • 6 racers in each of the quarterfinals,
+    semifinals, and final races
+  • two fastest competitors from each heat
+    plus the two third or fourth place skiers
+    with the best times
+    advance to the next round
+  • 6 skiers compete for the gold medal
+    in the final round
+    
+Equipment:
+
+  • ski boots
+    classic technique - similar to racing boots
+    free technique - stiffer, allowing
+    the ankle guard to remain more firmly
+    in place during the race
+  • bindings  -secure the skier’s boots
+    to the skis
+  • ski poles - for classic technique
+    can extend to the skier’s armpit
+    when standing
+    usually made of a carbon-fiber
+    or fiberglass composite
+    free technique poles are generally longer
+    can reach the skier’s shoulder or chin
+  • skis - help to optimize the distribution
+    of skier’s weight
+    optimizing speed
+  • ski wax - two types
+      gliding
+      gripping - prevents skis from slipping
+      backward when pushing off in the classic
+      technique
+   type of snow, weather conditions, humidity,
+   and other factors determine choice
+  • skier’s suit -made from a special
+    stretchable fabric (lycra) that
+    significantly reduces wind resistance
+    during the race
+    
+Date:
+11 February Individual Sprint
+   qualifying/finals</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Team Sprint</string>
+				<key>Rules</key>
 				<string></string>
+				<key>Description</key>
+				<string>
+Team Sprint is one of 12 cross-country skiing events featured in this year&apos;s Olympic Winter Games.
+
+  • run as a relay
+  • teams consisting of two skiers
+  • take turns completing 1.5 km legs
+    three times each
+    total of 6 legs
+  • begins with the semifinal round
+  • 10 to 15 teams start in each heat
+  • top 5 finishers in each semifinal
+    advance to the final
+  • switchover - specially designated zone
+    between legs (inside the stadium)
+    without interfering with members of
+    other teams
+  • team that crosses the finish line first
+    after 6 legs wins
+   
+Equipment:
+
+  • ski boots
+    classic technique - similar to racing boots
+    free technique - stiffer, allowing
+    the ankle guard to remain more firmly
+    in place during the race
+  • bindings  -secure the skier’s boots
+    to the skis
+  • ski poles - for classic technique
+    can extend to the skier’s armpit
+    when standing
+    usually made of a carbon-fiber
+    or fiberglass composite
+    free technique poles are generally longer
+    can reach the skier’s shoulder or chin
+  • skis - help to optimize the distribution
+    of skier’s weight
+    optimizing speed
+  • ski wax - two types
+      gliding
+      gripping - prevents skis from slipping
+      backward when pushing off in the classic
+      technique
+   type of snow, weather conditions, humidity,
+   and other factors determine choice
+  • skier’s suit -made from a special
+    stretchable fabric (lycra) that
+    significantly reduces wind resistance
+    during the race
+    
+Date:
+19 February Team Sprint</string>
 			</dict>
 		</array>
 		<key>Womens</key>
 		<array>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Individual Race (Classical)</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
-				<string></string>
+				<string>
+Individual Race is one of 12 cross-country skiing events featured in this year&apos;s Olympic Winter Games.
+
+  • 10 km race in the classical style
+  • skiers start at 30-second intervals
+  • the competitor who covers the distance
+    in the shortest time wins
+  • participants start in reverse order
+    to their ranking for the season
+    athletes ranked highest start last
+  • racers overtaken by faster competitors
+    must step aside to allow the faster
+    skier to pass
+    
+Equipment:
+
+  • ski boots
+    classic technique - similar to racing boots
+    free technique - stiffer, allowing
+    the ankle guard to remain more firmly
+    in place during the race
+  • bindings  -secure the skier’s boots
+    to the skis
+  • ski poles - for classic technique
+    can extend to the skier’s armpit
+    when standing
+    usually made of a carbon-fiber
+    or fiberglass composite
+    free technique poles are generally longer
+    can reach the skier’s shoulder or chin
+  • skis - help to optimize the distribution
+    of skier’s weight
+    optimizing speed
+  • ski wax - two types
+      gliding
+      gripping - prevents skis from slipping
+      backward when pushing off in the classic
+      technique
+    type of snow, weather conditions, humidity,
+    and other factors determine choice
+  • skier’s suit -made from a special
+    stretchable fabric (lycra) that
+    significantly reduces wind resistance
+    during the race
+    
+Date:
+13 February Women&apos;s 10 km classical
+
+                </string>
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Mass Start Race</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
-				<string></string>
+				<string>
+Mass Start Race is one of 12 cross-country skiing events featured in this year&apos;s Olympic Winter Games. Short loops in the stadium allows spectators to see contestants every 10-12 minutes.
+
+  • 30 km free technique event
+  • all skiers start at the same time
+  • 60 to 80 athletes are arranged into
+    rows of 7 to 11 people
+  • start skiing when the pistol shot fires
+  • winner is the skier who finishes first
+
+Equipment:
+
+  • ski boots
+    classic technique - similar to racing boots
+    free technique - stiffer, allowing
+    the ankle guard to remain more firmly
+    in place during the race
+  • bindings  -secure the skier’s boots
+    to the skis
+  • ski poles - for classic technique
+    can extend to the skier’s armpit
+    when standing
+    usually made of a carbon-fiber
+    or fiberglass composite
+    free technique poles are generally longer
+    can reach the skier’s shoulder or chin
+  • skis - help to optimize the distribution
+    of skier’s weight
+    optimizing speed
+  • ski wax - two types
+      gliding
+      gripping - prevents skis from slipping
+      backward when pushing off in the classic
+      technique
+   type of snow, weather conditions, humidity,
+   and other factors determine choice
+  • skier’s suit -made from a special
+    stretchable fabric (lycra) that
+    significantly reduces wind resistance
+    during the race
+    
+Date:
+22 February Women&apos;s 30 km Mass Start
+</string>
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Skiathlon</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
-				<string></string>
+				<string>
+Skiathlon Race is one of 12 cross-country skiing events featured in this year&apos;s Olympic Winter Games. Course is designed so skiers may pass through stadium several times.
+
+  • race the first half of the course on
+    classic technique skis
+  • exchange them for skating skis in
+    the stadium and finish the event using
+    the free technique
+  • ski 7.5 km twice (around a 2.5 km loop)
+    using each technique once
+    total distance of 15km
+  • timer does not stop during ski change
+  • first to cross the finish line wins
+  
+Equipment:
+
+  • ski boots
+    classic technique - similar to racing boots
+    free technique - stiffer, allowing
+    the ankle guard to remain more firmly
+    in place during the race
+  • bindings  -secure the skier’s boots
+    to the skis
+  • ski poles - for classic technique
+    can extend to the skier’s armpit
+    when standing
+    usually made of a carbon-fiber
+    or fiberglass composite
+    free technique poles are generally longer
+    can reach the skier’s shoulder or chin
+  • skis - help to optimize the distribution
+    of skier’s weight
+    optimizing speed
+  • ski wax - two types
+      gliding
+      gripping - prevents skis from slipping
+      backward when pushing off in the classic
+      technique
+   type of snow, weather conditions, humidity,
+   and other factors determine choice
+  • skier’s suit -made from a special
+    stretchable fabric (lycra) that
+    significantly reduces wind resistance
+    during the race
+    
+Date:
+8 February Women&apos;s Skiathlon</string>
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Relay</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
-				<string></string>
+				<string>
+Women&apos;s Relay is one of 12 cross-country skiing events featured in this year&apos;s Olympic Winter Games.
+
+  • 5 km mass start
+  • skied by teams of four athletes
+  • switchover - in a specially designated
+    zone
+    team members tag each other
+  • first and second legs are skied
+    using the classic technique
+  • third and fourth using free technique
+  • team that crosses the finish line
+    first after 4 legs wins
+
+Equipment:
+
+  • ski boots
+    classic technique - similar to racing boots
+    free technique - stiffer, allowing
+    the ankle guard to remain more firmly
+    in place during the race
+  • bindings  -secure the skier’s boots
+    to the skis
+  • ski poles - for classic technique
+    can extend to the skier’s armpit
+    when standing
+    usually made of a carbon-fiber
+    or fiberglass composite
+    free technique poles are generally longer
+    can reach the skier’s shoulder or chin
+  • skis - help to optimize the distribution
+    of skier’s weight
+    optimizing speed
+  • ski wax - two types
+      gliding
+      gripping - prevents skis from slipping
+      backward when pushing off in the classic
+      technique
+   type of snow, weather conditions, humidity,
+   and other factors determine choice
+  • skier’s suit -made from a special
+    stretchable fabric (lycra) that
+    significantly reduces wind resistance
+    during the race
+    
+Date:
+15 February 4 x 5 km Women&apos;s Relay</string>
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Individual Sprint</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
+				<string>
+Individual Sprint is one of 12 cross-country skiing events featured in this year&apos;s Olympic Winter Games.
+
+• begin with a qualifying round
+  • start at 15-second intervals
+  • race around a a 1.4-1.6 km loop
+  • top 30 finishers advance to next round
+    placed in quarterfinal heats
+  • 6 racers in each of the quarterfinals,
+    semifinals, and final races
+  • two fastest competitors from each heat
+    plus the two third or fourth place skiers
+    with the best times
+    advance to the next round
+  • 6 skiers compete for the gold medal
+    in the final round
+
+Equipment:
+
+  • ski boots
+    classic technique - similar to racing boots
+    free technique - stiffer, allowing
+    the ankle guard to remain more firmly
+    in place during the race
+  • bindings  -secure the skier’s boots
+    to the skis
+  • ski poles - for classic technique
+    can extend to the skier’s armpit
+    when standing
+    usually made of a carbon-fiber
+    or fiberglass composite
+    free technique poles are generally longer
+    can reach the skier’s shoulder or chin
+  • skis - help to optimize the distribution
+    of skier’s weight
+    optimizing speed
+  • ski wax - two types
+      gliding
+      gripping - prevents skis from slipping
+      backward when pushing off in the classic
+      technique
+   type of snow, weather conditions, humidity,
+   and other factors determine choice
+  • skier’s suit -made from a special
+    stretchable fabric (lycra) that
+    significantly reduces wind resistance
+    during the race
+    
+Date:
+11 February Individual Sprint
+   qualifying/finals</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Team Sprint</string>
+				<key>Rules</key>
 				<string></string>
+				<key>Description</key>
+				<string>
+Team Sprint is one of 12 cross-country skiing events featured in this year&apos;s Olympic Winter Games.
+
+  • run as a relay
+  • teams consisting of two skiers
+  • take turns completing 1.5 km legs
+    three times each
+    total of 6 legs
+  • begins with the semifinal round
+  • 10 to 15 teams start in each heat
+  • top 5 finishers in each semifinal
+    advance to the final
+  • switchover - specially designated zone
+    between legs (inside the stadium)
+    without interfering with members of
+    other teams
+  • team that crosses the finish line first
+    after 6 legs wins
+   
+Equipment:
+
+  • ski boots
+    classic technique - similar to racing boots
+    free technique - stiffer, allowing
+    the ankle guard to remain more firmly
+    in place during the race
+  • bindings  -secure the skier’s boots
+    to the skis
+  • ski poles - for classic technique
+    can extend to the skier’s armpit
+    when standing
+    usually made of a carbon-fiber
+    or fiberglass composite
+    free technique poles are generally longer
+    can reach the skier’s shoulder or chin
+  • skis - help to optimize the distribution
+    of skier’s weight
+    optimizing speed
+  • ski wax - two types
+      gliding
+      gripping - prevents skis from slipping
+      backward when pushing off in the classic
+      technique
+   type of snow, weather conditions, humidity,
+   and other factors determine choice
+  • skier’s suit -made from a special
+    stretchable fabric (lycra) that
+    significantly reduces wind resistance
+    during the race
+    
+Date:
+19 February Team Sprint</string>
 			</dict>
 		</array>
 	</dict>
@@ -958,13 +1540,13 @@ Scoring:
                 </string>
 				<key>Description</key>
 				<string>
-Curling is a sport in which players slide stones across a sheet of ice towards a target area which is segmented into four concentric rings. It is related to bowls, boule and shuffleboard. Two teams, each of four players, take turns sliding heavy, polished 19.96 kg  granite stones, also called "rocks", across the ice curling sheet towards the “house”, a circular target marked on the ice. Each game has 10 “ends”. Each team alternately steers eight stones, 2 stones per person, per team. The purpose is to accumulate the highest score for a game; points are scored for the stones resting closest to the centre of the house at the conclusion of each end, which is completed when both teams have thrown all of their stones. A game consists of ten ends.
+Curling is a sport in which players slide stones across a sheet of ice towards a target area which is segmented into four concentric rings. It is related to bowls, boule and shuffleboard. Two teams, each of four players, take turns sliding heavy, polished 19.96 kg  granite stones, also called &quot;rocks&quot;, across the ice curling sheet towards the “house”, a circular target marked on the ice. Each game has 10 “ends”. Each team alternately steers eight stones, 2 stones per person, per team. The purpose is to accumulate the highest score for a game; points are scored for the stones resting closest to the centre of the house at the conclusion of each end, which is completed when both teams have thrown all of their stones. A game consists of ten ends.
 
-The curler can induce a curved path by causing the stone to slowly turn as it slides, and the path of the rock may be further influenced by two sweepers with brooms who accompany it as it slides down the sheet, using the brooms to alter the state of the ice in front of the stone. A great deal of strategy and teamwork goes into choosing the ideal path and placement of a stone for each situation, and the skills of the curlers determine how close to the desired result the stone will achieve. This gives curling its nickname of "chess on ice"
+The curler can induce a curved path by causing the stone to slowly turn as it slides, and the path of the rock may be further influenced by two sweepers with brooms who accompany it as it slides down the sheet, using the brooms to alter the state of the ice in front of the stone. A great deal of strategy and teamwork goes into choosing the ideal path and placement of a stone for each situation, and the skills of the curlers determine how close to the desired result the stone will achieve. This gives curling its nickname of &quot;chess on ice&quot;
 
 Many different types of shots are used to carefully place stones for strategic or tactical reasons; they fall into three fundamental categories as follows:
 
-Guards are thrown in front of the house in the free guard zone, usually to protect the shot-rock (the stone closest to the button at the time) or to make the opposing team's shot difficult. Guard shots include the centre-guard, on the centreline and the corner-guards to the left or right sides of the centre line. See Free Guard Zone below.
+Guards are thrown in front of the house in the free guard zone, usually to protect the shot-rock (the stone closest to the button at the time) or to make the opposing team&apos;s shot difficult. Guard shots include the centre-guard, on the centreline and the corner-guards to the left or right sides of the centre line. See Free Guard Zone below.
 
 Draws are thrown only to reach the house. Draw shots include raise and angle-raise, come-around, and freeze shots.
 
@@ -978,7 +1560,7 @@ Equipment:
     the stone and the ice, which reduces
     friction, thereby reducing the stone’s
     deceleration and straightening its
-    trajectory or 'curl'
+    trajectory or &apos;curl&apos;
     brooms can have fabric, hog hair,
     or horsehair heads
   • special curling shoes - different soles
@@ -1004,7 +1586,6 @@ Dates:
 20 and 21 February Finals
                 </string>
 			</dict>
-			
 		</array>
 		<key>Womens</key>
 		<array>
@@ -1025,13 +1606,13 @@ Scoring:
                 </string>
 				<key>Description</key>
 				<string>
-Curling is a sport in which players slide stones across a sheet of ice towards a target area which is segmented into four concentric rings. It is related to bowls, boule and shuffleboard. Two teams, each of four players, take turns sliding heavy, polished 19.96 kg  granite stones, also called "rocks", across the ice curling sheet towards the “house”, a circular target marked on the ice. Each game has 10 “ends”. Each team alternately steers eight stones, 2 stones per person, per team. The purpose is to accumulate the highest score for a game; points are scored for the stones resting closest to the centre of the house at the conclusion of each end, which is completed when both teams have thrown all of their stones. A game consists of ten ends.
+Curling is a sport in which players slide stones across a sheet of ice towards a target area which is segmented into four concentric rings. It is related to bowls, boule and shuffleboard. Two teams, each of four players, take turns sliding heavy, polished 19.96 kg  granite stones, also called &quot;rocks&quot;, across the ice curling sheet towards the “house”, a circular target marked on the ice. Each game has 10 “ends”. Each team alternately steers eight stones, 2 stones per person, per team. The purpose is to accumulate the highest score for a game; points are scored for the stones resting closest to the centre of the house at the conclusion of each end, which is completed when both teams have thrown all of their stones. A game consists of ten ends.
 
-The curler can induce a curved path by causing the stone to slowly turn as it slides, and the path of the rock may be further influenced by two sweepers with brooms who accompany it as it slides down the sheet, using the brooms to alter the state of the ice in front of the stone. A great deal of strategy and teamwork goes into choosing the ideal path and placement of a stone for each situation, and the skills of the curlers determine how close to the desired result the stone will achieve. This gives curling its nickname of "chess on ice"
+The curler can induce a curved path by causing the stone to slowly turn as it slides, and the path of the rock may be further influenced by two sweepers with brooms who accompany it as it slides down the sheet, using the brooms to alter the state of the ice in front of the stone. A great deal of strategy and teamwork goes into choosing the ideal path and placement of a stone for each situation, and the skills of the curlers determine how close to the desired result the stone will achieve. This gives curling its nickname of &quot;chess on ice&quot;
 
 Many different types of shots are used to carefully place stones for strategic or tactical reasons; they fall into three fundamental categories as follows:
 
-Guards are thrown in front of the house in the free guard zone, usually to protect the shot-rock (the stone closest to the button at the time) or to make the opposing team's shot difficult. Guard shots include the centre-guard, on the centreline and the corner-guards to the left or right sides of the centre line. See Free Guard Zone below.
+Guards are thrown in front of the house in the free guard zone, usually to protect the shot-rock (the stone closest to the button at the time) or to make the opposing team&apos;s shot difficult. Guard shots include the centre-guard, on the centreline and the corner-guards to the left or right sides of the centre line. See Free Guard Zone below.
 
 Draws are thrown only to reach the house. Draw shots include raise and angle-raise, come-around, and freeze shots.
 
@@ -1045,7 +1626,7 @@ Equipment:
     the stone and the ice, which reduces
     friction, thereby reducing the stone’s
     deceleration and straightening its
-    trajectory or 'curl'
+    trajectory or &apos;curl&apos;
     brooms can have fabric, hog hair,
     or horsehair heads
   • special curling shoes - different soles
@@ -1071,7 +1652,6 @@ Dates:
 20 and 21 February Finals
                 </string>
 			</dict>
-			
 		</array>
 	</dict>
 	<dict>
