@@ -1831,6 +1831,22 @@ Definition: An intentional, developed and/or original arrangement of all types o
 
 Interpretation
 Definition: The personal and creative translation of the music to movement on ice.
+
+In 2004, in response to the judging controversy during the 2002 Winter Olympics, the ISU adopted the International Judging System (IJS), which became mandatory at all international competitions in 2006, including the 2006 Winter Olympics. The new system is often informally referred to as the Code of Points, however, the ISU has never used the term to describe their system in any of their official communications.
+
+Under the system, points are awarded individually for each skating element, and the sum of these points is the total element score (TES). Competitive programs are constrained to have a set number of elements. Each element is judged first by a technical specialist who identifies the specific element and determines its base value. The technical specialist uses instant replay video to verify things that distinguish different elements; e.g., the exact foot position at take-off and landing of a jump. The decision of the technical specialist determines the base value of the element. A panel of twelve judges then each award a mark for the quality and execution of the element. This mark is called the grade of execution (GOE) that is an integer from −3 to +3. The GOE mark is then translated into another value by using the table of values in ISU rule 322. The GOE value from the twelve judges is then processed with a computerized random selection of nine judges, then discarding the high and low value, and finally averaging the remaining seven. This average value is then added to (or subtracted from) the base value to get the total value for the element.[15]
+
+The program components score (PCS) awards points to holistic aspects of a program or other nuances that are not rewarded in the total element score. The components are:
+
+    Skating skills (SS) reward use of edges and turns, flow over the ice surface, speed and acceleration, ice coverage, clean and controlled curves, multi-directional skating, and mastery of one-foot skating (no overuse of skating on two feet).
+    Transitions (TR)
+    Performance/Execution (PE)
+    Choreography (CH)
+    Interpretation (IN)
+
+The only exception is the compulsory dance, which has no choreography or transition marks because the steps are preset. A detailed description of each component is given in ISU rule 322.2. Judges award each component a raw mark from 0 to 10 in increments of 0.25, with a mark of 5 being defined as "average". For each separate component, the raw marks are then selected, trimmed, and averaged in a manner akin to determining a grade of execution. The trimmed mean scores are then translated into a factored mark by multiplying by a factor that depends on the discipline, competition segment, and level. Then the five (or four) factored marks are added to give the final PCS score.
+
+The total element score and the program components score are added to give the total score for a competition segment (TSS). A skater's final placement is determined by the total of their scores in all segments of a competition. No ordinal rankings are used to determine the final results.
 </string>
 				<key>Description</key>
 				<string>
@@ -1894,7 +1910,24 @@ Choreography/Composition
 Definition: An intentional, developed and/or original arrangement of all types of movements according to the principles of proportion, unity, space, pattern, structure and phrasing.
 
 Interpretation
-Definition: The personal and creative translation of the music to movement on ice.</string>
+Definition: The personal and creative translation of the music to movement on ice.
+
+In 2004, in response to the judging controversy during the 2002 Winter Olympics, the ISU adopted the International Judging System (IJS), which became mandatory at all international competitions in 2006, including the 2006 Winter Olympics. The new system is often informally referred to as the Code of Points, however, the ISU has never used the term to describe their system in any of their official communications.
+
+Under the system, points are awarded individually for each skating element, and the sum of these points is the total element score (TES). Competitive programs are constrained to have a set number of elements. Each element is judged first by a technical specialist who identifies the specific element and determines its base value. The technical specialist uses instant replay video to verify things that distinguish different elements; e.g., the exact foot position at take-off and landing of a jump. The decision of the technical specialist determines the base value of the element. A panel of twelve judges then each award a mark for the quality and execution of the element. This mark is called the grade of execution (GOE) that is an integer from −3 to +3. The GOE mark is then translated into another value by using the table of values in ISU rule 322. The GOE value from the twelve judges is then processed with a computerized random selection of nine judges, then discarding the high and low value, and finally averaging the remaining seven. This average value is then added to (or subtracted from) the base value to get the total value for the element.[15]
+
+The program components score (PCS) awards points to holistic aspects of a program or other nuances that are not rewarded in the total element score. The components are:
+
+    Skating skills (SS) reward use of edges and turns, flow over the ice surface, speed and acceleration, ice coverage, clean and controlled curves, multi-directional skating, and mastery of one-foot skating (no overuse of skating on two feet).
+    Transitions (TR)
+    Performance/Execution (PE)
+    Choreography (CH)
+    Interpretation (IN)
+
+The only exception is the compulsory dance, which has no choreography or transition marks because the steps are preset. A detailed description of each component is given in ISU rule 322.2. Judges award each component a raw mark from 0 to 10 in increments of 0.25, with a mark of 5 being defined as "average". For each separate component, the raw marks are then selected, trimmed, and averaged in a manner akin to determining a grade of execution. The trimmed mean scores are then translated into a factored mark by multiplying by a factor that depends on the discipline, competition segment, and level. Then the five (or four) factored marks are added to give the final PCS score.
+
+The total element score and the program components score are added to give the total score for a competition segment (TSS). A skater's final placement is determined by the total of their scores in all segments of a competition. No ordinal rankings are used to determine the final results.
+        </string>
 				<key>Description</key>
 				<string>
 Olympic Figure Skating include:
@@ -1951,7 +1984,24 @@ In ice dancing, the pattern dance(s) are scored on only four program components:
 Timing
 Definition: The ability of the couple to skate strictly in time with the music and to reflect the rhythm patterns and prescribed beat values of the pattern dance.
 
-The Total Element Score is added together to the Program Components Score, which are factored differently for the different disciplines (see below). Deductions are taken for rule violations. The result is the segment score.</string>
+The Total Element Score is added together to the Program Components Score, which are factored differently for the different disciplines (see below). Deductions are taken for rule violations. The result is the segment score.
+
+In 2004, in response to the judging controversy during the 2002 Winter Olympics, the ISU adopted the International Judging System (IJS), which became mandatory at all international competitions in 2006, including the 2006 Winter Olympics. The new system is often informally referred to as the Code of Points, however, the ISU has never used the term to describe their system in any of their official communications.
+
+Under the system, points are awarded individually for each skating element, and the sum of these points is the total element score (TES). Competitive programs are constrained to have a set number of elements. Each element is judged first by a technical specialist who identifies the specific element and determines its base value. The technical specialist uses instant replay video to verify things that distinguish different elements; e.g., the exact foot position at take-off and landing of a jump. The decision of the technical specialist determines the base value of the element. A panel of twelve judges then each award a mark for the quality and execution of the element. This mark is called the grade of execution (GOE) that is an integer from −3 to +3. The GOE mark is then translated into another value by using the table of values in ISU rule 322. The GOE value from the twelve judges is then processed with a computerized random selection of nine judges, then discarding the high and low value, and finally averaging the remaining seven. This average value is then added to (or subtracted from) the base value to get the total value for the element.[15]
+
+The program components score (PCS) awards points to holistic aspects of a program or other nuances that are not rewarded in the total element score. The components are:
+
+    Skating skills (SS) reward use of edges and turns, flow over the ice surface, speed and acceleration, ice coverage, clean and controlled curves, multi-directional skating, and mastery of one-foot skating (no overuse of skating on two feet).
+    Transitions (TR)
+    Performance/Execution (PE)
+    Choreography (CH)
+    Interpretation (IN)
+
+The only exception is the compulsory dance, which has no choreography or transition marks because the steps are preset. A detailed description of each component is given in ISU rule 322.2. Judges award each component a raw mark from 0 to 10 in increments of 0.25, with a mark of 5 being defined as "average". For each separate component, the raw marks are then selected, trimmed, and averaged in a manner akin to determining a grade of execution. The trimmed mean scores are then translated into a factored mark by multiplying by a factor that depends on the discipline, competition segment, and level. Then the five (or four) factored marks are added to give the final PCS score.
+
+The total element score and the program components score are added to give the total score for a competition segment (TSS). A skater's final placement is determined by the total of their scores in all segments of a competition. No ordinal rankings are used to determine the final results.
+                </string>
 				<key>Description</key>
 				<string>
 Ice Dancing is the only discipline that allows the use of music with vocals. Dancers much adhere closely to the rhythm of the music and express the character of the music with appropriate emotion and feeling.
@@ -1999,7 +2049,24 @@ Choreography/Composition
 Definition: An intentional, developed and/or original arrangement of all types of movements according to the principles of proportion, unity, space, pattern, structure and phrasing.
 
 Interpretation
-Definition: The personal and creative translation of the music to movement on ice.</string>
+Definition: The personal and creative translation of the music to movement on ice.
+
+In 2004, in response to the judging controversy during the 2002 Winter Olympics, the ISU adopted the International Judging System (IJS), which became mandatory at all international competitions in 2006, including the 2006 Winter Olympics. The new system is often informally referred to as the Code of Points, however, the ISU has never used the term to describe their system in any of their official communications.
+
+Under the system, points are awarded individually for each skating element, and the sum of these points is the total element score (TES). Competitive programs are constrained to have a set number of elements. Each element is judged first by a technical specialist who identifies the specific element and determines its base value. The technical specialist uses instant replay video to verify things that distinguish different elements; e.g., the exact foot position at take-off and landing of a jump. The decision of the technical specialist determines the base value of the element. A panel of twelve judges then each award a mark for the quality and execution of the element. This mark is called the grade of execution (GOE) that is an integer from −3 to +3. The GOE mark is then translated into another value by using the table of values in ISU rule 322. The GOE value from the twelve judges is then processed with a computerized random selection of nine judges, then discarding the high and low value, and finally averaging the remaining seven. This average value is then added to (or subtracted from) the base value to get the total value for the element.[15]
+
+The program components score (PCS) awards points to holistic aspects of a program or other nuances that are not rewarded in the total element score. The components are:
+
+    Skating skills (SS) reward use of edges and turns, flow over the ice surface, speed and acceleration, ice coverage, clean and controlled curves, multi-directional skating, and mastery of one-foot skating (no overuse of skating on two feet).
+    Transitions (TR)
+    Performance/Execution (PE)
+    Choreography (CH)
+    Interpretation (IN)
+
+The only exception is the compulsory dance, which has no choreography or transition marks because the steps are preset. A detailed description of each component is given in ISU rule 322.2. Judges award each component a raw mark from 0 to 10 in increments of 0.25, with a mark of 5 being defined as "average". For each separate component, the raw marks are then selected, trimmed, and averaged in a manner akin to determining a grade of execution. The trimmed mean scores are then translated into a factored mark by multiplying by a factor that depends on the discipline, competition segment, and level. Then the five (or four) factored marks are added to give the final PCS score.
+
+The total element score and the program components score are added to give the total score for a competition segment (TSS). A skater's final placement is determined by the total of their scores in all segments of a competition. No ordinal rankings are used to determine the final results.
+                </string>
 				<key>Description</key>
 				<string>
 Team Events in figure skating are a competition between the best national teams. Representatives of the singles and pairs skating perform a short and free program; in ice dancing they complete a short and free dance. Each team may have one sports pair and one dance pair, one male figure skater and one female figure skating.
@@ -2048,7 +2115,24 @@ Choreography/Composition
 Definition: An intentional, developed and/or original arrangement of all types of movements according to the principles of proportion, unity, space, pattern, structure and phrasing.
 
 Interpretation
-Definition: The personal and creative translation of the music to movement on ice.</string>
+Definition: The personal and creative translation of the music to movement on ice.
+
+In 2004, in response to the judging controversy during the 2002 Winter Olympics, the ISU adopted the International Judging System (IJS), which became mandatory at all international competitions in 2006, including the 2006 Winter Olympics. The new system is often informally referred to as the Code of Points, however, the ISU has never used the term to describe their system in any of their official communications.
+
+Under the system, points are awarded individually for each skating element, and the sum of these points is the total element score (TES). Competitive programs are constrained to have a set number of elements. Each element is judged first by a technical specialist who identifies the specific element and determines its base value. The technical specialist uses instant replay video to verify things that distinguish different elements; e.g., the exact foot position at take-off and landing of a jump. The decision of the technical specialist determines the base value of the element. A panel of twelve judges then each award a mark for the quality and execution of the element. This mark is called the grade of execution (GOE) that is an integer from −3 to +3. The GOE mark is then translated into another value by using the table of values in ISU rule 322. The GOE value from the twelve judges is then processed with a computerized random selection of nine judges, then discarding the high and low value, and finally averaging the remaining seven. This average value is then added to (or subtracted from) the base value to get the total value for the element.[15]
+
+The program components score (PCS) awards points to holistic aspects of a program or other nuances that are not rewarded in the total element score. The components are:
+
+    Skating skills (SS) reward use of edges and turns, flow over the ice surface, speed and acceleration, ice coverage, clean and controlled curves, multi-directional skating, and mastery of one-foot skating (no overuse of skating on two feet).
+    Transitions (TR)
+    Performance/Execution (PE)
+    Choreography (CH)
+    Interpretation (IN)
+
+The only exception is the compulsory dance, which has no choreography or transition marks because the steps are preset. A detailed description of each component is given in ISU rule 322.2. Judges award each component a raw mark from 0 to 10 in increments of 0.25, with a mark of 5 being defined as "average". For each separate component, the raw marks are then selected, trimmed, and averaged in a manner akin to determining a grade of execution. The trimmed mean scores are then translated into a factored mark by multiplying by a factor that depends on the discipline, competition segment, and level. Then the five (or four) factored marks are added to give the final PCS score.
+
+The total element score and the program components score are added to give the total score for a competition segment (TSS). A skater's final placement is determined by the total of their scores in all segments of a competition. No ordinal rankings are used to determine the final results.
+                </string>
 				<key>Description</key>
 				<string>
 Olympic Figure Skating include:
@@ -2110,7 +2194,24 @@ Choreography/Composition
 Definition: An intentional, developed and/or original arrangement of all types of movements according to the principles of proportion, unity, space, pattern, structure and phrasing.
 
 Interpretation
-Definition: The personal and creative translation of the music to movement on ice.</string>
+Definition: The personal and creative translation of the music to movement on ice.
+
+In 2004, in response to the judging controversy during the 2002 Winter Olympics, the ISU adopted the International Judging System (IJS), which became mandatory at all international competitions in 2006, including the 2006 Winter Olympics. The new system is often informally referred to as the Code of Points, however, the ISU has never used the term to describe their system in any of their official communications.
+
+Under the system, points are awarded individually for each skating element, and the sum of these points is the total element score (TES). Competitive programs are constrained to have a set number of elements. Each element is judged first by a technical specialist who identifies the specific element and determines its base value. The technical specialist uses instant replay video to verify things that distinguish different elements; e.g., the exact foot position at take-off and landing of a jump. The decision of the technical specialist determines the base value of the element. A panel of twelve judges then each award a mark for the quality and execution of the element. This mark is called the grade of execution (GOE) that is an integer from −3 to +3. The GOE mark is then translated into another value by using the table of values in ISU rule 322. The GOE value from the twelve judges is then processed with a computerized random selection of nine judges, then discarding the high and low value, and finally averaging the remaining seven. This average value is then added to (or subtracted from) the base value to get the total value for the element.[15]
+
+The program components score (PCS) awards points to holistic aspects of a program or other nuances that are not rewarded in the total element score. The components are:
+
+    Skating skills (SS) reward use of edges and turns, flow over the ice surface, speed and acceleration, ice coverage, clean and controlled curves, multi-directional skating, and mastery of one-foot skating (no overuse of skating on two feet).
+    Transitions (TR)
+    Performance/Execution (PE)
+    Choreography (CH)
+    Interpretation (IN)
+
+The only exception is the compulsory dance, which has no choreography or transition marks because the steps are preset. A detailed description of each component is given in ISU rule 322.2. Judges award each component a raw mark from 0 to 10 in increments of 0.25, with a mark of 5 being defined as "average". For each separate component, the raw marks are then selected, trimmed, and averaged in a manner akin to determining a grade of execution. The trimmed mean scores are then translated into a factored mark by multiplying by a factor that depends on the discipline, competition segment, and level. Then the five (or four) factored marks are added to give the final PCS score.
+
+The total element score and the program components score are added to give the total score for a competition segment (TSS). A skater's final placement is determined by the total of their scores in all segments of a competition. No ordinal rankings are used to determine the final results.
+                </string>
 				<key>Description</key>
 				<string>
 Olympic Figure Skating include:
@@ -2167,7 +2268,24 @@ In ice dancing, the pattern dance(s) are scored on only four program components:
 Timing
 Definition: The ability of the couple to skate strictly in time with the music and to reflect the rhythm patterns and prescribed beat values of the pattern dance.
 
-The Total Element Score is added together to the Program Components Score, which are factored differently for the different disciplines (see below). Deductions are taken for rule violations. The result is the segment score.</string>
+The Total Element Score is added together to the Program Components Score, which are factored differently for the different disciplines (see below). Deductions are taken for rule violations. The result is the segment score.
+
+In 2004, in response to the judging controversy during the 2002 Winter Olympics, the ISU adopted the International Judging System (IJS), which became mandatory at all international competitions in 2006, including the 2006 Winter Olympics. The new system is often informally referred to as the Code of Points, however, the ISU has never used the term to describe their system in any of their official communications.
+
+Under the system, points are awarded individually for each skating element, and the sum of these points is the total element score (TES). Competitive programs are constrained to have a set number of elements. Each element is judged first by a technical specialist who identifies the specific element and determines its base value. The technical specialist uses instant replay video to verify things that distinguish different elements; e.g., the exact foot position at take-off and landing of a jump. The decision of the technical specialist determines the base value of the element. A panel of twelve judges then each award a mark for the quality and execution of the element. This mark is called the grade of execution (GOE) that is an integer from −3 to +3. The GOE mark is then translated into another value by using the table of values in ISU rule 322. The GOE value from the twelve judges is then processed with a computerized random selection of nine judges, then discarding the high and low value, and finally averaging the remaining seven. This average value is then added to (or subtracted from) the base value to get the total value for the element.[15]
+
+The program components score (PCS) awards points to holistic aspects of a program or other nuances that are not rewarded in the total element score. The components are:
+
+    Skating skills (SS) reward use of edges and turns, flow over the ice surface, speed and acceleration, ice coverage, clean and controlled curves, multi-directional skating, and mastery of one-foot skating (no overuse of skating on two feet).
+    Transitions (TR)
+    Performance/Execution (PE)
+    Choreography (CH)
+    Interpretation (IN)
+
+The only exception is the compulsory dance, which has no choreography or transition marks because the steps are preset. A detailed description of each component is given in ISU rule 322.2. Judges award each component a raw mark from 0 to 10 in increments of 0.25, with a mark of 5 being defined as "average". For each separate component, the raw marks are then selected, trimmed, and averaged in a manner akin to determining a grade of execution. The trimmed mean scores are then translated into a factored mark by multiplying by a factor that depends on the discipline, competition segment, and level. Then the five (or four) factored marks are added to give the final PCS score.
+
+The total element score and the program components score are added to give the total score for a competition segment (TSS). A skater's final placement is determined by the total of their scores in all segments of a competition. No ordinal rankings are used to determine the final results.
+                </string>
 				<key>Description</key>
 				<string>
 Ice Dancing is the only discipline that allows the use of music with vocals. Dancers much adhere closely to the rhythm of the music and express the character of the music with appropriate emotion and feeling.
@@ -2215,7 +2333,24 @@ Choreography/Composition
 Definition: An intentional, developed and/or original arrangement of all types of movements according to the principles of proportion, unity, space, pattern, structure and phrasing.
 
 Interpretation
-Definition: The personal and creative translation of the music to movement on ice.</string>
+Definition: The personal and creative translation of the music to movement on ice.
+
+In 2004, in response to the judging controversy during the 2002 Winter Olympics, the ISU adopted the International Judging System (IJS), which became mandatory at all international competitions in 2006, including the 2006 Winter Olympics. The new system is often informally referred to as the Code of Points, however, the ISU has never used the term to describe their system in any of their official communications.
+
+Under the system, points are awarded individually for each skating element, and the sum of these points is the total element score (TES). Competitive programs are constrained to have a set number of elements. Each element is judged first by a technical specialist who identifies the specific element and determines its base value. The technical specialist uses instant replay video to verify things that distinguish different elements; e.g., the exact foot position at take-off and landing of a jump. The decision of the technical specialist determines the base value of the element. A panel of twelve judges then each award a mark for the quality and execution of the element. This mark is called the grade of execution (GOE) that is an integer from −3 to +3. The GOE mark is then translated into another value by using the table of values in ISU rule 322. The GOE value from the twelve judges is then processed with a computerized random selection of nine judges, then discarding the high and low value, and finally averaging the remaining seven. This average value is then added to (or subtracted from) the base value to get the total value for the element.[15]
+
+The program components score (PCS) awards points to holistic aspects of a program or other nuances that are not rewarded in the total element score. The components are:
+
+    Skating skills (SS) reward use of edges and turns, flow over the ice surface, speed and acceleration, ice coverage, clean and controlled curves, multi-directional skating, and mastery of one-foot skating (no overuse of skating on two feet).
+    Transitions (TR)
+    Performance/Execution (PE)
+    Choreography (CH)
+    Interpretation (IN)
+
+The only exception is the compulsory dance, which has no choreography or transition marks because the steps are preset. A detailed description of each component is given in ISU rule 322.2. Judges award each component a raw mark from 0 to 10 in increments of 0.25, with a mark of 5 being defined as "average". For each separate component, the raw marks are then selected, trimmed, and averaged in a manner akin to determining a grade of execution. The trimmed mean scores are then translated into a factored mark by multiplying by a factor that depends on the discipline, competition segment, and level. Then the five (or four) factored marks are added to give the final PCS score.
+
+The total element score and the program components score are added to give the total score for a competition segment (TSS). A skater's final placement is determined by the total of their scores in all segments of a competition. No ordinal rankings are used to determine the final results.
+                </string>
 				<key>Description</key>
 				<string>
 Team Events in figure skating are a competition between the best national teams. Representatives of the singles and pairs skating perform a short and free program; in ice dancing they complete a short and free dance. Each team may have one sports pair and one dance pair, one male figure skater and one female figure skating.
