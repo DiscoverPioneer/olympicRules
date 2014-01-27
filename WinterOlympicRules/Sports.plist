@@ -1983,7 +1983,23 @@ Equipment:
 				<key>Name</key>
 				<string>Team Events</string>
 				<key>Rules</key>
-				<string></string>
+				<string>
+Judged on following:
+
+Skating Skills
+Definition: Overall skating quality: edge control and flow over the ice surface demonstrated by a command of the skating vocabulary (edges, steps, turns, etc.), the clarity of technique and use of effortless power to accelerate and vary speed
+
+Transitions/Linking Footwork and Movement
+Definition: The varied and/or intricate footwork, positions, movements and holds that link all elements. In singles, pairs and synchronized skating, this also includes the entrances and exits of technical elements.
+
+Performance/Execution
+Definition: Performance is the involvement of the skater/couple/teams physically, emotionally and intellectually as they translate the intent of the music and choreography. Execution is the quality of movement and precision in delivery. This includes harmony of movement in pairs, ice dancing and synchronized skating.
+Choreography/Composition
+
+Definition: An intentional, developed and/or original arrangement of all types of movements according to the principles of proportion, unity, space, pattern, structure and phrasing.
+
+Interpretation
+Definition: The personal and creative translation of the music to movement on ice.</string>
 				<key>Description</key>
 				<string>
 Team Events in figure skating are a competition between the best national teams. Representatives of the singles and pairs skating perform a short and free program; in ice dancing they complete a short and free dance. Each team may have one sports pair and one dance pair, one male figure skater and one female figure skating.
@@ -2183,7 +2199,23 @@ Equipment:
 				<key>Name</key>
 				<string>Team Events</string>
 				<key>Rules</key>
-				<string></string>
+				<string>
+Judged on following:
+
+Skating Skills
+Definition: Overall skating quality: edge control and flow over the ice surface demonstrated by a command of the skating vocabulary (edges, steps, turns, etc.), the clarity of technique and use of effortless power to accelerate and vary speed
+
+Transitions/Linking Footwork and Movement
+Definition: The varied and/or intricate footwork, positions, movements and holds that link all elements. In singles, pairs and synchronized skating, this also includes the entrances and exits of technical elements.
+
+Performance/Execution
+Definition: Performance is the involvement of the skater/couple/teams physically, emotionally and intellectually as they translate the intent of the music and choreography. Execution is the quality of movement and precision in delivery. This includes harmony of movement in pairs, ice dancing and synchronized skating.
+Choreography/Composition
+
+Definition: An intentional, developed and/or original arrangement of all types of movements according to the principles of proportion, unity, space, pattern, structure and phrasing.
+
+Interpretation
+Definition: The personal and creative translation of the music to movement on ice.</string>
 				<key>Description</key>
 				<string>
 Team Events in figure skating are a competition between the best national teams. Representatives of the singles and pairs skating perform a short and free program; in ice dancing they complete a short and free dance. Each team may have one sports pair and one dance pair, one male figure skater and one female figure skating.
