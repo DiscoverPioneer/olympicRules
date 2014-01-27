@@ -48,7 +48,7 @@
     self.womensFilteredArray = [NSMutableArray arrayWithCapacity:[sportsArray count]];
 
     [self.sportSearchBar sizeToFit];
-    
+       
     UIImageView *imageView = [[UIImageView alloc] initWithFrame:self.view.frame];
    [imageView setImage:[UIImage imageNamed:@"Background"]];
     //imageView.alpha = .7;
@@ -185,7 +185,6 @@
         UIImage *backButtonImage = [[UIImage imageNamed:@"BackButton.png"] resizableImageWithCapInsets:UIEdgeInsetsMake(0, 13, 0, 6)];
        [self.navigationController.navigationItem.backBarButtonItem setBackButtonBackgroundImage:backButtonImage forState:UIControlStateNormal barMetrics:UIBarMetricsDefault];
         self.navigationItem.backBarButtonItem.tintColor = [UIColor whiteColor];
-
         
         NSIndexPath *indexPath = [self.searchDisplayController.searchResultsTableView indexPathForSelectedRow];
         if (indexPath.section==0) {
@@ -369,7 +368,7 @@
         
     }
     else if(indexPath.section==0){
-        cell.textLabel.text=@"Olympic Schedule";
+        cell.textLabel.text=@"Winter Games Schedule";
         cell.textLabel.textAlignment = NSTextAlignmentCenter;
         cell.textLabel.textColor = [UIColor whiteColor];
     }
