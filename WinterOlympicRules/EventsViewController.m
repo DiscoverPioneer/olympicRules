@@ -93,7 +93,11 @@
     if(section==0)
         return @"Men's Events";
     else
+        if ([womensArray count]>0){
         return @"Women's Events";
+        }else{
+            return 0;
+        }
 }
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
 {
@@ -118,7 +122,10 @@
         cell.textLabel.text = [[mensArray objectAtIndex:indexPath.row]objectForKey:@"Name"];
     }
     else{
+        
+        if ([womensArray count]>0){
         cell.textLabel.text = [[womensArray objectAtIndex:indexPath.row]objectForKey:@"Name"];
+        }
 
     }
     cell.textLabel.textAlignment = NSTextAlignmentCenter;
