@@ -11,9 +11,10 @@
 				<key>Name</key>
 				<string>Alpine Combined</string>
 				<key>Rules</key>
-				<string>These are the rules</string>
+				<string></string>
 				<key>Description</key>
-				<string>10km 
+				<string>
+10km
 12.5km pursuit
 14km mass start
 20km
@@ -21,7 +22,7 @@
 
 Combined events include one downhill run followed by two slalom runs. All times are added together and the fastest total time determines the winner. The downhill and the slalom of the combined event are run on different, shorter courses than the regular downhill and slalom events.
 
-The super combined (or &quot;super combi&quot;), consisting of a single run of slalom (which may be run first, but is usually not) and normally a shortened downhill run (or a super G run). This new format lessened the advantage of the slalom specialists in the event. In either type of combined event, the winner is the skier with the fastest aggregate time.
+The super combined is a single run of slalom on a shortened downhill run. The winner is the skier with the fastest aggregate time.
 
 
 Equipment:
@@ -60,7 +61,7 @@ Equipment:
 				<string></string>
 				<key>Description</key>
 				<string>
-Downhill races are designed to be the longest and ultimately generate the highest speed from the skiers. Each skier makes one run only. The skier with the fastest time is the winner. As in all Alpine events, skiers are timed to one hundredth of a second and any ties stand as that.
+Downhill races are designed to be the longest and generate the highest speed from the skiers. Each skier makes one run only. The skier with the fastest time is the winner. Skiers are timed to one hundredth of a second in all Alpine events and any ties stand as that.
                     
 A typical Downhill course begins at or near the top of the mountain on a piste that is closed off to the public and groomed specially for the race. Gates are farther apart.
 
@@ -73,7 +74,7 @@ The course is designed to challenge the best skiers:
                     
 Racers are allowed extensive preparation for the race, which includes daily course inspection and discussion with their coaches and teammates as well as several practice runs before the actual race. Racers do not make any unnecessary turns while on the course, and try to do everything they can to maintain the most aerodynamic position while negotiating turns and jumps.
                     
-Unlike Slalom and Giant Slalom, where racers have two combined times, the Downhill race is a single &quot;run.&quot; Times are typically between 1:30  and 2:30 minutes. Tenths and hundredths and, occasionally, thousandths of seconds count: medals have sometimes been decided by as little as one or two hundredths of a second, and ties are not unheard of.
+The Downhill race is a single &quot;run.&quot; Times are typically between 1:30  and 2:30 minutes. Tenths, hundredths and thousandths of seconds count: medals have been decided by as little as one or two hundredths of a second, and ties are possible.
                     
 Equipment:
                     
@@ -92,7 +93,7 @@ Equipment:
   • ski poles - for the downhill and
     super giant are curved
     allowing reduced air resistance
-                    during descent
+    during descent
   • skis - made of various materials
     (wood or composite fibers)
     individually crafted for each athlete
@@ -111,9 +112,9 @@ Equipment:
 				<string></string>
 				<key>Description</key>
 				<string>
-Giant slalom (GS) races are similar to the slalom races, but, there are fewer gates and wider turns are needed to navigate through them in the GS. As in slalom, skiers make two runs down two different courses on the same slope in the same day. The times of both runs are added together, and the fastest total time determines the winner. Giant slalom (GS) is an alpine skiing and alpine snowboarding discipline. It involves skiing between sets of poles (gates) spaced at a greater distance to each other than in slalom but less than in super-G.
+Giant slalom races are similar to the slalom races, but there are fewer gates and wider turns are required to navigate through them. As in slalom, skiers make two runs down two different courses on the same slope in the same day. The times of both runs are added together, and the fastest total time determines the winner.
                     
-Giant slalom and slalom make up the technical events in alpine ski racing. This category separates them from the speed events of super-G and downhill. The technical events are normally composed of two runs, held on different courses on the same ski run.The vertical drop for a GS course must be 250 - 450 metres (820 - 1476 ft) for men, 250 - 400 m (820 - 1312 ft) for women. The number of gates in this event is 56 - 70 for men and 46 - 58 for women. Although not the fastest event in skiing, on average a well trained racer may hit speeds of 50+ mph. Faster events such as super-G, can reach speeds 80+ mph, and slower events such as slalom averaging out at 25- mph.
+Giant slalom and slalom make up the technical events in alpine ski racing. This category separates them from the speed events of super-G and downhill. The technical events are normally composed of two runs, held on different courses on the same ski run.The vertical drop for a GS course must be 250 - 450 metres (820 - 1476 ft). The number of gates in this event is 56 - 70. A racer may hit speeds of 50+ mph. Faster events such as super-G, can reach speeds 80+ mph, and slower events such as slalom averaging out at 25- mph.
 
 Equipment:
 
@@ -152,10 +153,10 @@ Equipment:
 				<string></string>
 				<key>Description</key>
 				<string>
-Slalom races are traditionally the shortest race. They are comprised of close together turns or gates. Each competitor makes one run, then the course is reset on the same slope, but the position of the gates are changed. The same day, those skiers qualifying for the second run make their run. The fastest combined times of the two runs is the winner.
+Slalom races are traditionally the shortest race. They contain close turns or gates. Each competitor makes one run, then the course is reset on the same slope, but the position of the gates are changed. The same day, those skiers qualifying for the second run make their run. The fastest combined times of the two runs is the winner.
 
-The word &quot;Slalom&quot; is from the Morgedal/Seljord dialect of Norwegian: &quot;sla,&quot; meaning slightly inclining hillside, and &quot;lom,&quot; meaning track after skis. In the early 1980s, bamboo poles (also called &quot;gates&quot;) were replaced by hard plastic poles, hinged at the base. The rigid nature of the old-style bamboo gates had forced skiers to maneuver their entire body around each gate, while the hinged gates require only that the skis and boots of the skier (as the FIS rules state) go around each gate. The new gates allowed skiers to take a much more direct path down a slalom course through the process of &quot;cross-blocking&quot; or &quot;shinning&quot; the gates. Cross-blocking is a technique in which a skier&apos;s legs go around the gate with their upper body inclined toward, or even across, the gate; in this case the skier&apos;s outside pole and their shinguards hit the gate, knocking it down and out of the way. In the early 1990s, flags were removed completely from slalom gates in international competition.
-             
+The word &quot;Slalom&quot; is from the Morgedal/Seljord dialect of Norwegian: &quot;sla,&quot; meaning slightly inclining hillside, and &quot;lom,&quot; meaning track after skis. In the early 1980s, bamboo poles (also called &quot;gates&quot;) were replaced by hard plastic poles, hinged at the base. The rigid nature of the old-style bamboo gates had forced skiers to maneuver their entire body around each gate, while the hinged gates require only that the skis and boots of the skier (as the FIS rules state) go around each gate. The new gates allowed skiers to take a much more direct path down a slalom course through the process of &quot;cross-blocking&quot; or &quot;shinning&quot; the gates. Cross-blocking is a technique in which a skier&apos;s legs go around the gate with their upper body inclined toward, or even across, the gate; in this case the skier&apos;s outside pole and their shinguards hit the gate, knocking it down and out of the way.
+
 Equipment:
              
   • reinforced plastic boots
@@ -182,11 +183,7 @@ Equipment:
     additional accuracy at high speeds
   • skin-tight racing suits - made of
     materials that minimize air resistance.
-             
-                
-                
-                
-                
+    
                 </string>
 			</dict>
 			<dict>
@@ -196,7 +193,7 @@ Equipment:
 				<string></string>
 				<key>Description</key>
 				<string>
-Super-G is short for super giant slalom. Races are run on a course shorter than the downhill, but, longer than the GS. The skier with the fastest time over one run is the winner. a racing discipline of alpine skiing. Along with the faster downhill, it is regarded as a &quot;speed&quot; event, in contrast to the technical eventsgiant slalom and slalom
+Super-G is short for super giant slalom. Races are run on a course shorter than the downhill, but, longer than the GS. The skier with the fastest time over one run is the winner. Along with the faster downhill, it is regarded as a &quot;speed&quot; event, in contrast to the technical events giant slalom and slalom.
 
 Equipment:
              
@@ -235,9 +232,46 @@ Equipment:
 				<key>Name</key>
 				<string>Alpine Combined</string>
 				<key>Rules</key>
-				<string>Dont screw up</string>
+				<string></string>
 				<key>Description</key>
-				<string>Cool Sport</string>
+				<string>
+10km
+12.5km pursuit
+14km mass start
+20km
+4x7.5km relay
+
+Combined events include one downhill run followed by two slalom runs. All times are added together and the fastest total time determines the winner. The downhill and the slalom of the combined event are run on different, shorter courses than the regular downhill and slalom events.
+
+The super combined is a single run of slalom on a shortened downhill run. The winner is the skier with the fastest aggregate time.
+
+
+Equipment:
+
+  • reinforced plastic boots
+    specific to the competition discipline
+  • bindings - secure the skier&apos;s feet
+    to the skis
+  • gloves - made of leather or synthetic
+    material
+  • goggles - protect the eyes against
+    wind, snow, increased UV radiation
+    at high elevations, and glare from
+    the snow
+  • helmet  - protects athlete from
+    injury, should fit the head tightly
+  • ski poles - for the downhill and
+    super giant are curved
+    allowing reduced air resistance
+    during descent
+  • skis - made of various materials
+    (wood or composite fibers)
+    individually crafted for each athlete
+    downhill skis are 30% longer than
+    those used in the slalom, allows for
+    additional accuracy at high speeds
+  • skin-tight racing suits - made of
+    materials that minimize air resistance.</string>
 			</dict>
 			<dict>
 				<key>Name</key>
@@ -245,7 +279,48 @@ Equipment:
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
-				<string></string>
+				<string>
+Downhill races are designed to be the longest and generate the highest speed from the skiers. Each skier makes one run only. The skier with the fastest time is the winner. Skiers are timed to one hundredth of a second in all Alpine events and any ties stand as that.
+                    
+A typical Downhill course begins at or near the top of the mountain on a piste that is closed off to the public and groomed specially for the race. Gates are farther apart.
+
+The course is designed to challenge the best skiers:
+  • skiing at high speeds
+  • challenging turns, shallow dips,
+    flats, and small airs (jumps)
+    some jumps intended to complicate
+    the run
+                    
+Racers are allowed extensive preparation for the race, which includes daily course inspection and discussion with their coaches and teammates as well as several practice runs before the actual race. Racers do not make any unnecessary turns while on the course, and try to do everything they can to maintain the most aerodynamic position while negotiating turns and jumps.
+                    
+The Downhill race is a single &quot;run.&quot; Times are typically between 1:30  and 2:30 minutes. Tenths and hundredths and, occasionally, thousandths of seconds count: medals have be decided by as little as one or two hundredths of a second, and ties are possible.
+                    
+Equipment:
+                    
+  • reinforced plastic boots
+    specific to the competition discipline
+  • bindings - secure the skier&apos;s feet
+    to the skis
+  • gloves - made of leather or synthetic
+    material
+  • goggles - protect the eyes against
+    wind, snow, increased UV radiation
+    at high elevations, and glare from
+    the snow
+  • helmet  - protects athlete from
+    injury, should fit the head tightly
+  • ski poles - for the downhill and
+    super giant are curved
+    allowing reduced air resistance
+    during descent
+  • skis - made of various materials
+    (wood or composite fibers)
+    individually crafted for each athlete
+    downhill skis are 30% longer than
+    those used in the slalom, allows for
+    additional accuracy at high speeds
+  • skin-tight racing suits - made of
+    materials that minimize air resistance.</string>
 			</dict>
 			<dict>
 				<key>Name</key>
@@ -253,7 +328,37 @@ Equipment:
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
-				<string></string>
+				<string>
+Giant slalom races are similar to the slalom races, but there are fewer gates and wider turns are required to navigate through them. As in slalom, skiers make two runs down two different courses on the same slope in the same day. The times of both runs are added together, and the fastest total time determines the winner.
+                    
+Giant slalom and slalom make up the technical events in alpine ski racing. This category separates them from the speed events of super-G and downhill. The technical events are normally composed of two runs, held on different courses on the same ski run.The vertical drop for a GS course must be 250 - 400 m (820 - 1312 ft). The number of gates in this event is 46 - 58. A racer may hit speeds of 50+ mph. Faster events such as super-G, can reach speeds 80+ mph, and slower events such as slalom averaging out at 25- mph.
+
+Equipment:
+
+  • reinforced plastic boots
+    specific to the competition discipline
+  • bindings - secure the skier&apos;s feet
+    to the skis
+  • gloves - made of leather or synthetic
+    material
+  • goggles - protect the eyes against
+    wind, snow, increased UV radiation
+    at high elevations, and glare from
+    the snow
+  • helmet  - protects athlete from
+    injury, should fit the head tightly
+  • ski poles - for the downhill and
+    super giant are curved
+    allowing reduced air resistance
+    during descent
+  • skis - made of various materials
+    (wood or composite fibers)
+    individually crafted for each athlete
+    downhill skis are 30% longer than
+    those used in the slalom, allows for
+    additional accuracy at high speeds
+  • skin-tight racing suits - made of
+    materials that minimize air resistance.</string>
 			</dict>
 			<dict>
 				<key>Name</key>
@@ -261,7 +366,37 @@ Equipment:
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
-				<string></string>
+				<string>
+Slalom races are traditionally the shortest race. They contain close turns or gates. Each competitor makes one run, then the course is reset on the same slope, but the position of the gates are changed. The same day, those skiers qualifying for the second run make their run. The fastest combined times of the two runs is the winner.
+
+The word &quot;Slalom&quot; is from the Morgedal/Seljord dialect of Norwegian: &quot;sla,&quot; meaning slightly inclining hillside, and &quot;lom,&quot; meaning track after skis. In the early 1980s, bamboo poles (also called &quot;gates&quot;) were replaced by hard plastic poles, hinged at the base. The rigid nature of the old-style bamboo gates had forced skiers to maneuver their entire body around each gate, while the hinged gates require only that the skis and boots of the skier (as the FIS rules state) go around each gate. The new gates allowed skiers to take a much more direct path down a slalom course through the process of &quot;cross-blocking&quot; or &quot;shinning&quot; the gates. Cross-blocking is a technique in which a skier&apos;s legs go around the gate with their upper body inclined toward, or even across, the gate; in this case the skier&apos;s outside pole and their shinguards hit the gate, knocking it down and out of the way.
+
+Equipment:
+             
+  • reinforced plastic boots
+    specific to the competition discipline
+  • bindings - secure the skier&apos;s feet
+    to the skis
+  • gloves - made of leather or synthetic
+    material
+  • goggles - protect the eyes against
+    wind, snow, increased UV radiation
+    at high elevations, and glare from
+    the snow
+  • helmet  - protects athlete from
+    injury, should fit the head tightly
+  • ski poles - for the downhill and
+    super giant are curved
+    allowing reduced air resistance
+    during descent
+  • skis - made of various materials
+    (wood or composite fibers)
+    individually crafted for each athlete
+    downhill skis are 30% longer than
+    those used in the slalom, allows for
+    additional accuracy at high speeds
+  • skin-tight racing suits - made of
+    materials that minimize air resistance.</string>
 			</dict>
 			<dict>
 				<key>Name</key>
@@ -269,7 +404,35 @@ Equipment:
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
-				<string></string>
+				<string>
+Super-G is short for super giant slalom. Races are run on a course shorter than the downhill, but, longer than the GS. The skier with the fastest time over one run is the winner. Along with the faster downhill, it is regarded as a &quot;speed&quot; event, in contrast to the technical events giant slalom and slalom.
+
+Equipment:
+             
+  • reinforced plastic boots
+    specific to the competition discipline
+  • bindings - secure the skier&apos;s feet
+    to the skis
+  • gloves - made of leather or synthetic
+    material
+  • goggles - protect the eyes against
+    wind, snow, increased UV radiation
+    at high elevations, and glare from
+    the snow
+  • helmet  - protects athlete from
+    injury, should fit the head tightly
+  • ski poles - for the downhill and
+    super giant are curved
+    allowing reduced air resistance
+    during descent
+  • skis - made of various materials
+    (wood or composite fibers)
+    individually crafted for each athlete
+    downhill skis are 30% longer than
+    those used in the slalom, allows for
+    additional accuracy at high speeds
+  • skin-tight racing suits - made of
+    materials that minimize air resistance.</string>
 			</dict>
 		</array>
 	</dict>
@@ -305,7 +468,7 @@ For each shooting round, the biathlete must hit five targets; each missed target
     a penalty loop must be made for each
     of the targets left standing
 
-In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
+In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. Display screens will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
                     
 Equipment:
   • no equipment other than skis and
@@ -327,7 +490,7 @@ Equipment:
 				<string>12.5km Pursuit Biathlon</string>
 				<key>Rules</key>
 				<string>
-In a pursuit, biathletes&apos; starts are separated by their time differences from a previous race, most commonly a sprint. The contestant crossing the finish line first is the winner. The distance is 12.5 kilometres (7.8 mi) for men and 10 kilometres (6.2 mi) for women, skied over five laps; there are four shooting bouts (two prone, two standing, in that order), and each miss means a penalty loop of 150 m. The biathletes shoot on a first-come, first-served basis at the lane corresponding to the position they arrived for all shooting bouts.
+In a pursuit, biathletes&apos; starts are separated by their time differences from a previous race, most commonly a sprint. The contestant crossing the finish line first is the winner. The distance is 12.5 kilometres (7.8 mi), skied over five laps; there are four shooting bouts (two prone, two standing, in that order), and each miss means a penalty loop of 150 m. The biathletes shoot on a first-come, first-served basis at the lane corresponding to the position they arrived for all shooting bouts.
 
                 </string>
 				<key>Description</key>
@@ -350,7 +513,7 @@ For each shooting round, the biathlete must hit five targets; each missed target
     a penalty loop must be made for each
     of the targets left standing
 
-In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
+In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round.  A large display screens lists the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
                     
 Equipment:
   • no equipment other than skis and
@@ -372,8 +535,7 @@ Equipment:
 				<string>14km Mass Start Biathlon</string>
 				<key>Rules</key>
 				<string>
-In the mass start, all biathletes start at the same time and the first across the finish line wins. In this 15 kilometres (9.3 mi) or 12.5 kilometres (7.8 mi) for women competition, the distance is skied over five laps; there are four bouts of shooting (two prone, two standing, in that order) with the first shooting bout being at the lane corresponding to the competitor&apos;s bib number (Bib #10 shoots at lane #10 regardless of position in race), with the rest of the shooting bouts being on a first-come, first-served basis (If a competitor arrives at the lane in fifth place, they shoot at lane 5). As in sprint and pursuit, competitors must ski one 150 m penalty loop for each miss. Here again, to avoid unwanted congestion, World Cup Mass starts are held with only the 30 top ranking athletes on the start line (half that of the Pursuit as here all contestants start simultaneously).
-                </string>
+In the mass start, all biathletes start at the same time and the first across the finish line wins. In this 15 kilometres (9.3 mi), the distance is skied over five laps; there are four bouts of shooting (two prone, two standing, in that order) with the first shooting bout being at the lane corresponding to the competitor&apos;s bib number, with the rest of the shooting bouts being on a first-come, first-served basis. As in sprint and pursuit, competitors must ski one 150 m penalty loop for each miss.                 </string>
 				<key>Description</key>
 				<string>
 This event combines cross-country skiing and rifle shooting. A biathlon competition consists of a race in which contestants ski around a cross-country trial system, and where the total distance is broken up by either two or four shooting rounds, half in prone position, the other half standing. Depending on the shooting performance, extra distance or time is added to the contestant&apos;s total running distance/time. As in most races, the contestant with the shortest total time wins.
@@ -439,7 +601,7 @@ For each shooting round, the biathlete must hit five targets; each missed target
     a penalty loop must be made for each
     of the targets left standing
 
-In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
+In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
                     
 Equipment:
   • no equipment other than skis and
@@ -461,7 +623,7 @@ Equipment:
 				<string>4x7.5km Relay Biathlon</string>
 				<key>Rules</key>
 				<string>
-The relay teams consist of four biathletes, who each ski 7.5 kilometres (4.7 mi) (men) or 6 kilometres (3.7 mi) (women), each leg skied over three laps, with two shooting rounds; one prone, one standing. For every round of five targets there are eight bullets available, though the last three can only be single-loaded manually one at a time from spare round holders or bullets deposited by the competitor into trays or onto the mat at the firing line. If after eight bullets there are still misses, one 150 m penalty loop must be taken for each missed target remaining. The first-leg participants start all at the same time, and as in cross-country skiing relays, every athlete of a team must touch the team&apos;s next-leg participant to perform a valid changeover. On the first shooting stage of the first leg, the participant must shoot in the lane corresponding to their bib number (Bib #10 shoots at lane #10 regardless of position in race), then for the remainder of the relay, the relay team shoots on a first-come, first-served basis (arrive at the range in fifth place, shoot at lane 5).
+The relay teams consist of four biathletes, who each ski 7.5 kilometres (4.7 mi), each leg skied over three laps, with two shooting rounds; one prone, one standing. For every round of five targets there are eight bullets available, though the last three can only be single-loaded manually one at a time from spare round holders or bullets deposited by the competitor into trays or onto the mat at the firing line. If after eight bullets there are still misses, one 150 m penalty loop must be taken for each missed target remaining. The first-leg participants start all at the same time, and as in cross-country skiing relays, every athlete of a team must touch the team&apos;s next-leg participant to perform a valid changeover. On the first shooting stage of the first leg, the participant must shoot in the lane corresponding to their bib number, then for the remainder of the relay, the relay team shoots on a first-come, first-served basis.
 </string>
 				<key>Description</key>
 				<string>
@@ -483,7 +645,7 @@ For each shooting round, the biathlete must hit five targets; each missed target
     a penalty loop must be made for each
     of the targets left standing
 
-In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
+In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
                     
 Equipment:
   • no equipment other than skis and
@@ -507,7 +669,8 @@ Equipment:
 				<key>Name</key>
 				<string>10km Pursuit Biathlon</string>
 				<key>Rules</key>
-				<string></string>
+				<string>
+In a pursuit, biathletes&apos; starts are separated by their time differences from a previous race, most commonly a sprint. The contestant crossing the finish line first is the winner. The distance is 10 kilometres (6.2 mi), skied over five laps; there are four shooting bouts (two prone, two standing, in that order), and each miss means a penalty loop of 150 m. The biathletes shoot on a first-come, first-served basis at the lane corresponding to the position they arrived for all shooting bouts.</string>
 				<key>Description</key>
 				<string>
 This event combines cross-country skiing and rifle shooting. A biathlon competition consists of a race in which contestants ski around a cross-country trial system, and where the total distance is broken up by either two or four shooting rounds, half in prone position, the other half standing. Depending on the shooting performance, extra distance or time is added to the contestant&apos;s total running distance/time. As in most races, the contestant with the shortest total time wins.
@@ -528,7 +691,7 @@ For each shooting round, the biathlete must hit five targets; each missed target
     a penalty loop must be made for each
     of the targets left standing
 
-In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
+In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. Display screens will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
                     
 Equipment:
   • no equipment other than skis and
@@ -554,8 +717,8 @@ Equipment:
 				<string></string>
 				<key>Description</key>
 				<string>
-This event combines cross-country skiing and rifle shooting. A biathlon competition consists of a race in which contestants ski around a cross-country trial system, and where the total distance is broken up by either two or four shooting rounds, half in prone position, the other half standing. Depending on the shooting performance, extra distance or time is added to the contestant&apos;s total running distance/time. As in most races, the contestant with the shortest total time wins.
-                    
+In the mass start, all biathletes start at the same time and the first across the finish line wins. In this 12.5 kilometres (7.8 mi) competition, the distance is skied over five laps; there are four bouts of shooting (two prone, two standing, in that order) with the first shooting bout being at the lane corresponding to the competitor&apos;s bib number, with the rest of the shooting bouts being on a first-come, first-served basis. As in sprint and pursuit, competitors must ski one 150 m penalty loop for each miss.
+
 For each shooting round, the biathlete must hit five targets; each missed target must be &quot;atoned for&quot; in one of three ways, depending on the competition format:
                     
   • skiing around a 150 metres
@@ -572,7 +735,7 @@ For each shooting round, the biathlete must hit five targets; each missed target
     a penalty loop must be made for each
     of the targets left standing
 
-In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
+In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round.  A large display screens lists the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
                     
 Equipment:
   • no equipment other than skis and
@@ -616,7 +779,7 @@ For each shooting round, the biathlete must hit five targets; each missed target
     a penalty loop must be made for each
     of the targets left standing
 
-In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
+In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
                     
 Equipment:
   • no equipment other than skis and
@@ -642,7 +805,7 @@ Equipment:
 				<string></string>
 				<key>Description</key>
 				<string>
-This event combines cross-country skiing and rifle shooting. A biathlon competition consists of a race in which contestants ski around a cross-country trial system, and where the total distance is broken up by either two or four shooting rounds, half in prone position, the other half standing. Depending on the shooting performance, extra distance or time is added to the contestant&apos;s total running distance/time. As in most races, the contestant with the shortest total time wins.
+The relay teams consist of four biathletes, who each ski 6 kilometres (3.7 mi), each leg skied over three laps, with two shooting rounds; one prone, one standing. For every round of five targets there are eight bullets available, though the last three can only be single-loaded manually one at a time from spare round holders or bullets deposited by the competitor into trays or onto the mat at the firing line. If after eight bullets there are still misses, one 150 m penalty loop must be taken for each missed target remaining. The first-leg participants start all at the same time, and as in cross-country skiing relays, every athlete of a team must touch the team&apos;s next-leg participant to perform a valid changeover. On the first shooting stage of the first leg, the participant must shoot in the lane corresponding to their bib number, then for the remainder of the relay, the relay team shoots on a first-come, first-served basis.
                     
 For each shooting round, the biathlete must hit five targets; each missed target must be &quot;atoned for&quot; in one of three ways, depending on the competition format:
                     
@@ -660,7 +823,7 @@ For each shooting round, the biathlete must hit five targets; each missed target
     a penalty loop must be made for each
     of the targets left standing
 
-In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
+In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screen list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
                     
 Equipment:
   • no equipment other than skis and
@@ -704,7 +867,7 @@ For each shooting round, the biathlete must hit five targets; each missed target
     a penalty loop must be made for each
     of the targets left standing
 
-In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens commonly set up at biathlon arenas, as well as the information graphics shown as part of the TV picture, will typically list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
+In order to keep track of the contestants&apos; progress and relative standing throughout a race, split times (intermediate times) are taken at several points along the skiing track and upon finishing each shooting round. The large display screens list the split time of the fastest contestant at each intermediate point and the times and time differences to the closest runners-up.
                     
 Equipment:
   • no equipment other than skis and
@@ -1712,7 +1875,49 @@ Equipment:
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
-				<string></string>
+				<string>
+Olympic Figure Skating include:
+  • individual men’s and women’s events
+  • pairs events
+  • ice dancing
+  • team events
+  • only 5 sets of medals are awarded
+  
+Two sections:
+  • the short program
+    combines 7 prescribed elements
+    to music of the skater’s choice
+  • free skating
+    skaters perform an original arrangement
+    of techniques
+    to music of their choice
+  • compulsory elements -lifts, spirals,
+    throws and synchronized jumps
+  • critical to judging - couple working
+    as one, each movement mirrors the other
+
+Equipment:
+
+  • boots - made of thick, stiff leather
+    extra laces and wide tongues
+    provide the ankle with both flexibility
+    and support
+  • blades - high strength carbon-steel
+    concave grooves along their entire length
+    teeth in the toe of the blade to allow
+    pushing off when executing jumps
+  • suit - made of stretchable material
+    does not restrict the skater’s range
+    of movement
+    should correspond to the character of
+    musical selection and reflect theme
+    of program
+  • skating rink - 30 by 60 meters
+    plastic or sliding boards
+    thickness of the ice over entire surface
+    should not vary by more than 0.5 cm
+
+</string>
 			</dict>
 			<dict>
 				<key>Name</key>
