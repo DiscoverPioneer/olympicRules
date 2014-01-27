@@ -1814,7 +1814,24 @@ Dates:
 				<key>Name</key>
 				<string>Singles</string>
 				<key>Rules</key>
-				<string></string>
+				<string>
+Judged on following:
+
+Skating Skills
+Definition: Overall skating quality: edge control and flow over the ice surface demonstrated by a command of the skating vocabulary (edges, steps, turns, etc.), the clarity of technique and use of effortless power to accelerate and vary speed
+
+Transitions/Linking Footwork and Movement
+Definition: The varied and/or intricate footwork, positions, movements and holds that link all elements. In singles, pairs and synchronized skating, this also includes the entrances and exits of technical elements.
+
+Performance/Execution
+Definition: Performance is the involvement of the skater/couple/teams physically, emotionally and intellectually as they translate the intent of the music and choreography. Execution is the quality of movement and precision in delivery. This includes harmony of movement in pairs, ice dancing and synchronized skating.
+Choreography/Composition
+
+Definition: An intentional, developed and/or original arrangement of all types of movements according to the principles of proportion, unity, space, pattern, structure and phrasing.
+
+Interpretation
+Definition: The personal and creative translation of the music to movement on ice.
+</string>
 				<key>Description</key>
 				<string>
 Olympic Figure Skating include:
@@ -1861,7 +1878,23 @@ Equipment:
 				<key>Name</key>
 				<string>Pairs</string>
 				<key>Rules</key>
-				<string></string>
+				<string>
+Judged on following:
+
+Skating Skills
+Definition: Overall skating quality: edge control and flow over the ice surface demonstrated by a command of the skating vocabulary (edges, steps, turns, etc.), the clarity of technique and use of effortless power to accelerate and vary speed
+
+Transitions/Linking Footwork and Movement
+Definition: The varied and/or intricate footwork, positions, movements and holds that link all elements. In singles, pairs and synchronized skating, this also includes the entrances and exits of technical elements.
+
+Performance/Execution
+Definition: Performance is the involvement of the skater/couple/teams physically, emotionally and intellectually as they translate the intent of the music and choreography. Execution is the quality of movement and precision in delivery. This includes harmony of movement in pairs, ice dancing and synchronized skating.
+Choreography/Composition
+
+Definition: An intentional, developed and/or original arrangement of all types of movements according to the principles of proportion, unity, space, pattern, structure and phrasing.
+
+Interpretation
+Definition: The personal and creative translation of the music to movement on ice.</string>
 				<key>Description</key>
 				<string>
 Olympic Figure Skating include:
@@ -1911,9 +1944,40 @@ Equipment:
 				<key>Name</key>
 				<string>Ice Dancing</string>
 				<key>Rules</key>
-				<string></string>
+				<string>
+Ice Dancing exception, pattern dance:
+In ice dancing, the pattern dance(s) are scored on only four program components: skating skills, performance/execution, interpretation (see above), as well as a unique component: timing.
+
+Timing
+Definition: The ability of the couple to skate strictly in time with the music and to reflect the rhythm patterns and prescribed beat values of the pattern dance.
+
+The Total Element Score is added together to the Program Components Score, which are factored differently for the different disciplines (see below). Deductions are taken for rule violations. The result is the segment score.</string>
 				<key>Description</key>
-				<string></string>
+				<string>
+Ice Dancing is the only discipline that allows the use of music with vocals. Dancers much adhere closely to the rhythm of the music and express the character of the music with appropriate emotion and feeling.
+
+At present, ice dancing competitions, like those of other forms of figure skating, consist of two programs. The short program combines a compulsory dance—consisting of one or two parts—and certain proscribed elements. The theme and rhythm of the musical accompaniment is determined each season by the ISU the sport’s governing body, while the length of this dance—currently 2 minutes and 50 seconds—is similar to requirements of other forms of figure skating. The free dance has not undergone significant changes over the years and the basis of its scoring remains, the quality of the compulsory elements in close dancing positions, the unison the skaters display and their ability to express the character of the musical selection.
+
+Equipment:
+
+  • boots - made of thick, stiff leather
+    extra laces and wide tongues
+    provide the ankle with both flexibility
+    and support
+  • blades - high strength carbon-steel
+    concave grooves along their entire length
+    teeth in the toe of the blade to allow
+    pushing off when executing jumps
+  • suit - made of stretchable material
+    does not restrict the skater’s range
+    of movement
+    should correspond to the character of
+    musical selection and reflect theme
+    of program
+  • skating rink - 30 by 60 meters
+    plastic or sliding boards
+    thickness of the ice over entire surface
+    should not vary by more than 0.5 cm</string>
 			</dict>
 			<dict>
 				<key>Name</key>
@@ -1921,7 +1985,29 @@ Equipment:
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
-				<string></string>
+				<string>
+Team Events in figure skating are a competition between the best national teams. Representatives of the singles and pairs skating perform a short and free program; in ice dancing they complete a short and free dance. Each team may have one sports pair and one dance pair, one male figure skater and one female figure skating.
+
+Equipment:
+
+  • boots - made of thick, stiff leather
+    extra laces and wide tongues
+    provide the ankle with both flexibility
+    and support
+  • blades - high strength carbon-steel
+    concave grooves along their entire length
+    teeth in the toe of the blade to allow
+    pushing off when executing jumps
+  • suit - made of stretchable material
+    does not restrict the skater’s range
+    of movement
+    should correspond to the character of
+    musical selection and reflect theme
+    of program
+  • skating rink - 30 by 60 meters
+    plastic or sliding boards
+    thickness of the ice over entire surface
+    should not vary by more than 0.5 cm</string>
 			</dict>
 		</array>
 		<key>Womens</key>
@@ -1930,7 +2016,23 @@ Equipment:
 				<key>Name</key>
 				<string>Singles</string>
 				<key>Rules</key>
-				<string></string>
+				<string>
+Judged on following:
+
+Skating Skills
+Definition: Overall skating quality: edge control and flow over the ice surface demonstrated by a command of the skating vocabulary (edges, steps, turns, etc.), the clarity of technique and use of effortless power to accelerate and vary speed
+
+Transitions/Linking Footwork and Movement
+Definition: The varied and/or intricate footwork, positions, movements and holds that link all elements. In singles, pairs and synchronized skating, this also includes the entrances and exits of technical elements.
+
+Performance/Execution
+Definition: Performance is the involvement of the skater/couple/teams physically, emotionally and intellectually as they translate the intent of the music and choreography. Execution is the quality of movement and precision in delivery. This includes harmony of movement in pairs, ice dancing and synchronized skating.
+Choreography/Composition
+
+Definition: An intentional, developed and/or original arrangement of all types of movements according to the principles of proportion, unity, space, pattern, structure and phrasing.
+
+Interpretation
+Definition: The personal and creative translation of the music to movement on ice.</string>
 				<key>Description</key>
 				<string>
 Olympic Figure Skating include:
@@ -1976,7 +2078,23 @@ Equipment:
 				<key>Name</key>
 				<string>Pairs</string>
 				<key>Rules</key>
-				<string></string>
+				<string>
+Judged on following:
+
+Skating Skills
+Definition: Overall skating quality: edge control and flow over the ice surface demonstrated by a command of the skating vocabulary (edges, steps, turns, etc.), the clarity of technique and use of effortless power to accelerate and vary speed
+
+Transitions/Linking Footwork and Movement
+Definition: The varied and/or intricate footwork, positions, movements and holds that link all elements. In singles, pairs and synchronized skating, this also includes the entrances and exits of technical elements.
+
+Performance/Execution
+Definition: Performance is the involvement of the skater/couple/teams physically, emotionally and intellectually as they translate the intent of the music and choreography. Execution is the quality of movement and precision in delivery. This includes harmony of movement in pairs, ice dancing and synchronized skating.
+Choreography/Composition
+
+Definition: An intentional, developed and/or original arrangement of all types of movements according to the principles of proportion, unity, space, pattern, structure and phrasing.
+
+Interpretation
+Definition: The personal and creative translation of the music to movement on ice.</string>
 				<key>Description</key>
 				<string>
 Olympic Figure Skating include:
@@ -2026,9 +2144,40 @@ Equipment:
 				<key>Name</key>
 				<string>Ice Dancing</string>
 				<key>Rules</key>
-				<string></string>
+				<string>
+Ice Dancing exception, pattern dance:
+In ice dancing, the pattern dance(s) are scored on only four program components: skating skills, performance/execution, interpretation (see above), as well as a unique component: timing.
+
+Timing
+Definition: The ability of the couple to skate strictly in time with the music and to reflect the rhythm patterns and prescribed beat values of the pattern dance.
+
+The Total Element Score is added together to the Program Components Score, which are factored differently for the different disciplines (see below). Deductions are taken for rule violations. The result is the segment score.</string>
 				<key>Description</key>
-				<string></string>
+				<string>
+Ice Dancing is the only discipline that allows the use of music with vocals. Dancers much adhere closely to the rhythm of the music and express the character of the music with appropriate emotion and feeling.
+
+At present, ice dancing competitions, like those of other forms of figure skating, consist of two programs. The short program combines a compulsory dance—consisting of one or two parts—and certain proscribed elements. The theme and rhythm of the musical accompaniment is determined each season by the ISU the sport’s governing body, while the length of this dance—currently 2 minutes and 50 seconds—is similar to requirements of other forms of figure skating. The free dance has not undergone significant changes over the years and the basis of its scoring remains, the quality of the compulsory elements in close dancing positions, the unison the skaters display and their ability to express the character of the musical selection.
+
+Equipment:
+
+  • boots - made of thick, stiff leather
+    extra laces and wide tongues
+    provide the ankle with both flexibility
+    and support
+  • blades - high strength carbon-steel
+    concave grooves along their entire length
+    teeth in the toe of the blade to allow
+    pushing off when executing jumps
+  • suit - made of stretchable material
+    does not restrict the skater’s range
+    of movement
+    should correspond to the character of
+    musical selection and reflect theme
+    of program
+  • skating rink - 30 by 60 meters
+    plastic or sliding boards
+    thickness of the ice over entire surface
+    should not vary by more than 0.5 cm</string>
 			</dict>
 			<dict>
 				<key>Name</key>
@@ -2036,7 +2185,29 @@ Equipment:
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
-				<string></string>
+				<string>
+Team Events in figure skating are a competition between the best national teams. Representatives of the singles and pairs skating perform a short and free program; in ice dancing they complete a short and free dance. Each team may have one sports pair and one dance pair, one male figure skater and one female figure skating.
+
+Equipment:
+
+  • boots - made of thick, stiff leather
+    extra laces and wide tongues
+    provide the ankle with both flexibility
+    and support
+  • blades - high strength carbon-steel
+    concave grooves along their entire length
+    teeth in the toe of the blade to allow
+    pushing off when executing jumps
+  • suit - made of stretchable material
+    does not restrict the skater’s range
+    of movement
+    should correspond to the character of
+    musical selection and reflect theme
+    of program
+  • skating rink - 30 by 60 meters
+    plastic or sliding boards
+    thickness of the ice over entire surface
+    should not vary by more than 0.5 cm</string>
 			</dict>
 		</array>
 	</dict>
