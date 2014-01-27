@@ -20,20 +20,7 @@
 {
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
     if (self) {
-        // Custom initialization
-        //Set BackButton Background
-        //UIImage *backButtonImage = [[UIImage imageNamed:@"BackButton.png"] resizableImageWithCapInsets:UIEdgeInsetsMake(0, 13, 0, 6)];
-        //[self.navigationController.navigationItem.backBarButtonItem setBackButtonBackgroundImage:backButtonImage forState:UIControlStateNormal barMetrics:UIBarMetricsDefault];
-        //[[UIBarButtonItem appearance]setBackButtonBackgroundImage:backButtonImage forState:UIControlStateNormal barMetrics:UIBarMetricsDefault];
-        
-        
-        
-        //Background
-        /*UIImageView *imageView = [[UIImageView alloc] initWithFrame:self.view.frame];
-        [imageView setImage:[UIImage imageNamed:@"Background"]];
-        [self.view addSubview:imageView];
-        self.view.backgroundColor = [UIColor clearColor];*/
-    }
+          }
     return self;
 }
 
@@ -52,32 +39,22 @@
         completeString = [NSString stringWithFormat:@"                           Description:\n%@\n",self.descriptionString];
     }
         
-    
-    //completeString = [NSString stringWithFormat:@"                           Description:\n%@\n\n                          Competition:\n%@",self.descriptionString,self.ruleString];
+     UIFont *boldItalic = [UIFont fontWithName:@"Arial-BoldItalicMT" size:15];
    
-    //UIFont *italic = [UIFont italicSystemFontOfSize:14.0f];
-    //UIFont *boldItalic = [UIFont fontWithName:@"Trebuchet-BoldItalic" size:14];
-    UIFont *boldItalic = [UIFont fontWithName:@"Arial-BoldItalicMT" size:15];
-    //UIFont *otherItalic = [UIFont italicSystemFontOfSize:12.0];
     NSMutableAttributedString *mutable = [[NSMutableAttributedString alloc] initWithString:completeString];
     [mutable addAttribute:NSFontAttributeName value:[UIFont fontWithName:@"ArialMT" size:15] range:[completeString rangeOfString:completeString]];
     
-    //[mutable addAttribute:NSForegroundColorAttributeName value:[UIColor colorWithRed: 255.0/255.0f green:255.0/255.0f blue:255.0/255.0f alpha:1.0] range:[completeString rangeOfString:completeString]];
-    [mutable addAttribute:NSForegroundColorAttributeName value:[UIColor whiteColor] range:[completeString rangeOfString:completeString]];
+     [mutable addAttribute:NSForegroundColorAttributeName value:[UIColor whiteColor] range:[completeString rangeOfString:completeString]];
     
     
     NSArray *headers;
     headers = @[@"Date:",@"Individual Events:",@"Team Events:",@"Qualifying Heats:",@"Finals:",@"Medal Round:",@"Relay Setup:",@"Disqualification:",@"Sled:",@"Competition:", @"Equipment:", @"Description:", @"Equipment:", @"Dates:", @"Procedure:", @"Scoring:"];
     for (NSString *string in headers) {
         [mutable addAttribute:NSFontAttributeName value:[UIFont fontWithName:@"Arial-BoldMT" size:15] range:[completeString rangeOfString:string]];
-        //[mutable addAttribute:NSFontAttributeName value:[UIFont boldSystemFontOfSize:14] range:[completeString rangeOfString:string]];
-    }
+          }
     
 // Adding bullets to string
     NSString *bullet = @"•";
-    //NSRange bulletText = [completeString rangeOfString:bullet];
-    //[mutable addAttribute:NSForegroundColorAttributeName value:[UIColor colorWithRed: 150.0/255.0f green:70.0/255.0f blue:140.0/255.0f alpha:1.0] range:bulletText];
-    //UIColor * bulletColor = [UIColor colorWithRed:0.0/255.0f green:70.0/255.0f blue:150.0/255.0f alpha:0.85];
     
     NSUInteger count = 0, length = [completeString length];
     NSRange range = NSMakeRange(0, length);
@@ -93,26 +70,15 @@
     }
     
   //End adding bullets
-        
-    
+   
     [mutable addAttribute:NSFontAttributeName value:boldItalic range:[completeString rangeOfString:@"sled   "]];
-
-    /*[mutable addAttribute:NSFontAttributeName value:[UIFont fontWithName:@"HelveticaNeue-Bold" size:12] range:[completeString rangeOfString:@"Scoring:"]];*/
-    
-    
     
     [self.textView setTintColor:[UIColor lightTextColor]];
     self.textView.textAlignment = NSTextAlignmentJustified;
 
     [self.textView setAttributedText:mutable];
-    //self.textView.text=bulletList;
     
-    
-
-   
 }
-
-
 
 - (void)didReceiveMemoryWarning
 {

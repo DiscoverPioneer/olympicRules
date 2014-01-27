@@ -24,14 +24,6 @@
 {
     self = [super initWithStyle:style];
     if (self) {
-        // Custom initialization
-        //Set BackButton Background
-        //UIImage *backButtonImage = [[UIImage imageNamed:@"BackButton.png"] resizableImageWithCapInsets:UIEdgeInsetsMake(0, 13, 0, 6)];
-        //[[UIBarButtonItem appearance]setBackButtonBackgroundImage:backButtonImage forState:UIControlStateNormal barMetrics:UIBarMetricsDefault];
-        //[[UIBarButtonItem appearance]setBackButtonBackgroundImage:backButtonImage forState:UIControlStateReserved barMetrics:UIBarMetricsDefault];
-      //[self.navigationController.navigationItem.backBarButtonItem setBackButtonBackgroundImage:backButtonImage forState:UIControlStateNormal barMetrics:UIBarMetricsDefault];
-        //self.navigationItem.backBarButtonItem.tintColor = [UIColor whiteColor];
-
         
     }
     return self;
@@ -43,7 +35,7 @@
     
     NSString *path =[[NSBundle mainBundle]pathForResource:@"Sports" ofType:@"plist"];
     sportsArray = [[NSMutableArray alloc] initWithContentsOfFile:path];
-    // Initialize the filteredCandyArray with a capacity equal to the candyArray's capacity
+    
     self.mensFilteredArray = [NSMutableArray arrayWithCapacity:[sportsArray count]];
     self.womensFilteredArray = [NSMutableArray arrayWithCapacity:[sportsArray count]];
 
@@ -51,39 +43,16 @@
        
     UIImageView *imageView = [[UIImageView alloc] initWithFrame:self.view.frame];
    [imageView setImage:[UIImage imageNamed:@"Background"]];
-    //imageView.alpha = .7;
-    self.tableView.backgroundView = imageView;
-    //imageView.backgroundColor=[UIColor colorWithHue:.1 saturation:.3 brightness:.9 alpha:.5];
-
+     self.tableView.backgroundView = imageView;
     
-    //self.tableView.opaque = NO;
-    //self.tableView.alpha = .5;
-
-    //self.tableView.backgroundColor = [UIColor colorWithHue:.5 saturation:1 brightness:.5 alpha:.9];//[UIColor clearColor];
-    
-   
-    
-  
-    
-   
-    
-   
     // Hide the search bar until user scrolls up
     CGRect newBounds = self.tableView.bounds;
     newBounds.origin.y = newBounds.origin.y + self.sportSearchBar.bounds.size.height;
     self.tableView.bounds = newBounds;
 }
 
-/*- (void)tableView:(UITableView *)tableView willDisplayCell:(UITableViewCell *)cell forRowAtIndexPath:(NSIndexPath *)indexPath {
-    [cell setBackgroundColor:[UIColor clearColor]];
-    [cell setTintColor:[UIColor clearColor]];
-    
-}*/
-
 -(IBAction)goToSearch:(id)sender{
-    
-    // If you're worried that your users might not catch on to the fact that a search bar is available if they scroll to reveal it, a search icon will help them
-    // If you don't hide your search bar in your app, don’t include this, as it would be redundant
+   
     [self.tableView scrollRectToVisible:CGRectMake(0, 0, 1, 1) animated:NO];
 
     [self.sportSearchBar becomeFirstResponder];
@@ -101,18 +70,7 @@
     // Remove all objects from the filtered search array
     [self.mensFilteredArray removeAllObjects];
     [self.womensFilteredArray removeAllObjects];
-
-    // Filter the array using NSPredicate
-   // NSPredicate*p= [NSPredicate predicateWithFormat:@"ANY %K LIKE[cd] %@",@"Sport",[searchText stringByAppendingString:@"*"]];
-
-    //NSPredicate *predicate1 = [NSPredicate predicateWithFormat:@"SELF.Sport CONTAINS[cd] %@",searchText];
-    //NSPredicate *predicate2 = [NSPredicate predicateWithFormat:@"Mens[0].Name CONTAINS[cd]  %@",searchText];
-
-   // NSPredicate * andPredicate = [NSCompoundPredicate andPredicateWithSubpredicates:[NSArray arrayWithObjects:predicate1,predicate2,nil]];
-
-    
-    
-    
+   
     searchText = [searchText lowercaseString];
 
     
@@ -144,11 +102,7 @@
             //Do the comparison here
         }
     }
-    //NSLog(@"Count=%lu",(unsigned long)self.womensFilteredArray.count);
-    
-    
-
-    
+   
 }
 #pragma mark - UISearchDisplayController Delegate Methods
 
@@ -157,9 +111,7 @@
     // Tells the table data source to reload when text changes
     [self filterContentForSearchText:searchString scope:
      [[self.searchDisplayController.searchBar scopeButtonTitles] objectAtIndex:[self.searchDisplayController.searchBar selectedScopeButtonIndex]]];
-    
-    
-    
+   
     // Return YES to cause the search result table view to be reloaded.
     return YES;
 }
@@ -176,7 +128,6 @@
 {
     
 }
-
 
 -(void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender{
     if (sender == self.searchDisplayController.searchResultsTableView) {
@@ -224,22 +175,10 @@
         
     }
     
-    
-    
-
 }
 
 -(void)searchDisplayController:(UISearchDisplayController *)controller didLoadSearchResultsTableView:(UITableView *)tableView {
-    
-    //UIImageView *imageView = [[UIImageView alloc] initWithFrame:self.view.frame];
-    //[imageView setImage:[UIImage imageNamed:@"Background"]];
-    //imageView.alpha = .2;
-    //tableView.backgroundView = imageView;
-    
-    //tableView.backgroundColor = self.tableView.backgroundColor;
-    //tableView.separatorColor = self.tableView.separatorColor;
-    //tableView.opaque=YES;
-    //tableView.tintColor = self.tableView.tintColor;
+ 
     
 }
 
@@ -268,10 +207,8 @@
     label.backgroundColor = [UIColor lightTextColor];
     label.textColor = [UIColor blackColor];
     label.alpha = 0.8;
-    //label.shadowColor = [UIColor grayColor];
-    //label.shadowOffset = CGSizeMake(-1.0, 1.0);
     label.font = [UIFont boldSystemFontOfSize:14];
-    //label.font = [UIFont fontWithName:@"ArialMT" size:15];
+
     label.text = sectionTitle;
     
     UIView *view = [[UIView alloc] init];
@@ -350,10 +287,6 @@
         cell.backgroundView.frame = cell.bounds;
         
         if (indexPath.section==0){
-
-            
-            //self.searchDisplayController.searchResultsTableView.backgroundColor=gray;
-            //cell.backgroundColor = [UIColor lightTextColor];
            
             cell.textLabel.text=[[self.mensFilteredArray objectAtIndex:indexPath.row]objectForKey:@"Name"];}
         else
@@ -392,21 +325,6 @@
     
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 - (void)didReceiveMemoryWarning
 {

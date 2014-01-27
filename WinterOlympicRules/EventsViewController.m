@@ -21,11 +21,7 @@
 {
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
     if (self) {
-        // Custom initialization
-        //Set BackButton Background
-        //UIImage *backButtonImage = [[UIImage imageNamed:@"BackButton.png"] resizableImageWithCapInsets:UIEdgeInsetsMake(0, 13, 0, 6)];
-        //[[UIBarButtonItem appearance]setBackButtonBackgroundImage:backButtonImage forState:UIControlStateNormal barMetrics:UIBarMetricsDefault];
-       // [self.navigationController.navigationItem.backBarButtonItem setBackButtonBackgroundImage:backButtonImage forState:UIControlStateNormal barMetrics:UIBarMetricsDefault];
+      
     }
     return self;
 }
@@ -40,12 +36,8 @@
     
     UIImageView *imageView = [[UIImageView alloc] initWithFrame:self.view.frame];
     [imageView setImage:[UIImage imageNamed:@"Background"]];
-    //imageView.alpha = .7;
+ 
     self.tableView.backgroundView = imageView;
-    
-    
-    
-    
     
 }
 
@@ -74,10 +66,8 @@
     label.backgroundColor = [UIColor lightTextColor];
     label.textColor = [UIColor blackColor];
     label.alpha = 0.7;
-    //label.shadowColor = [UIColor grayColor];
-    //label.shadowOffset = CGSizeMake(-1.0, 1.0);
     label.font = [UIFont boldSystemFontOfSize:14];
-    //label.font = [UIFont fontWithName:@"ArialMT" size:15];
+   
     label.text = sectionTitle;
     
     UIView *view = [[UIView alloc] init];
@@ -158,13 +148,6 @@
         
     }
 }
-
-
-
-
-
-
-
 
 - (void)didReceiveMemoryWarning
 {
