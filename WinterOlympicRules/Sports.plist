@@ -2017,86 +2017,332 @@ Equipment:
 		<array>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Aerials </string>
 				<key>Rules</key>
-				<string></string>
+				<string>Scoring:
+Skiers are judged on a cumulative score of two jumps. These scores do not generally carry over to the next round.
+Based on jump takeoff (20%)
+Jump Form (50%)
+Landing (30%)
+A degree of difficulty (DD) is then factored in for a total score.
+</string>
 				<key>Description</key>
-				<string></string>
+				<string>Freestyle Skiing is a form of skiing which originally encompassed three disciplines: aerials, moguls, and ski ballet. Today, freestyle skiing consists of aerial, moguls, skicross, boardercross, Ski half-pipe, Snowboard half-pipe and Slopestyle and have become part of the Olympics.
+Freestyle skiing first began to be contested seriously in the 1960s and early 1970s, when it was often known as &quot;hot-dogging.&quot; Bob Burns, who later went on to create The Ski brand skis, pioneered this style in Sun Valley, Idaho, beginning in 1965. Freestyle skiing began in the 1930s, when Norwegian skiers began performing acrobatics during alpine and cross-country training. Later, non-competitive professional skiing exhibitions in the United States featured performances of what would later be called freestyle. Aerial skiing was developed in about 1950 by Olympic gold medalist Stein Eriksen.
+
+Aerials:
+Aerialists ski off 2-4 meter jumps, built completely out of snow using a wood form during the construction period, that propel them up to 6 meters in the air (which can be up to 20 meters above the landing height, given the landing slope).[2] Once in the air, professional aerialists perform multiple somersaults and twists before landing on a 34 to 39-degree inclined landing hill about 30 meters in length. 
+There are two varieties of aerial skiing competitions: upright and inverted. In upright aerials, movements in which a skier&apos;s feet come higher than his or her head are illegal. This is the most common type of aerials competition for junior competitors. In inverted aerials, skiers execute elaborate somersaults and twists. 
+
+Equipment:
+Skis
+Ski Poles
+Helmet
+Boots
+Ski Wear
+</string>
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Moguls</string>
 				<key>Rules</key>
-				<string></string>
+				<string>Scoring:
+Each run will be judged on two components by a panel of seven judges using a split scoring system. In addition, each run will be timed, with speed making up the remainder of a competitor’s score.
+Based on Turns (50%)
+Air (25)
+Speed (25%)
+</string>
 				<key>Description</key>
-				<string></string>
+				<string>Freestyle Skiing is a form of skiing which originally encompassed three disciplines: aerials, moguls, and ski ballet. Today, freestyle skiing consists of aerial, moguls, skicross, boardercross, Ski half-pipe, Snowboard half-pipe and Slopestyle and have become part of the Olympics.
+Freestyle skiing first began to be contested seriously in the 1960s and early 1970s, when it was often known as &quot;hot-dogging.&quot; Bob Burns, who later went on to create The Ski brand skis, pioneered this style in Sun Valley, Idaho, beginning in 1965. Freestyle skiing began in the 1930s, when Norwegian skiers began performing acrobatics during alpine and cross-country training. Later, non-competitive professional skiing exhibitions in the United States featured performances of what would later be called freestyle. Aerial skiing was developed in about 1950 by Olympic gold medalist Stein Eriksen.
+
+MOGUL:
+Moguls are a series of bumps on a trail formed when skiers push the snow into mounds or piles as they execute short-radius turns. They can also be constructed (seeded) on a slope for freestyle skiing competitions or practice runs. Once formed, a naturally occurring mogul tends to grow as skiers follow similar paths around it, further deepening the surrounding grooves known as troughs. Since skiing tends to be a series of linked turns, moguls form together to create a bump field. At most ski resorts certain pistes (trails) are groomed infrequently or left completely ungroomed to allow moguls to develop. These mogul trails are generally relatively steep. Some trails cannot be groomed because they are too steep, too narrow, or they have obstacles that cannot be overcome by a snowcat. Such trails often form moguls. Mogul trails that can be groomed are usually groomed when the moguls get so big and the troughs so deep that the moguls become difficult to ski on or around. Some mogul fields are also groomed when they become too icy or too hardened to ski safely and enjoyably. Many times a section of a trail will be left ungroomed and allowed to bump up to prevent skiers from gaining too much speed and getting out of control.
+
+
+Equipment:
+Skis
+Ski Poles
+Helmet
+Boots
+Ski Wear
+</string>
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Ski Cross</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
-				<string></string>
+				<string>Freestyle Skiing is a form of skiing which originally encompassed three disciplines: aerials, moguls, and ski ballet. Today, freestyle skiing consists of aerial, moguls, skicross, boardercross, Ski half-pipe, Snowboard half-pipe and Slopestyle and have become part of the Olympics.
+Freestyle skiing first began to be contested seriously in the 1960s and early 1970s, when it was often known as &quot;hot-dogging.&quot; Bob Burns, who later went on to create The Ski brand skis, pioneered this style in Sun Valley, Idaho, beginning in 1965. Freestyle skiing began in the 1930s, when Norwegian skiers began performing acrobatics during alpine and cross-country training. Later, non-competitive professional skiing exhibitions in the United States featured performances of what would later be called freestyle. Aerial skiing was developed in about 1950 by Olympic gold medalist Stein Eriksen.
+
+SKI CROSS:
+Ski cross (also known as Skiercross or SkierX) is a type of skiing competition. It is based on the snowboarding discipline of boardercross. Despite it being a timed racing event, it is often considered part of freestyle skiing because it incorporates terrain features traditionally found in freestyle.
+In a time trial or qualification round, every competitor skis down the course, which is built to encompass both naturally occurring terrain and artificial features like jumps, rollers, banks — whatever the course builder can imagine. After the time trial, the fastest 32 skiers (fastest 16 if not 32 competitors) compete in a knockout (KO)-style series in rounds of four. A group of four skiers start simultaneously and attempt to reach the end of the course. The first two to cross the finish line will advance to the next round. At the end, the final and small final rounds determine 1st to 4th and 5th to 8th places, respectively.
+Competitors are not allowed to pull or push each other during the KO finals. Any intentional contact to the other competitors will be penalized by disqualification or exclusion from the next race.
+Ski cross is a new Olympic event and is currently under the banner of Freestyle skiing even though it is a race without a judged component.
+
+
+Equipment:
+Skis
+Ski Poles
+Helmet
+Boots
+Ski Wear
+</string>
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Halfpipe</string>
 				<key>Rules</key>
-				<string></string>
+				<string>Scoring:
+Amplitude: How much air athletes get out of the pipe
+DD: The degree of difficulty of the tricks they perform
+Execution: How well the athletes perform their tricks
+Overall: The whole package, including the athlete’s personality and style. This includes the grabs and positions that athletes add to the tricks to make them their own
+</string>
 				<key>Description</key>
-				<string></string>
+				<string>Freestyle Skiing is a form of skiing which originally encompassed three disciplines: aerials, moguls, and ski ballet. Today, freestyle skiing consists of aerial, moguls, skicross, boardercross, Ski half-pipe, Snowboard half-pipe and Slopestyle and have become part of the Olympics.
+Freestyle skiing first began to be contested seriously in the 1960s and early 1970s, when it was often known as &quot;hot-dogging.&quot; Bob Burns, who later went on to create The Ski brand skis, pioneered this style in Sun Valley, Idaho, beginning in 1965. Freestyle skiing began in the 1930s, when Norwegian skiers began performing acrobatics during alpine and cross-country training. Later, non-competitive professional skiing exhibitions in the United States featured performances of what would later be called freestyle. Aerial skiing was developed in about 1950 by Olympic gold medalist Stein Eriksen.
+
+Halfpipe
+Ski halfpipe makes its Olympic debut in 2014
+Halfpipes originated from surfing and then skateboarding when surfers in California decided that trying to skate in some huge storm drains and empty swimming pools might be a fun thing to do when the waves weren’t pumping. This eventually evolved into skate-specific halfpipe so the athletes could “drop in” (start off on the lip of the pipe).
+Skateboarding moved over to the white waves when the snowboard was introduced and the boarders decided they wanted to bring what they had perfected on concrete over to the snow. To make a long story short, skiers saw the boarders flying out of the pipe and felt the desire to go higher. Voila! A new discipline was born.
+As the sport has evolved, so have the tricks. Whereas a few years ago 1 1/2 spins and a bunch of grabs were the tricks of the day, now it is not uncommon to see two or three tricks involving two-and-a-half spins as well as double flips or variations of singles in one run. To match the evolution of the tricks, the pipe has been getting bigger and the standard competition pipe is now 22 meters wide..
+Pipe Specs (Average)
+Length: 150 meters
+Slope: 16 degrees
+Vertical incline: 83 degrees
+Width: 22 meters
+Jargon
+Flair: Back flip with a half-twist.
+Corked: Describes any kind of spin or flip that is performed between the vertical and horizontal axes (either upright or inverted).
+McTwist: Tilted front flip with one-and-a half spins.
+540, 720, 900, 1080: 1.5, 2, 2.5 and 3 spins, respectively.
+Grab : Any part of the ski or binding that is grabbed by the hand — there are Tail, Mute, Japan and Toxic grabs in addition to a whole mess of others, all which add flavor to the tricks. Most halfpipe tricks include grabs.
+Ally-Oop: A trick that spins away from the fall line of the pipe.
+Coping: The edge of the pipe.
+Deck: The flat areas on the sides of the pipe.
+Walls: The sides of the pipe.
+Flat: The bottom of the pipe.
+Transition: The area between the Wall and the Flat.
+
+
+Equipment:
+Skis
+Ski Poles
+Helmet
+Boots
+Ski Wear
+</string>
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Slopestyle</string>
 				<key>Rules</key>
-				<string></string>
+				<string>Scoring:
+Amplitude: How much air athletes get out of the pipe
+DD: The degree of difficulty of the tricks they perform
+Execution: How well the athletes perform their tricks
+Overall: The whole package, including the athlete’s personality and style. This includes the grabs and positions that athletes add to the tricks to make them their own
+</string>
 				<key>Description</key>
-				<string></string>
+				<string>Freestyle Skiing is a form of skiing which originally encompassed three disciplines: aerials, moguls, and ski ballet. Today, freestyle skiing consists of aerial, moguls, skicross, boardercross, Ski half-pipe, Snowboard half-pipe and Slopestyle and have become part of the Olympics.
+Freestyle skiing first began to be contested seriously in the 1960s and early 1970s, when it was often known as &quot;hot-dogging.&quot; Bob Burns, who later went on to create The Ski brand skis, pioneered this style in Sun Valley, Idaho, beginning in 1965. Freestyle skiing began in the 1930s, when Norwegian skiers began performing acrobatics during alpine and cross-country training. Later, non-competitive professional skiing exhibitions in the United States featured performances of what would later be called freestyle. Aerial skiing was developed in about 1950 by Olympic gold medalist Stein Eriksen.
+
+Slopestyle
+Ski slopestyle makes its Olympic debut in 2014
+Slopestyle athletes make their way down, through and over a course comprised of a variety of obstacles including rails, jumps and other terrain park features — scoring points for amplitude, originality and quality of tricks. The discipline has its roots in action sports like skateboarding and BMX biking and has very successfully crossed over into the snow sports worlds of skiing and snowboard.
+Slopestyle is one of the most accessible snow sports, as virtually every ski resort has a terrain park where aspiring athletes can learn to jump, slide and jib.
+Already an X Games and Dew Tour favorite, the Olympic Games will become the jewel in the crown of this burgeoning sport that has seen its tricks evolve year after year.
+Slopestyle tricks fall mainly into four categories: spins, grinds, grabs and flips.
+Jargon
+Slopestyle has a language all its own with new names for tricks and features evolving every season. Here are a few terms to get you started:
+Switch : Taking off or landing a a jump backwards.
+Leftside/Rightside: The direction in which athletes spin
+Switchup: After locking on to a rail, hoping off a rail, rotating and landing back on the rail
+Locking on: An athlete has placed themselves on a rail with strong balance and control
+Rodeo : Backwards initiated off-axis flip
+Grab : Any part of the ski or binding that is grabbed by the hand — there are Tail, Mute, Japan and Toxic grabs in addition to a whole mess of others, all which add flavor to the tricks
+Corked: Describes any kind of spin or flip that is performed between the vertical and horizontal axes (either upright or inverted).
+540, 720, 900, 1080: 1.5, 2, 2.5 and 3 spins, respectively.
+
+
+Equipment:
+Skis
+Ski Poles
+Helmet
+Boots
+Ski Wear
+</string>
 			</dict>
 		</array>
 		<key>Womens</key>
 		<array>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Aerials</string>
 				<key>Rules</key>
-				<string></string>
+				<string>Scoring:
+Skiers are judged on a cumulative score of two jumps. These scores do not generally carry over to the next round.
+Based on jump takeoff (20%)
+Jump Form (50%)
+Landing (30%)
+A degree of difficulty (DD) is then factored in for a total score.
+</string>
 				<key>Description</key>
-				<string></string>
+				<string>Freestyle Skiing is a form of skiing which originally encompassed three disciplines: aerials, moguls, and ski ballet. Today, freestyle skiing consists of aerial, moguls, skicross, boardercross, Ski half-pipe, Snowboard half-pipe and Slopestyle and have become part of the Olympics.
+Freestyle skiing first began to be contested seriously in the 1960s and early 1970s, when it was often known as &quot;hot-dogging.&quot; Bob Burns, who later went on to create The Ski brand skis, pioneered this style in Sun Valley, Idaho, beginning in 1965. Freestyle skiing began in the 1930s, when Norwegian skiers began performing acrobatics during alpine and cross-country training. Later, non-competitive professional skiing exhibitions in the United States featured performances of what would later be called freestyle. Aerial skiing was developed in about 1950 by Olympic gold medalist Stein Eriksen.
+
+Aerials:
+Aerialists ski off 2-4 meter jumps, built completely out of snow using a wood form during the construction period, that propel them up to 6 meters in the air (which can be up to 20 meters above the landing height, given the landing slope).[2] Once in the air, professional aerialists perform multiple somersaults and twists before landing on a 34 to 39-degree inclined landing hill about 30 meters in length. 
+There are two varieties of aerial skiing competitions: upright and inverted. In upright aerials, movements in which a skier&apos;s feet come higher than his or her head are illegal. This is the most common type of aerials competition for junior competitors. In inverted aerials, skiers execute elaborate somersaults and twists. 
+
+Equipment:
+Skis
+Ski Poles
+Helmet
+Boots
+Ski Wear
+</string>
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Moguls</string>
 				<key>Rules</key>
-				<string></string>
+				<string>Scoring:
+Each run will be judged on two components by a panel of seven judges using a split scoring system. In addition, each run will be timed, with speed making up the remainder of a competitor’s score.
+Based on Turns (50%)
+Air (25)
+Speed (25%)
+</string>
 				<key>Description</key>
-				<string></string>
+				<string>Freestyle Skiing is a form of skiing which originally encompassed three disciplines: aerials, moguls, and ski ballet. Today, freestyle skiing consists of aerial, moguls, skicross, boardercross, Ski half-pipe, Snowboard half-pipe and Slopestyle and have become part of the Olympics.
+Freestyle skiing first began to be contested seriously in the 1960s and early 1970s, when it was often known as &quot;hot-dogging.&quot; Bob Burns, who later went on to create The Ski brand skis, pioneered this style in Sun Valley, Idaho, beginning in 1965. Freestyle skiing began in the 1930s, when Norwegian skiers began performing acrobatics during alpine and cross-country training. Later, non-competitive professional skiing exhibitions in the United States featured performances of what would later be called freestyle. Aerial skiing was developed in about 1950 by Olympic gold medalist Stein Eriksen.
+
+MOGUL:
+Moguls are a series of bumps on a trail formed when skiers push the snow into mounds or piles as they execute short-radius turns. They can also be constructed (seeded) on a slope for freestyle skiing competitions or practice runs. Once formed, a naturally occurring mogul tends to grow as skiers follow similar paths around it, further deepening the surrounding grooves known as troughs. Since skiing tends to be a series of linked turns, moguls form together to create a bump field. At most ski resorts certain pistes (trails) are groomed infrequently or left completely ungroomed to allow moguls to develop. These mogul trails are generally relatively steep. Some trails cannot be groomed because they are too steep, too narrow, or they have obstacles that cannot be overcome by a snowcat. Such trails often form moguls. Mogul trails that can be groomed are usually groomed when the moguls get so big and the troughs so deep that the moguls become difficult to ski on or around. Some mogul fields are also groomed when they become too icy or too hardened to ski safely and enjoyably. Many times a section of a trail will be left ungroomed and allowed to bump up to prevent skiers from gaining too much speed and getting out of control.
+
+
+Equipment:
+Skis
+Ski Poles
+Helmet
+Boots
+Ski Wear
+</string>
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Ski Cross</string>
 				<key>Rules</key>
 				<string></string>
 				<key>Description</key>
-				<string></string>
+				<string>Freestyle Skiing is a form of skiing which originally encompassed three disciplines: aerials, moguls, and ski ballet. Today, freestyle skiing consists of aerial, moguls, skicross, boardercross, Ski half-pipe, Snowboard half-pipe and Slopestyle and have become part of the Olympics.
+Freestyle skiing first began to be contested seriously in the 1960s and early 1970s, when it was often known as &quot;hot-dogging.&quot; Bob Burns, who later went on to create The Ski brand skis, pioneered this style in Sun Valley, Idaho, beginning in 1965. Freestyle skiing began in the 1930s, when Norwegian skiers began performing acrobatics during alpine and cross-country training. Later, non-competitive professional skiing exhibitions in the United States featured performances of what would later be called freestyle. Aerial skiing was developed in about 1950 by Olympic gold medalist Stein Eriksen.
+
+SKI CROSS:
+Ski cross (also known as Skiercross or SkierX) is a type of skiing competition. It is based on the snowboarding discipline of boardercross. Despite it being a timed racing event, it is often considered part of freestyle skiing because it incorporates terrain features traditionally found in freestyle.
+In a time trial or qualification round, every competitor skis down the course, which is built to encompass both naturally occurring terrain and artificial features like jumps, rollers, banks — whatever the course builder can imagine. After the time trial, the fastest 32 skiers (fastest 16 if not 32 competitors) compete in a knockout (KO)-style series in rounds of four. A group of four skiers start simultaneously and attempt to reach the end of the course. The first two to cross the finish line will advance to the next round. At the end, the final and small final rounds determine 1st to 4th and 5th to 8th places, respectively.
+Competitors are not allowed to pull or push each other during the KO finals. Any intentional contact to the other competitors will be penalized by disqualification or exclusion from the next race.
+Ski cross is a new Olympic event and is currently under the banner of Freestyle skiing even though it is a race without a judged component.
+
+
+Equipment:
+Skis
+Ski Poles
+Helmet
+Boots
+Ski Wear
+</string>
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Halfpipe</string>
 				<key>Rules</key>
-				<string></string>
+				<string>Scoring:
+Amplitude: How much air athletes get out of the pipe
+DD: The degree of difficulty of the tricks they perform
+Execution: How well the athletes perform their tricks
+Overall: The whole package, including the athlete’s personality and style. This includes the grabs and positions that athletes add to the tricks to make them their own
+</string>
 				<key>Description</key>
-				<string></string>
+				<string>Freestyle Skiing is a form of skiing which originally encompassed three disciplines: aerials, moguls, and ski ballet. Today, freestyle skiing consists of aerial, moguls, skicross, boardercross, Ski half-pipe, Snowboard half-pipe and Slopestyle and have become part of the Olympics.
+Freestyle skiing first began to be contested seriously in the 1960s and early 1970s, when it was often known as &quot;hot-dogging.&quot; Bob Burns, who later went on to create The Ski brand skis, pioneered this style in Sun Valley, Idaho, beginning in 1965. Freestyle skiing began in the 1930s, when Norwegian skiers began performing acrobatics during alpine and cross-country training. Later, non-competitive professional skiing exhibitions in the United States featured performances of what would later be called freestyle. Aerial skiing was developed in about 1950 by Olympic gold medalist Stein Eriksen.
+
+Halfpipe
+Ski halfpipe makes its Olympic debut in 2014
+Halfpipes originated from surfing and then skateboarding when surfers in California decided that trying to skate in some huge storm drains and empty swimming pools might be a fun thing to do when the waves weren’t pumping. This eventually evolved into skate-specific halfpipe so the athletes could “drop in” (start off on the lip of the pipe).
+Skateboarding moved over to the white waves when the snowboard was introduced and the boarders decided they wanted to bring what they had perfected on concrete over to the snow. To make a long story short, skiers saw the boarders flying out of the pipe and felt the desire to go higher. Voila! A new discipline was born.
+As the sport has evolved, so have the tricks. Whereas a few years ago 1 1/2 spins and a bunch of grabs were the tricks of the day, now it is not uncommon to see two or three tricks involving two-and-a-half spins as well as double flips or variations of singles in one run. To match the evolution of the tricks, the pipe has been getting bigger and the standard competition pipe is now 22 meters wide..
+Pipe Specs (Average)
+Length: 150 meters
+Slope: 16 degrees
+Vertical incline: 83 degrees
+Width: 22 meters
+Jargon
+Flair: Back flip with a half-twist.
+Corked: Describes any kind of spin or flip that is performed between the vertical and horizontal axes (either upright or inverted).
+McTwist: Tilted front flip with one-and-a half spins.
+540, 720, 900, 1080: 1.5, 2, 2.5 and 3 spins, respectively.
+Grab : Any part of the ski or binding that is grabbed by the hand — there are Tail, Mute, Japan and Toxic grabs in addition to a whole mess of others, all which add flavor to the tricks. Most halfpipe tricks include grabs.
+Ally-Oop: A trick that spins away from the fall line of the pipe.
+Coping: The edge of the pipe.
+Deck: The flat areas on the sides of the pipe.
+Walls: The sides of the pipe.
+Flat: The bottom of the pipe.
+Transition: The area between the Wall and the Flat.
+
+
+Equipment:
+Skis
+Ski Poles
+Helmet
+Boots
+Ski Wear
+</string>
 			</dict>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Slopestyle</string>
 				<key>Rules</key>
-				<string></string>
+				<string>Scoring:
+Amplitude: How much air athletes get out of the pipe
+DD: The degree of difficulty of the tricks they perform
+Execution: How well the athletes perform their tricks
+Overall: The whole package, including the athlete’s personality and style. This includes the grabs and positions that athletes add to the tricks to make them their own
+</string>
 				<key>Description</key>
-				<string></string>
+				<string>Freestyle Skiing is a form of skiing which originally encompassed three disciplines: aerials, moguls, and ski ballet. Today, freestyle skiing consists of aerial, moguls, skicross, boardercross, Ski half-pipe, Snowboard half-pipe and Slopestyle and have become part of the Olympics.
+Freestyle skiing first began to be contested seriously in the 1960s and early 1970s, when it was often known as &quot;hot-dogging.&quot; Bob Burns, who later went on to create The Ski brand skis, pioneered this style in Sun Valley, Idaho, beginning in 1965. Freestyle skiing began in the 1930s, when Norwegian skiers began performing acrobatics during alpine and cross-country training. Later, non-competitive professional skiing exhibitions in the United States featured performances of what would later be called freestyle. Aerial skiing was developed in about 1950 by Olympic gold medalist Stein Eriksen.
+
+Slopestyle
+Ski slopestyle makes its Olympic debut in 2014
+Slopestyle athletes make their way down, through and over a course comprised of a variety of obstacles including rails, jumps and other terrain park features — scoring points for amplitude, originality and quality of tricks. The discipline has its roots in action sports like skateboarding and BMX biking and has very successfully crossed over into the snow sports worlds of skiing and snowboard.
+Slopestyle is one of the most accessible snow sports, as virtually every ski resort has a terrain park where aspiring athletes can learn to jump, slide and jib.
+Already an X Games and Dew Tour favorite, the Olympic Games will become the jewel in the crown of this burgeoning sport that has seen its tricks evolve year after year.
+Slopestyle tricks fall mainly into four categories: spins, grinds, grabs and flips.
+Jargon
+Slopestyle has a language all its own with new names for tricks and features evolving every season. Here are a few terms to get you started:
+Switch : Taking off or landing a a jump backwards.
+Leftside/Rightside: The direction in which athletes spin
+Switchup: After locking on to a rail, hoping off a rail, rotating and landing back on the rail
+Locking on: An athlete has placed themselves on a rail with strong balance and control
+Rodeo : Backwards initiated off-axis flip
+Grab : Any part of the ski or binding that is grabbed by the hand — there are Tail, Mute, Japan and Toxic grabs in addition to a whole mess of others, all which add flavor to the tricks
+Corked: Describes any kind of spin or flip that is performed between the vertical and horizontal axes (either upright or inverted).
+540, 720, 900, 1080: 1.5, 2, 2.5 and 3 spins, respectively.
+
+
+Equipment:
+Skis
+Ski Poles
+Helmet
+Boots
+Ski Wear
+</string>
 			</dict>
 		</array>
 	</dict>
